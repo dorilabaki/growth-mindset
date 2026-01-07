@@ -4,6 +4,10 @@ import { Breadcrumbs } from '@/components/Breadcrumbs'
 import { AnimatedSection } from '@/components/AnimatedSection'
 import { Button } from '@/components/Button'
 import { articles } from '@/lib/content'
+import { marked } from 'marked'
+
+// Configure marked for synchronous parsing
+marked.use({ async: false })
 
 interface Props {
   params: Promise<{ slug: string }>
@@ -115,7 +119,7 @@ export default async function ArticlePage({ params }: Props) {
               </div>
             </header>
 
-            <div className="prose max-w-none" dangerouslySetInnerHTML={{ __html: formatContent(article.content) }} />
+            <div className="prose prose-lg max-w-none prose-headings:font-display prose-headings:text-neutral-950 prose-h2:text-2xl prose-h2:mt-8 prose-h2:mb-4 prose-h3:text-xl prose-h3:mt-6 prose-h3:mb-3 prose-p:text-neutral-600 prose-p:mb-4 prose-a:text-primary-600 prose-strong:text-neutral-900 prose-li:text-neutral-600 prose-ul:my-4 prose-ol:my-4 prose-hr:my-8 prose-table:my-6 prose-th:bg-neutral-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-neutral-200" dangerouslySetInnerHTML={{ __html: marked.parse(article.content) as string }} />
 
             {/* FAQ Section */}
             {article.faqs && article.faqs.length > 0 && (
@@ -185,37 +189,3 @@ export default async function ArticlePage({ params }: Props) {
   )
 }
 
-function formatContent(content: string): string {
-  // Simple markdown-like formatting for the content
-  return content
-    .split('\n\n')
-    .map((paragraph) => {
-      // Handle headings
-      if (paragraph.startsWith('## ')) {
-        return `<h2>${paragraph.slice(3)}</h2>`
-      }
-      if (paragraph.startsWith('### ')) {
-        return `<h3>${paragraph.slice(4)}</h3>`
-      }
-      // Handle lists
-      if (paragraph.includes('\n- ')) {
-        const items = paragraph.split('\n- ').filter(Boolean)
-        const intro = items[0].includes('- ') ? '' : `<p>${items.shift()}</p>`
-        return `${intro}<ul>${items.map((item) => `<li>${item.replace(/^- /, '')}</li>`).join('')}</ul>`
-      }
-      // Handle tables (simple)
-      if (paragraph.includes('|')) {
-        const rows = paragraph.trim().split('\n')
-        const headerRow = rows[0].split('|').filter(Boolean).map((cell) => cell.trim())
-        const dataRows = rows.slice(2).map((row) => row.split('|').filter(Boolean).map((cell) => cell.trim()))
-        return `<table><thead><tr>${headerRow.map((h) => `<th>${h}</th>`).join('')}</tr></thead><tbody>${dataRows.map((row) => `<tr>${row.map((cell) => `<td>${cell}</td>`).join('')}</tr>`).join('')}</tbody></table>`
-      }
-      // Handle bold
-      const formatted = paragraph.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-      if (formatted.trim()) {
-        return `<p>${formatted}</p>`
-      }
-      return ''
-    })
-    .join('')
-}
