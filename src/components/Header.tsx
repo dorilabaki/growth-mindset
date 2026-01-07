@@ -30,7 +30,7 @@ export function Header() {
               height={44}
               className="rounded-xl shadow-md group-hover:shadow-lg transition-shadow"
             />
-            <span className="font-display font-bold text-xl text-neutral-900">
+            <span className="font-display font-bold text-sm sm:text-xl text-neutral-900 leading-tight">
               Growth Mindset
             </span>
           </Link>

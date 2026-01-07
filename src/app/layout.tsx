@@ -17,7 +17,7 @@ const plusJakarta = Plus_Jakarta_Sans({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://growthmindset.com'),
+  metadataBase: new URL('https://growthmindset.academy'),
   title: {
     default: 'Growth Mindset | Transform Your Potential Through Personal Development',
     template: '%s | Growth Mindset',
@@ -29,15 +29,15 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://growthmindset.com',
+    url: 'https://growthmindset.academy',
     siteName: 'Growth Mindset',
     title: 'Growth Mindset | Transform Your Potential',
     description: 'Join 204,000+ followers learning to develop a growth mindset.',
     images: [
       {
-        url: '/og-image.png',
-        width: 1200,
-        height: 630,
+        url: '/logo.jpeg',
+        width: 400,
+        height: 400,
         alt: 'Growth Mindset',
       },
     ],
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Growth Mindset | Transform Your Potential',
     description: 'Join 204,000+ followers learning to develop a growth mindset.',
-    images: ['/og-image.png'],
+    images: ['/logo.jpeg'],
   },
   robots: {
     index: true,
@@ -87,8 +87,8 @@ function OrganizationSchema() {
     '@context': 'https://schema.org',
     '@type': 'Organization',
     name: 'Growth Mindset',
-    url: 'https://growthmindset.com',
-    logo: 'https://growthmindset.com/logo.png',
+    url: 'https://growthmindset.academy',
+    logo: 'https://growthmindset.academy/logo.png',
     description: 'A leading personal development platform helping people develop a growth mindset and achieve their full potential.',
     foundingDate: '2020',
     sameAs: [
@@ -97,7 +97,7 @@ function OrganizationSchema() {
     contactPoint: {
       '@type': 'ContactPoint',
       contactType: 'customer service',
-      url: 'https://growthmindset.com/contact',
+      url: 'https://growthmindset.academy/contact',
     },
     numberOfEmployees: {
       '@type': 'QuantitativeValue',

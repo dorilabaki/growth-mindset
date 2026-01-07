@@ -2,7 +2,7 @@ import type { MetadataRoute } from 'next'
 import { articles, guides, glossaryTerms } from '@/lib/content'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://growthmindset.com'
+  const baseUrl = 'https://growthmindset.academy'
 
   // Static pages
   const staticPages: MetadataRoute.Sitemap = [
