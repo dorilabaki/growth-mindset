@@ -51,7 +51,7 @@ export function Footer() {
             </p>
             <div className="flex items-center gap-4">
               <a
-                href="https://www.linkedin.com/company/growth-mindset"
+                href="https://www.linkedin.com/company/growth-mindset-big-brain/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 flex items-center justify-center rounded-lg bg-primary-800 hover:bg-accent-500 text-primary-300 hover:text-white transition-colors"

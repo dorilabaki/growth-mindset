@@ -96,7 +96,7 @@ export default function FeedPage() {
                   <span className="font-medium">{post.comments.toLocaleString()}</span>
                 </button>
                 <a
-                  href="https://www.linkedin.com/company/growth-mindset"
+                  href="https://www.linkedin.com/company/growth-mindset-big-brain/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="ml-auto flex items-center gap-2 text-[#0A66C2] hover:text-[#004182] transition-colors text-sm font-medium"
@@ -120,7 +120,7 @@ export default function FeedPage() {
             Follow us on LinkedIn for daily growth mindset content, tips, and motivation.
           </p>
           <a
-            href="https://www.linkedin.com/company/growth-mindset"
+            href="https://www.linkedin.com/company/growth-mindset-big-brain/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 px-6 py-3 bg-[#0A66C2] hover:bg-[#004182] text-white font-semibold rounded-xl transition-colors"

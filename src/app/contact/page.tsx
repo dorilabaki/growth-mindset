@@ -65,7 +65,7 @@ export default function ContactPage() {
                 <div>
                   <h3 className="font-semibold text-neutral-900 mb-1">LinkedIn</h3>
                   <a
-                    href="https://www.linkedin.com/company/growth-mindset"
+                    href="https://www.linkedin.com/company/growth-mindset-big-brain/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-[#0A66C2] hover:underline"

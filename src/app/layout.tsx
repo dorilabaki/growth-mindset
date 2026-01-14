@@ -108,7 +108,7 @@ function OrganizationSchema() {
     description: 'A leading personal development platform helping people develop a growth mindset and achieve their full potential.',
     foundingDate: '2020',
     sameAs: [
-      'https://www.linkedin.com/company/growth-mindset',
+      'https://www.linkedin.com/company/growth-mindset-big-brain/',
     ],
     contactPoint: {
       '@type': 'ContactPoint',

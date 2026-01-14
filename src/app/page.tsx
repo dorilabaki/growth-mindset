@@ -323,7 +323,7 @@ export default function HomePage() {
               </p>
             </div>
             <a
-              href="https://www.linkedin.com/company/growth-mindset"
+              href="https://www.linkedin.com/company/growth-mindset-big-brain/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 px-6 py-3 bg-accent-500 hover:bg-accent-600 text-white font-semibold rounded-xl transition-colors"
