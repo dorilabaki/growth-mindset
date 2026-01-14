@@ -277,7 +277,7 @@ These seven habits may seem simple individually, but their combined effect is tr
   {
     slug: 'neuroplasticity-brain-change',
     title: 'Neuroplasticity: Your Brain Can Change at Any Age',
-    description: 'Explore the science of neuroplasticity and how understanding your brain can empower your personal growth journey.',
+    description: 'Explore the science of neuroplasticity and how understanding your brain supports lasting personal change.',
     category: 'Science',
     readTime: '6 min read',
     date: '2024-01-01',
@@ -357,7 +357,7 @@ Novel experiences stimulate brain growth. Travel, learn new skills, meet new peo
 
 ## Conclusion
 
-Neuroplasticity is perhaps the most empowering scientific discovery of our time. It proves that you're not stuck with the brain you have—you can actively shape it through your choices, habits, and mindset. Every time you learn something new, challenge yourself, or persist through difficulty, you're literally building a better brain.
+Neuroplasticity changes how we think about human potential. It proves that you're not stuck with the brain you have. You can actively shape it through your choices, habits, and mindset. Every time you learn something new, challenge yourself, or persist through difficulty, you're literally building a better brain.
     `,
     faqs: [
       {
@@ -1303,12 +1303,12 @@ export const faqs: FAQ[] = [
   },
   {
     question: 'Is growth mindset scientifically proven?',
-    answer: 'Yes, growth mindset is supported by significant scientific research. Dr. Carol Dweck and colleagues have conducted numerous studies showing that students taught about brain plasticity and the ability to grow intelligence showed greater academic improvement than control groups. Neuroplasticity research further supports the biological basis for growth mindset.',
+    answer: 'Yes, growth mindset is supported by peer-reviewed research. Dr. Carol Dweck\\'s studies at Stanford found that students taught about brain plasticity showed measurable academic improvement. In one study, seventh graders who learned about neuroplasticity earned higher math grades than control groups. Neuroplasticity research further supports the biological basis for growth mindset.',
     category: 'Research',
   },
   {
     question: 'Can growth mindset improve workplace performance?',
-    answer: 'Research shows growth mindset significantly impacts workplace performance. Employees with growth mindsets are more likely to seek challenges, persist through setbacks, embrace feedback, and continuously develop new skills. Organizations that foster growth mindset culture see improved innovation, collaboration, and employee development.',
+    answer: 'Studies in organizational psychology show growth mindset improves workplace performance. Employees with growth mindsets are more likely to seek challenges, persist through setbacks, embrace feedback, and continuously develop new skills. A Harvard Business Review study found that employees at growth-mindset companies were 47% more likely to say their colleagues are trustworthy.',
     category: 'Application',
   },
   {

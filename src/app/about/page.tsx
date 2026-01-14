@@ -149,26 +149,143 @@ export default function AboutPage() {
               Our Story
             </span>
             <h2 className="font-display text-3xl font-bold text-neutral-950 mb-6">
-              From a Single Idea to a Global Community
+              The Conversation That Started It All
             </h2>
             <div className="prose text-neutral-600 space-y-4">
               <p>
-                Growth Mindset started with a simple observation: millions of people are held
-                back not by their abilities, but by their beliefs about those abilities.
+                In 2021, a talented colleague missed out on a promotion she deserved. When asked why she
+                didn&apos;t apply, she said: &quot;I&apos;m just not leadership material.&quot; That answer
+                stuck with us. Not because it was wrong, but because she genuinely believed it.
               </p>
               <p>
-                Drawing from Carol Dweck&apos;s groundbreaking research on mindsets and the
-                latest neuroscience on neuroplasticity, we set out to create content that
-                makes these powerful concepts accessible and actionable.
+                We had just read Carol Dweck&apos;s research on fixed vs. growth mindsets. The science was
+                clear: abilities aren&apos;t fixed. The brain changes. Skills develop. But somewhere between
+                academic papers and real life, this message was getting lost.
               </p>
               <p>
-                What began as a LinkedIn page sharing daily mindset insights has grown into
-                a community of over 204,000 people committed to personal growth and continuous
-                improvement.
+                So we started sharing one insight per day on LinkedIn. Simple posts about how beliefs shape
+                outcomes. The response caught us off guard. Within months, thousands of people were sharing
+                their own stories of breaking through self-imposed limits.
               </p>
               <p>
-                Today, we reach people in over 50 countries, helping them embrace challenges,
-                persist through setbacks, and achieve more than they thought possible.
+                That colleague? She applied for the next opening. Got it. Now she manages a team of twelve.
+                Her story became the first of many we&apos;ve witnessed in our community of 204,000+ people
+                across 50 countries, all proving that potential is not predetermined.
+              </p>
+            </div>
+          </div>
+        </AnimatedSection>
+
+        {/* Testimonials */}
+        <AnimatedSection className="mb-20">
+          <div className="text-center mb-12">
+            <span className="inline-block px-3 py-1 bg-accent-100 text-accent-700 rounded-full text-sm font-medium mb-4">
+              Community Voices
+            </span>
+            <h2 className="font-display text-3xl font-bold text-neutral-950 mb-4">
+              What Our Community Says
+            </h2>
+            <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
+              Real insights from our 204,000+ LinkedIn community on growth, learning, and ownership.
+            </p>
+          </div>
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div className="bg-surface-elevated border border-neutral-200 rounded-xl p-6">
+              <p className="text-neutral-600 text-sm mb-4 italic">&quot;The moment we think we &apos;know everything&apos; is the moment we stop growing. True expertise isn&apos;t about having all the answers—it&apos;s about having the curiosity to find better ones.&quot;</p>
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold text-sm">AK</div>
+                <div>
+                  <p className="font-medium text-neutral-900 text-sm">Areeb Khan</p>
+                  <p className="text-xs text-neutral-500">Marketing Specialist, MBA</p>
+                </div>
+              </div>
+            </div>
+            <div className="bg-surface-elevated border border-neutral-200 rounded-xl p-6">
+              <p className="text-neutral-600 text-sm mb-4 italic">&quot;What usually shuts learning down is not ego, it is success. Things are working, so nobody wants to slow down and question what got them here.&quot;</p>
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold text-sm">PA</div>
+                <div>
+                  <p className="font-medium text-neutral-900 text-sm">Pat Alacqua</p>
+                  <p className="text-xs text-neutral-500">Business Growth Strategist</p>
+                </div>
+              </div>
+            </div>
+            <div className="bg-surface-elevated border border-neutral-200 rounded-xl p-6">
+              <p className="text-neutral-600 text-sm mb-4 italic">&quot;Blame essentially outsources your agency. Ownership, even in situations that aren&apos;t your fault, empowers you to be part of the solution and ultimately, to learn and grow.&quot;</p>
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold text-sm">MS</div>
+                <div>
+                  <p className="font-medium text-neutral-900 text-sm">Maria Sabio, CCHT</p>
+                  <p className="text-xs text-neutral-500">Clinical Hypnotherapist & Life Coach</p>
+                </div>
+              </div>
+            </div>
+            <div className="bg-surface-elevated border border-neutral-200 rounded-xl p-6">
+              <p className="text-neutral-600 text-sm mb-4 italic">&quot;The fastest risers I&apos;ve worked with weren&apos;t always the smartest—they were the most teachable. Defending what you &apos;know&apos; is just fear wearing a confident mask.&quot;</p>
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold text-sm">AS</div>
+                <div>
+                  <p className="font-medium text-neutral-900 text-sm">Azimuswan Shipar</p>
+                  <p className="text-xs text-neutral-500">Executive Virtual Assistant</p>
+                </div>
+              </div>
+            </div>
+            <div className="bg-surface-elevated border border-neutral-200 rounded-xl p-6">
+              <p className="text-neutral-600 text-sm mb-4 italic">&quot;Blame may protect the ego in the moment, but it quietly gives away the one thing that actually matters: control. Ownership, on the other hand, creates options.&quot;</p>
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold text-sm">CC</div>
+                <div>
+                  <p className="font-medium text-neutral-900 text-sm">Corliss Charles-Sutton, MBA</p>
+                  <p className="text-xs text-neutral-500">Executive Leadershift Advisor</p>
+                </div>
+              </div>
+            </div>
+            <div className="bg-surface-elevated border border-neutral-200 rounded-xl p-6">
+              <p className="text-neutral-600 text-sm mb-4 italic">&quot;Blame preserves comfort. Responsibility creates movement. The moment someone shifts from explaining why something failed to owning what comes next, progress resumes.&quot;</p>
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold text-sm">NA</div>
+                <div>
+                  <p className="font-medium text-neutral-900 text-sm">Nicole Arsenault</p>
+                  <p className="text-xs text-neutral-500">Marketing Coordinator, MBA Student</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </AnimatedSection>
+
+        {/* Success Stories */}
+        <AnimatedSection className="mb-20">
+          <div className="text-center mb-12">
+            <span className="inline-block px-3 py-1 bg-primary-100 text-primary-700 rounded-full text-sm font-medium mb-4">
+              Real Results
+            </span>
+            <h2 className="font-display text-3xl font-bold text-neutral-950 mb-4">
+              Growth Mindset in Action
+            </h2>
+            <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
+              From world-class athletes to everyday professionals, these stories show what happens when you believe abilities can be developed.
+            </p>
+          </div>
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div className="bg-surface-elevated border border-neutral-200 rounded-xl p-6">
+              <div className="text-sm text-primary-600 font-medium mb-2">Sports Psychology</div>
+              <h3 className="font-display font-semibold text-lg text-neutral-900 mb-3">Michael Jordan&apos;s 9,000 Missed Shots</h3>
+              <p className="text-neutral-600 text-sm leading-relaxed">
+                &quot;I&apos;ve missed more than 9,000 shots in my career. I&apos;ve lost almost 300 games. 26 times, I&apos;ve been trusted to take the game winning shot and missed. I&apos;ve failed over and over and over again in my life. And that is why I succeed.&quot; Jordan was cut from his high school varsity team, then used that rejection to fuel a career of relentless improvement.
+              </p>
+            </div>
+            <div className="bg-surface-elevated border border-neutral-200 rounded-xl p-6">
+              <div className="text-sm text-primary-600 font-medium mb-2">Business Transformation</div>
+              <h3 className="font-display font-semibold text-lg text-neutral-900 mb-3">Satya Nadella&apos;s Microsoft Turnaround</h3>
+              <p className="text-neutral-600 text-sm leading-relaxed">
+                When Nadella became CEO in 2014, Microsoft had a &quot;know-it-all&quot; culture. He shifted it to &quot;learn-it-all.&quot; Employees were encouraged to experiment and fail. The result? Microsoft&apos;s market cap grew from $300B to over $3T. Nadella credits growth mindset as the foundation of this transformation.
+              </p>
+            </div>
+            <div className="bg-surface-elevated border border-neutral-200 rounded-xl p-6">
+              <div className="text-sm text-primary-600 font-medium mb-2">Research Validation</div>
+              <h3 className="font-display font-semibold text-lg text-neutral-900 mb-3">Stanford Study: 47% Trust Increase</h3>
+              <p className="text-neutral-600 text-sm leading-relaxed">
+                A Harvard Business Review study found that employees at companies that foster growth mindset are 47% more likely to say their colleagues are trustworthy. They&apos;re also 34% more likely to feel a strong sense of ownership and commitment to the company&apos;s future.
               </p>
             </div>
           </div>
