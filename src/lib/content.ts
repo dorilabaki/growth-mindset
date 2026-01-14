@@ -1303,7 +1303,7 @@ export const faqs: FAQ[] = [
   },
   {
     question: 'Is growth mindset scientifically proven?',
-    answer: 'Yes, growth mindset is supported by peer-reviewed research. Dr. Carol Dweck\\'s studies at Stanford found that students taught about brain plasticity showed measurable academic improvement. In one study, seventh graders who learned about neuroplasticity earned higher math grades than control groups. Neuroplasticity research further supports the biological basis for growth mindset.',
+    answer: "Yes, growth mindset is supported by peer-reviewed research. Dr. Carol Dweck's studies at Stanford found that students taught about brain plasticity showed measurable academic improvement. In one study, seventh graders who learned about neuroplasticity earned higher math grades than control groups. Neuroplasticity research further supports the biological basis for growth mindset.",
     category: 'Research',
   },
   {
