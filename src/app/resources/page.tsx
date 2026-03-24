@@ -32,7 +32,7 @@ export default function ResourcesPage() {
                 <CardTag variant="primary">{article.category}</CardTag>
                 <CardTitle>{article.title}</CardTitle>
                 <CardDescription>{article.description}</CardDescription>
-                <div className="mt-4 pt-4 border-t border-neutral-100 flex items-center justify-between text-sm text-neutral-500">
+                <div className="mt-4 pt-4 border-t border-neutral-100 flex items-center justify-between text-sm text-neutral-600">
                   <span>{article.readTime}</span>
                   <span>{new Date(article.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}</span>
                 </div>

@@ -48,6 +48,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: '/',
       },
     ],
-    sitemap: 'https://growthmindset.com/sitemap.xml',
+    sitemap: 'https://growthmindset.academy/sitemap.xml',
   }
 }

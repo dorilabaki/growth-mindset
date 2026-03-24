@@ -6,6 +6,17 @@ import { Button } from '@/components/Button'
 export const metadata: Metadata = {
   title: 'About Us',
   description: 'Learn about Growth Mindset, our mission to help 200,000+ people develop a growth mindset and achieve their full potential through personal development.',
+  openGraph: {
+    title: 'About Growth Mindset',
+    description: 'Learn about our mission to help 200,000+ people develop a growth mindset and achieve their full potential.',
+    type: 'website',
+    url: 'https://growthmindset.academy/about',
+  },
+  twitter: {
+    card: 'summary',
+    title: 'About Growth Mindset',
+    description: 'Learn about our mission to help 200,000+ people develop a growth mindset.',
+  },
 }
 
 const values = [
@@ -104,8 +115,8 @@ export default function AboutPage() {
             </p>
           </div>
           <div className="relative">
-            <div className="aspect-video bg-gradient-to-br from-primary-500 to-primary-700 rounded-2xl shadow-xl flex items-center justify-center">
-              <svg className="w-24 h-24 text-white/80" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={0.5}>
+            <div className="aspect-video bg-gradient-to-br from-primary-500 to-primary-700 rounded-2xl shadow-xl flex items-center justify-center" aria-hidden="true">
+              <svg className="w-24 h-24 text-white/80" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={0.5} aria-hidden="true">
                 <path strokeLinecap="round" strokeLinejoin="round" d="M2.25 18L9 11.25l4.306 4.307a11.95 11.95 0 015.814-5.519l2.74-1.22m0 0l-5.94-2.28m5.94 2.28l-2.28 5.941" />
               </svg>
             </div>
@@ -196,7 +207,7 @@ export default function AboutPage() {
                 <div className="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold text-sm">AK</div>
                 <div>
                   <p className="font-medium text-neutral-900 text-sm">Areeb Khan</p>
-                  <p className="text-xs text-neutral-500">Marketing Specialist, MBA</p>
+                  <p className="text-xs text-neutral-600">Marketing Specialist, MBA</p>
                 </div>
               </div>
             </div>
@@ -206,7 +217,7 @@ export default function AboutPage() {
                 <div className="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold text-sm">PA</div>
                 <div>
                   <p className="font-medium text-neutral-900 text-sm">Pat Alacqua</p>
-                  <p className="text-xs text-neutral-500">Business Growth Strategist</p>
+                  <p className="text-xs text-neutral-600">Business Growth Strategist</p>
                 </div>
               </div>
             </div>
@@ -216,7 +227,7 @@ export default function AboutPage() {
                 <div className="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold text-sm">MS</div>
                 <div>
                   <p className="font-medium text-neutral-900 text-sm">Maria Sabio, CCHT</p>
-                  <p className="text-xs text-neutral-500">Clinical Hypnotherapist & Life Coach</p>
+                  <p className="text-xs text-neutral-600">Clinical Hypnotherapist & Life Coach</p>
                 </div>
               </div>
             </div>
@@ -226,7 +237,7 @@ export default function AboutPage() {
                 <div className="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold text-sm">AS</div>
                 <div>
                   <p className="font-medium text-neutral-900 text-sm">Azimuswan Shipar</p>
-                  <p className="text-xs text-neutral-500">Executive Virtual Assistant</p>
+                  <p className="text-xs text-neutral-600">Executive Virtual Assistant</p>
                 </div>
               </div>
             </div>
@@ -236,7 +247,7 @@ export default function AboutPage() {
                 <div className="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold text-sm">CC</div>
                 <div>
                   <p className="font-medium text-neutral-900 text-sm">Corliss Charles-Sutton, MBA</p>
-                  <p className="text-xs text-neutral-500">Executive Leadershift Advisor</p>
+                  <p className="text-xs text-neutral-600">Executive Leadershift Advisor</p>
                 </div>
               </div>
             </div>
@@ -246,7 +257,7 @@ export default function AboutPage() {
                 <div className="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold text-sm">NA</div>
                 <div>
                   <p className="font-medium text-neutral-900 text-sm">Nicole Arsenault</p>
-                  <p className="text-xs text-neutral-500">Marketing Coordinator, MBA Student</p>
+                  <p className="text-xs text-neutral-600">Marketing Coordinator, MBA Student</p>
                 </div>
               </div>
             </div>
@@ -283,7 +294,7 @@ export default function AboutPage() {
             </div>
             <div className="bg-surface-elevated border border-neutral-200 rounded-xl p-6">
               <div className="text-sm text-primary-600 font-medium mb-2">Research Validation</div>
-              <h3 className="font-display font-semibold text-lg text-neutral-900 mb-3">Stanford Study: 47% Trust Increase</h3>
+              <h3 className="font-display font-semibold text-lg text-neutral-900 mb-3">HBR Study: 47% Trust Increase</h3>
               <p className="text-neutral-600 text-sm leading-relaxed">
                 A Harvard Business Review study found that employees at companies that foster growth mindset are 47% more likely to say their colleagues are trustworthy. They&apos;re also 34% more likely to feel a strong sense of ownership and commitment to the company&apos;s future.
               </p>
@@ -307,9 +318,10 @@ export default function AboutPage() {
               href="https://www.linkedin.com/company/growth-mindset-big-brain/"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="Follow Growth Mindset on LinkedIn (opens in new tab)"
               className="inline-flex items-center gap-3 px-6 py-3 bg-[#0A66C2] hover:bg-[#004182] text-white font-semibold rounded-xl transition-colors"
             >
-              <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+              <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
               </svg>
               Follow on LinkedIn

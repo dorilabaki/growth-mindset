@@ -26,6 +26,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${term.term} - Definition`,
     description: term.definition,
+    openGraph: {
+      title: `${term.term} - Growth Mindset Glossary`,
+      description: term.definition,
+      type: 'website',
+      url: `https://growthmindset.academy/glossary/${term.slug}`,
+    },
+    twitter: {
+      card: 'summary',
+      title: `${term.term} - Definition`,
+      description: term.definition,
+    },
   }
 }
 
@@ -45,7 +56,7 @@ export default async function TermPage({ params }: Props) {
     inDefinedTermSet: {
       '@type': 'DefinedTermSet',
       name: 'Growth Mindset Glossary',
-      url: 'https://growthmindset.com/glossary',
+      url: 'https://growthmindset.academy/glossary',
     },
   }
 

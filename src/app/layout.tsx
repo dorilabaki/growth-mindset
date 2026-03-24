@@ -104,7 +104,7 @@ function OrganizationSchema() {
     '@type': 'Organization',
     name: 'Growth Mindset',
     url: 'https://growthmindset.academy',
-    logo: 'https://growthmindset.academy/logo.png',
+    logo: 'https://growthmindset.academy/logo.jpeg',
     description: 'A leading personal development platform helping people develop a growth mindset and achieve their full potential.',
     foundingDate: '2020',
     sameAs: [

@@ -30,6 +30,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: article.title,
     description: article.description,
+    openGraph: {
+      title: article.title,
+      description: article.description,
+      type: 'article',
+      publishedTime: article.date,
+      url: `https://growthmindset.academy/resources/${article.slug}`,
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: article.title,
+      description: article.description,
+    },
   }
 }
 
@@ -46,18 +58,26 @@ export default async function ArticlePage({ params }: Props) {
     '@type': 'Article',
     headline: article.title,
     description: article.description,
+    url: `https://growthmindset.academy/resources/${article.slug}`,
     datePublished: article.date,
+    dateModified: article.date,
     author: {
       '@type': 'Organization',
       name: 'Growth Mindset',
+      url: 'https://growthmindset.academy',
     },
     publisher: {
       '@type': 'Organization',
       name: 'Growth Mindset',
+      url: 'https://growthmindset.academy',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://growthmindset.com/logo.png',
+        url: 'https://growthmindset.academy/logo.jpeg',
       },
+    },
+    image: {
+      '@type': 'ImageObject',
+      url: 'https://growthmindset.academy/logo.jpeg',
     },
   }
 
@@ -112,7 +132,7 @@ export default async function ArticlePage({ params }: Props) {
               <p className="text-xl text-neutral-600 mb-6">
                 {article.description}
               </p>
-              <div className="flex items-center gap-4 text-sm text-neutral-500">
+              <div className="flex items-center gap-4 text-sm text-neutral-600">
                 <span>{article.readTime}</span>
                 <span>•</span>
                 <span>{new Date(article.date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</span>

@@ -6,6 +6,7 @@ import { AnimatedSection } from '@/components/AnimatedSection'
 import { Button } from '@/components/Button'
 import { Card, CardTitle, CardDescription, CardTag } from '@/components/Card'
 import { NewsletterForm } from '@/components/NewsletterForm'
+import { LeadMagnetBanner } from '@/components/LeadMagnetBanner'
 import { articles, guides } from '@/lib/content'
 
 const pillars = [
@@ -100,8 +101,8 @@ export default function HomePage() {
               transition={{ delay: 0.2 }}
               className="inline-flex items-center gap-2 px-4 py-2 bg-primary-100 text-primary-700 rounded-full text-sm font-medium mb-6"
             >
-              <span className="flex h-2 w-2">
-                <span className="animate-ping absolute inline-flex h-2 w-2 rounded-full bg-primary-400 opacity-75" />
+              <span className="relative flex h-2 w-2">
+                <span className="animate-ping absolute inline-flex h-2 w-2 rounded-full bg-primary-400 opacity-75" aria-hidden="true" />
                 <span className="relative inline-flex rounded-full h-2 w-2 bg-primary-500" />
               </span>
               +200k people developing their mindset
@@ -193,12 +194,14 @@ export default function HomePage() {
                     <span className="text-neutral-700">{chapter.title}</span>
                   </li>
                 ))}
-                <li className="flex items-start gap-3 text-neutral-500">
-                  <span className="flex-shrink-0 w-6 h-6 rounded-full bg-neutral-100 text-neutral-500 text-sm font-medium flex items-center justify-center mt-0.5">
-                    +
-                  </span>
-                  <span>And {featuredGuide.chapters.length - 4} more chapters...</span>
-                </li>
+                {featuredGuide.chapters.length > 4 && (
+                  <li className="flex items-start gap-3 text-neutral-500">
+                    <span className="flex-shrink-0 w-6 h-6 rounded-full bg-neutral-100 text-neutral-500 text-sm font-medium flex items-center justify-center mt-0.5">
+                      +
+                    </span>
+                    <span>And {featuredGuide.chapters.length - 4} more chapters...</span>
+                  </li>
+                )}
               </ul>
               <Button href={`/guides/${featuredGuide.slug}`}>
                 Read Full Guide
@@ -208,8 +211,8 @@ export default function HomePage() {
               </Button>
             </div>
             <div className="relative">
-              <div className="aspect-square bg-gradient-to-br from-primary-500 to-primary-700 rounded-3xl shadow-2xl flex items-center justify-center p-8">
-                <svg className="w-full h-full text-white/90" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={0.5}>
+              <div className="aspect-square bg-gradient-to-br from-primary-500 to-primary-700 rounded-3xl shadow-2xl flex items-center justify-center p-8" aria-hidden="true">
+                <svg className="w-full h-full text-white/90" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={0.5} aria-hidden="true">
                   <path strokeLinecap="round" strokeLinejoin="round" d="M12 6.042A8.967 8.967 0 006 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 016 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 016-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0018 18a8.967 8.967 0 00-6 2.292m0-14.25v14.25" />
                 </svg>
               </div>
@@ -261,7 +264,7 @@ export default function HomePage() {
                   <CardTag variant="primary">{article.category}</CardTag>
                   <CardTitle>{article.title}</CardTitle>
                   <CardDescription>{article.description}</CardDescription>
-                  <div className="mt-4 pt-4 border-t border-neutral-100 flex items-center justify-between text-sm text-neutral-500">
+                  <div className="mt-4 pt-4 border-t border-neutral-100 flex items-center justify-between text-sm text-neutral-600">
                     <span>{article.readTime}</span>
                     <span>{new Date(article.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}</span>
                   </div>
@@ -269,6 +272,13 @@ export default function HomePage() {
               </motion.div>
             ))}
           </motion.div>
+        </div>
+      </AnimatedSection>
+
+      {/* Lead Magnet Banner */}
+      <AnimatedSection className="py-10 bg-surface">
+        <div className="container-wide">
+          <LeadMagnetBanner />
         </div>
       </AnimatedSection>
 
@@ -326,9 +336,10 @@ export default function HomePage() {
               href="https://www.linkedin.com/company/growth-mindset-big-brain/"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="Follow Growth Mindset on LinkedIn (opens in new tab)"
               className="inline-flex items-center gap-3 px-6 py-3 bg-accent-500 hover:bg-accent-600 text-white font-semibold rounded-xl transition-colors"
             >
-              <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+              <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
               </svg>
               Follow Growth Mindset

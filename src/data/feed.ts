@@ -26,7 +26,7 @@ export interface FeedPost {
 export const feedConfig = {
   pageName: "Growth Mindset",
   linkedInUrl: "https://www.linkedin.com/company/growth-mindset-big-brain/",
-  followers: "204,000+",
+  followers: "240,891",
   description: "Daily inspiration and insights from our LinkedIn community.",
 }
 
@@ -76,6 +76,46 @@ Start adding "yet" to your vocabulary today.`,
     comments: 412,
     reposts: 341,
     date: "2024-01-14",
+  },
+  // --- Scraped 2026-03-24 ---
+  {
+    id: "4",
+    linkedInUrl: "https://www.linkedin.com/company/growth-mindset-big-brain/posts/",
+    content: `Same job. Same mindset. Same results.
+
+If you want different outcomes, you have to think differently first.
+
+The job doesn't change you. You change the job.`,
+    likes: 808,
+    comments: 39,
+    date: "2026-03-24",
+  },
+  {
+    id: "5",
+    linkedInUrl: "https://www.linkedin.com/company/growth-mindset-big-brain/posts/",
+    content: `Stop glorifying the grind.
+
+Working 80 hours a week isn't a badge of honour.
+It's a warning sign.
+
+Rest is not the enemy of progress. It's the fuel for it.`,
+    likes: 143,
+    comments: 9,
+    reposts: 9,
+    date: "2026-03-24",
+  },
+  {
+    id: "6",
+    linkedInUrl: "https://www.linkedin.com/company/growth-mindset-big-brain/posts/",
+    content: `You're not "bad at it."
+
+You're just not patient enough to get good.
+
+Every expert was once a complete beginner.
+The only difference? They didn't quit before the breakthrough.`,
+    likes: 118,
+    comments: 10,
+    date: "2026-03-24",
   },
   // Add more posts here...
 ]

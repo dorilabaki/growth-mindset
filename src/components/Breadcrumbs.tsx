@@ -19,7 +19,7 @@ export function Breadcrumbs({ items }: BreadcrumbsProps) {
       '@type': 'ListItem',
       position: index + 1,
       name: item.name,
-      item: `https://growthmindset.com${item.href}`,
+      item: `https://growthmindset.academy${item.href}`,
     })),
   }
 
@@ -30,7 +30,7 @@ export function Breadcrumbs({ items }: BreadcrumbsProps) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
       />
       <nav aria-label="Breadcrumb" className="mb-6">
-        <ol className="flex items-center gap-2 text-sm text-neutral-500 flex-wrap">
+        <ol className="flex items-center gap-2 text-sm text-neutral-600 flex-wrap">
           {allItems.map((item, index) => (
             <li key={item.href} className="flex items-center gap-2">
               {index > 0 && (

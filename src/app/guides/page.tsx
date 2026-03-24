@@ -29,8 +29,8 @@ export default function GuidesPage() {
           <div className="grid md:grid-cols-2 gap-8">
             {guides.map((guide) => (
               <Card key={guide.slug} href={`/guides/${guide.slug}`} className="group">
-                <div className="aspect-video bg-gradient-to-br from-primary-500 to-primary-700 rounded-xl mb-6 flex items-center justify-center shadow-lg group-hover:shadow-xl transition-shadow">
-                  <svg className="w-16 h-16 text-white/80" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={0.5}>
+                <div className="aspect-video bg-gradient-to-br from-primary-500 to-primary-700 rounded-xl mb-6 flex items-center justify-center shadow-lg group-hover:shadow-xl transition-shadow" aria-hidden="true">
+                  <svg className="w-16 h-16 text-white/80" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={0.5} aria-hidden="true">
                     <path strokeLinecap="round" strokeLinejoin="round" d="M12 6.042A8.967 8.967 0 006 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 016 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 016-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0018 18a8.967 8.967 0 00-6 2.292m0-14.25v14.25" />
                   </svg>
                 </div>
@@ -38,12 +38,12 @@ export default function GuidesPage() {
                   <span className="inline-block px-2 py-0.5 bg-primary-100 text-primary-700 rounded-full text-xs font-medium">
                     Comprehensive Guide
                   </span>
-                  <span className="text-sm text-neutral-500">{guide.readTime}</span>
+                  <span className="text-sm text-neutral-600">{guide.readTime}</span>
                 </div>
                 <CardTitle as="h2">{guide.title}</CardTitle>
                 <CardDescription>{guide.description}</CardDescription>
                 <div className="mt-4 pt-4 border-t border-neutral-100">
-                  <p className="text-sm text-neutral-500 mb-2">Chapters included:</p>
+                  <p className="text-sm text-neutral-600 mb-2">Chapters included:</p>
                   <ul className="space-y-1">
                     {guide.chapters.slice(0, 3).map((chapter, index) => (
                       <li key={index} className="flex items-center gap-2 text-sm text-neutral-600">
@@ -54,7 +54,7 @@ export default function GuidesPage() {
                       </li>
                     ))}
                     {guide.chapters.length > 3 && (
-                      <li className="text-sm text-neutral-500 ml-7">
+                      <li className="text-sm text-neutral-600 ml-7">
                         +{guide.chapters.length - 3} more chapters
                       </li>
                     )}

@@ -31,6 +31,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: guide.title,
     description: guide.description,
+    openGraph: {
+      title: guide.title,
+      description: guide.description,
+      type: 'article',
+      url: `https://growthmindset.academy/guides/${guide.slug}`,
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: guide.title,
+      description: guide.description,
+    },
   }
 }
 
@@ -47,17 +58,25 @@ export default async function GuidePage({ params }: Props) {
     '@type': 'Article',
     headline: guide.title,
     description: guide.description,
+    url: `https://growthmindset.academy/guides/${guide.slug}`,
+    datePublished: new Date().toISOString().split('T')[0],
     author: {
       '@type': 'Organization',
       name: 'Growth Mindset',
+      url: 'https://growthmindset.academy',
     },
     publisher: {
       '@type': 'Organization',
       name: 'Growth Mindset',
+      url: 'https://growthmindset.academy',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://growthmindset.com/logo.png',
+        url: 'https://growthmindset.academy/logo.jpeg',
       },
+    },
+    image: {
+      '@type': 'ImageObject',
+      url: 'https://growthmindset.academy/logo.jpeg',
     },
   }
 
@@ -81,8 +100,8 @@ export default async function GuidePage({ params }: Props) {
             {/* Sidebar - Table of Contents */}
             <aside className="hidden lg:block">
               <div className="sticky top-28">
-                <p className="font-semibold text-neutral-900 mb-4">Table of Contents</p>
-                <nav className="space-y-1">
+                <p className="font-semibold text-neutral-900 mb-4" id="toc-heading">Table of Contents</p>
+                <nav aria-labelledby="toc-heading" className="space-y-1">
                   {guide.chapters.map((chapter, index) => (
                     <a
                       key={index}
@@ -118,8 +137,8 @@ export default async function GuidePage({ params }: Props) {
 
                 {/* Mobile Table of Contents */}
                 <div className="lg:hidden bg-neutral-50 rounded-xl p-6 mb-12">
-                  <p className="font-semibold text-neutral-900 mb-4">Table of Contents</p>
-                  <nav className="space-y-2">
+                  <p className="font-semibold text-neutral-900 mb-4" id="toc-mobile-heading">Table of Contents</p>
+                  <nav aria-labelledby="toc-mobile-heading" className="space-y-2">
                     {guide.chapters.map((chapter, index) => (
                       <a
                         key={index}
