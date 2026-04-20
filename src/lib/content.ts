@@ -865,6 +865,127 @@ For more on building a structured approach to improvement, explore the [iterativ
       },
     ],
   },
+  {
+    slug: 'growth-mindset-context-matters-2025-research',
+    title: "Why a Growth Mindset Alone Isn't Enough: What the 2025 Research Says About Context",
+    description: "New meta-analyses and the National Study of Learning Mindsets show growth mindset interventions only work under specific conditions. Here's what actually drives real change, based on peer-reviewed evidence.",
+    category: 'Mindset',
+    readTime: '9 min read',
+    date: '2026-04-20',
+    content: `
+## The Uncomfortable Truth About Growth Mindset
+
+For more than a decade, "develop a growth mindset" has been the default answer to any question about learning, motivation, or performance. Schools adopted it. Companies ran workshops on it. Self-help books built entire chapters around it.
+
+Then the evidence started catching up.
+
+A wave of rigorous research, including a 2025 structured review in the Review of Education and the results of the National Study of Learning Mindsets, shows that growth mindset interventions produce real but modest effects, and only under specific conditions. Context matters more than the mindset itself.
+
+This isn't a takedown of growth mindset. The underlying science — that beliefs about ability affect effort and learning — still holds. But the simplified version that got sold in corporate trainings and classroom posters oversells what a mindset shift alone can do.
+
+If you've been frustrated that "believing you can improve" hasn't produced the results you expected, the research explains why.
+
+## What the Latest Evidence Shows
+
+### The National Study of Learning Mindsets (NSLM)
+
+The largest real-world test of growth mindset was the National Study of Learning Mindsets, published in Nature in 2019 and led by David Yeager at the University of Texas at Austin. It ran a short online growth mindset intervention with a nationally representative sample of more than 12,000 ninth graders across 65 U.S. high schools.
+
+The headline finding: a less-than-one-hour online intervention raised grades among lower-achieving students and increased enrollment in advanced math courses.
+
+The less-discussed finding: the intervention only worked when peer norms and the school environment supported it. In schools where the culture rewarded effort and teachers modeled growth-oriented thinking, the intervention produced meaningful gains. In schools where peer norms contradicted the message, the intervention produced essentially no effect.
+
+A mindset shift in a hostile environment doesn't change behavior. It just becomes another thing students try to hold onto while the rest of their day pushes them the other direction.
+
+### The 2025 Meta-Analytic Evidence
+
+A 2025 structured review published in the Review of Education by Gazmuri and colleagues evaluated 24 randomized controlled trials of growth mindset interventions targeting school-age children. The analysis found effects on academic achievement that were real but small, and highly dependent on implementation quality, context, and the learner's starting point.
+
+The strongest gains were among students from lower socioeconomic backgrounds and lower prior achievement. Students who were already performing well showed minimal benefit. This is consistent with earlier findings from the 2022 meta-analysis by Macnamara and Burgoyne in Psychological Bulletin, which found overall effect sizes of around d = 0.05 to d = 0.08, meaningful at scale but modest at the individual level.
+
+### What the OECD 2025 PISA Research Adds
+
+The OECD's 2025 analysis of PISA data, drawing on 76 countries and regions, reinforces the context dependency. Growth mindset predicted academic persistence and achievement only when paired with supportive home, school, and classroom environments. Parental support, teacher expectations, and peer norms all moderated the effect.
+
+The OECD concluded that when embedded within a culture of high expectations and meaningful challenges, a growth mindset can contribute to academic achievement and well-being. Outside of that culture, the effect drops sharply.
+
+## Why the Original Story Was Incomplete
+
+The popular version of growth mindset suggested that changing your beliefs about ability could unlock effort, resilience, and improvement on its own. The research was always more nuanced than that, but the nuance got lost in translation.
+
+Three specific things the popular version got wrong:
+
+**Effect sizes are small, not transformative.** Even the best-designed interventions produce modest average gains. A short intervention doesn't override years of accumulated experience, environmental signals, and existing habits.
+
+**Context is a precondition, not a footnote.** A growth mindset message in a school that punishes effort or rewards only natural talent doesn't take hold. The same applies to workplaces that promote based on early wins rather than sustained development.
+
+**Mindset shifts don't bypass skill development.** Believing you can improve is not the same as knowing how to practice. Without deliberate practice, feedback, and time, belief alone stalls.
+
+## What Actually Produces Change
+
+The research points to a clearer model: mindset works when it's embedded in a system that makes effort rational and learning possible.
+
+### 1. Align the Environment Before Changing the Mindset
+
+If you're trying to build a growth mindset in yourself or others, start with the environment. Are the people around you modeling effort-based improvement, or only celebrating innate talent? Is failure treated as information, or as evidence of inadequacy?
+
+In workplaces, this means looking at how performance is evaluated. Organizations that rate people on a fixed percentile curve inadvertently reward fixed-mindset behavior, no matter what the training deck says. If only the top 10% are treated as high potential, everyone else learns that effort has a ceiling.
+
+### 2. Combine Belief With Deliberate Practice
+
+The research on expert performance, particularly Anders Ericsson's work at Florida State University, shows that skill develops through specific, effortful practice with feedback, not through motivation alone. A growth mindset tells you improvement is possible. Deliberate practice is how improvement actually happens.
+
+For more on what structured improvement looks like, see our [iterative mindset framework](/resources/iterative-mindset-beyond-growth), which applies this thinking outside the classroom.
+
+### 3. Make the Stakes of Effort Visible
+
+Humans adjust effort based on perceived return. If the link between practice and progress is invisible, effort feels like a gamble. If the link is visible through tracking, milestones, and feedback, effort becomes a rational investment.
+
+This is why practices like journaling, deliberate reflection, and progress tracking matter. They make the return on effort legible.
+
+### 4. Protect Against the Peer-Norm Problem
+
+The NSLM finding on peer norms applies outside of schools. If the people around you dismiss effort, treat struggle as embarrassing, or frame learning as something that happens to kids, your personal mindset shift will fight an uphill battle.
+
+The practical fix: change the inputs. Choose communities, content, and conversations that treat growth as normal. This isn't about cutting people out. It's about recognizing that mindset lives downstream of the signals you receive daily.
+
+### 5. Focus on Process, Not Self-Concept
+
+The research is clearest on effect when growth mindset is framed as a claim about how learning works — abilities develop through effort and strategy — rather than as a claim about identity. "I am a growth mindset person" is less useful than "I can get better at this specific thing if I work the right way."
+
+The first is a label you have to defend. The second is a practice you can apply.
+
+## What This Means for Personal Development
+
+If you've read Carol Dweck's book, attended a workshop, or tried to develop a growth mindset and felt like it didn't stick, the problem probably isn't you. The problem is that a mindset shift is a necessary but insufficient condition for change.
+
+The research since 2019 is consistent: growth mindset helps, but only when surrounded by a context that supports it. If you want to use these ideas effectively, pair belief with three things: environmental support, deliberate practice, and a clear line of sight from effort to progress.
+
+This is why the most durable personal development work isn't a one-time mindset intervention. It's a sustained practice of showing up, getting feedback, adjusting, and doing it again in a context that makes the work possible.
+
+## The Bottom Line
+
+Growth mindset is real, supported by decades of research, and worth cultivating. It is also not a magic switch. The 2025 evidence is clear that interventions produce small average effects, that context determines whether those effects take hold, and that mindset without practice and environment doesn't produce the transformation the popular story promised.
+
+Use growth mindset as one tool in a larger system. Pair it with deliberate practice, supportive environments, and visible progress. And treat the frustration you might have felt from mindset-only approaches as information, not evidence of failure.
+
+For a deeper look at how to apply this in practice, explore [the iterative mindset framework](/resources/iterative-mindset-beyond-growth) and our companion piece on [why self-compassion outperforms self-criticism](/resources/self-compassion-outperforms-self-criticism) for sustained progress.
+    `,
+    faqs: [
+      {
+        question: 'Is growth mindset still valid based on 2025 research?',
+        answer: "Yes, growth mindset is still supported by decades of research, but the 2025 evidence, including a structured review in the Review of Education and the OECD's PISA 2022 analysis, shows effects are modest on average and heavily dependent on context. Interventions work best when combined with supportive environments, peer norms aligned with effort, and deliberate practice. Growth mindset remains useful, but it's one tool in a larger system rather than a standalone solution.",
+      },
+      {
+        question: 'Why did my growth mindset approach not produce results?',
+        answer: "The research explains this clearly. The National Study of Learning Mindsets found that mindset interventions only worked when peer norms and the learning environment supported them. If you're in a context that rewards only natural talent, dismisses effort, or punishes struggle, a mindset shift alone can't override those signals. Change typically requires combining mindset with environmental support, deliberate practice, and visible progress tracking.",
+      },
+      {
+        question: 'What does the 2025 Review of Education meta-analysis say about growth mindset?',
+        answer: "The 2025 review by Gazmuri and colleagues evaluated 24 randomized controlled trials and found real but small effects on academic achievement, with the strongest gains among students from lower socioeconomic backgrounds and lower prior achievement. Implementation quality, context, and learner starting point all moderated the effect. This is consistent with the broader literature showing effect sizes around d = 0.05 to d = 0.08 on average.",
+      },
+    ],
+  },
 ]
 
 // Guide content
