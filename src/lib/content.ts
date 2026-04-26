@@ -1095,6 +1095,121 @@ For a complement to this piece, explore our [complete guide to developing a grow
       },
     ],
   },
+  {
+    slug: 'synergistic-mindsets-stress-reappraisal-2026',
+    title: 'Why a Growth Mindset Works Better When Paired With a Stress-Is-Enhancing Mindset',
+    description: 'A 2022 Nature paper following more than 4,000 adolescents found that combining a growth mindset with a stress-is-enhancing mindset measurably reduced anxiety, lowered cortisol, and improved cardiovascular reactivity. The mechanism explains why growth mindset alone often falls short in high-stress contexts.',
+    category: 'Mindset',
+    readTime: '10 min read',
+    date: '2026-04-26',
+    content: `
+## Why "Growth Mindset" on Its Own Sometimes Fails Under Pressure
+
+If you have read about growth mindset and tried to apply it during a genuinely stressful event, you may have noticed something the popular literature rarely talks about. The mindset feels useful when you are reflecting on a challenge from a calm seat. It feels almost useless when your heart is pounding, your hands are shaking, and the test or interview or conversation is happening right now.
+
+This is not a personal failing. It is a structural limit of how the mindset was originally framed.
+
+A 2022 paper in Nature by David Yeager, Christopher Bryan, Jamie Jamieson, and colleagues, drawn from six double-blind randomised trials with more than 4,000 adolescents, identifies the gap precisely and offers a fix. The fix is to combine a growth mindset with a second, complementary mindset about stress itself. The combination works in places the growth mindset alone does not.
+
+This article walks through what the research shows, why the combination matters, and how to apply it.
+
+## The Two Mindsets in the Combination
+
+The first mindset is familiar. A growth mindset, in Carol Dweck's original framing, is the belief that intelligence and ability are not fixed traits but can be developed through effort, strategy, and feedback. The body of research on this is large, contested in places (see [why a growth mindset alone is not enough](/resources/growth-mindset-context-matters-2025-research)), but real.
+
+The second mindset is less familiar. A stress-is-enhancing mindset, developed in research by Alia Crum, Peter Salovey, and Shawn Achor at Yale, is the belief that the physical sensations of stress, the racing heart, the sweaty palms, the heightened alertness, are not a sign that something is going wrong. They are a sign that the body is mobilising resources to perform better.
+
+In the Yeager 2022 paper, the synergistic mindsets intervention is a self-administered online module that teaches both ideas together. The participant learns that their abilities can grow with effort, and that the physical stress they will feel while putting in that effort is fuel rather than failure.
+
+## What the Six Studies Actually Found
+
+The paper reports six experiments. The total sample is N = 4,091 adolescents across multiple US schools. Each study was double-blind and randomised. The findings, in plain terms:
+
+Studies 1 and 2 showed that the synergistic intervention shifted self-reported stress-related cognitions in the predicted direction. Participants who received the intervention reported viewing stress and challenge differently from controls.
+
+Study 3 measured cardiovascular reactivity during a laboratory stress task. The intervention produced a more adaptive cardiovascular response, the kind associated with better performance and better long-term health, rather than the threat response associated with worse outcomes.
+
+Study 4, conducted across daily life rather than in a lab, found reduced internalising symptoms (anxiety, depression-related cognitions) and lower diurnal cortisol levels among participants who received the intervention.
+
+Study 5, conducted during the 2020 COVID-19 lockdowns, found reduced generalised anxiety symptoms among intervention participants compared with controls.
+
+The mechanism evidence is the part to focus on. In studies 3, 4, and 5, the effect was strongest among adolescents who at baseline held both of the negative mindsets the intervention targeted. People whose mindsets already aligned with the intervention saw smaller effects. People whose mindsets were furthest from it saw the biggest gains. This is the pattern you would expect from a real causal mechanism, not a placebo or a measurement artefact.
+
+## Why the Combination Outperforms Either Alone
+
+A growth mindset, applied to a high-stakes situation, tells you that your performance will improve over time with effort and feedback. That is a long-horizon belief. It is also true.
+
+The problem is that a long-horizon belief does almost nothing for the body in the next sixty seconds.
+
+Your heart still pounds. Your stomach still drops. Your hands still shake. And in the moment, the most natural interpretation of those sensations is that something is going wrong, that you are not equipped to handle this, that the stress is evidence of imminent failure.
+
+This is the gap that a stress-is-enhancing mindset closes. When your heart pounds, the second mindset reframes the sensation: my body is mobilising. The blood is moving where I need it. The alertness is sharpening my attention. The system is doing exactly what it is supposed to do.
+
+The two mindsets stack. The growth mindset gives you the long-horizon belief that effort and feedback will produce growth. The stress-is-enhancing mindset gives you a short-horizon interpretation of the physical state that effort and stakes produce. Without the second, the first is hard to act on in the moments when it matters most.
+
+## What This Looks Like in Daily Life
+
+The Yeager studies focused on adolescents, but the mechanism is general. Three concrete applications travel well into adult work and life.
+
+### Before a High-Stakes Performance
+
+Think of the next presentation, interview, exam, or difficult conversation you have on the calendar. The growth-mindset move is to tell yourself the outcome is information rather than a verdict, and that whatever happens you will learn from it. That move helps, but only modestly, in the hour before the event.
+
+The stress-is-enhancing move is the second piece. As you feel the physical activation rising, label it deliberately: my body is mobilising, the heart rate is fuel, the alertness is the system preparing. This labelling has been shown across multiple studies to shift cardiovascular reactivity from the threat pattern toward the challenge pattern, which is associated with better performance.
+
+The two together are stronger than either one. Together, they tell you both that the stakes are not terminal (growth mindset) and that the activation you feel is appropriate equipment for the moment (stress-is-enhancing mindset).
+
+### When Recovering From a Visible Failure
+
+After a public mistake, a missed promotion, a project that flopped, the standard growth-mindset move is to extract the lesson and reframe the failure as data. This is correct and useful, but it skips a step.
+
+The earlier step is what to do with the physical aftermath of the failure. The hot face, the racing thoughts, the sleeplessness, the rumination at 3am. The stress-is-enhancing mindset is not a panacea here, but the underlying logic still applies. The body is processing. The activation, including the unpleasant kind, is part of how the system metabolises a setback. Treating it as a sign of fundamental damage extends the recovery. Treating it as a sign of normal processing tends to shorten it.
+
+### When Coaching Someone Else
+
+If you manage, mentor, or parent, the practical implication is significant. Telling someone "you can grow from this" is correct but incomplete advice during a stressful moment. Adding "the way your body feels right now is normal and useful, your system is preparing you" is the missing half. Both pieces of language together produce a more durable shift than either alone.
+
+## A Note on the Limits of the Research
+
+The Yeager 2022 paper is rigorous and the effects are real, but a few caveats prevent overclaim.
+
+First, the effect sizes on the downstream outcomes are modest in absolute terms. The intervention does not eliminate anxiety, transform performance, or remove the need for the surrounding work of preparation, rest, and skill-building. It shifts the curve in the direction the science predicts. That is what behavioural interventions at this scope are realistically capable of doing.
+
+Second, the strongest effects appeared in adolescents who started with the worst mindsets. People who already hold relatively healthy beliefs about effort and stress saw smaller effects. The intervention is most powerful as a corrective rather than as an enhancement.
+
+Third, the studies were conducted in school and lab settings with adolescents. Generalisation to adult work contexts is plausible but not directly tested by this paper. The underlying mechanism, drawn from Crum's stress-mindset research and Dweck's growth-mindset research, has been tested in adult populations separately, but the synergistic combination has its strongest evidence in this age group.
+
+These caveats matter because the cleanest mental model is "useful and underused" rather than "transformational." That is a more honest framing of what the science actually supports.
+
+## A Two-Sentence Practice You Can Use This Week
+
+The simplest practical takeaway from the synergistic mindsets research is a two-sentence labelling practice you can use the next time you face something stressful.
+
+The first sentence is the growth-mindset frame: "This is hard, which is the condition under which I get better." The second sentence is the stress-is-enhancing frame: "What I feel right now is my body equipping me for what comes next."
+
+Said quickly, and meant, the pair takes ten seconds. The research suggests that ten seconds, repeated across enough moments, produces measurable changes in how stress lands physiologically and psychologically.
+
+That is the entire intervention, distilled. Two sentences, said when it matters, often enough to wire in. The science supports this much, no more and no less.
+
+## Where to Go From Here
+
+For the broader context on what growth mindset can and cannot do, see our piece on [why a growth mindset alone is not enough](/resources/growth-mindset-context-matters-2025-research). For the habit-formation framework that turns this kind of practice into something automatic rather than effortful, see [the psychology of habit formation](/resources/psychology-of-habit-formation). And for leaders interpreting this research as a tool for managing teams through high-stress periods, [The Leader's Table](https://theleaderstable.xyz) has practical frameworks for translating these mindset findings into how you coach direct reports through pressure.
+`,
+    faqs: [
+      {
+        question: 'What is a synergistic mindsets intervention?',
+        answer: "It is a self-administered online training module developed by David Yeager, Christopher Bryan, Jamie Jamieson, and colleagues, published in Nature in 2022. The intervention teaches two mindsets together: that intelligence can be developed through effort (a growth mindset) and that the physiological stress response can fuel performance rather than impair it (a stress-is-enhancing mindset). Across six double-blind randomised trials with 4,091 adolescents, the combined intervention produced more reliable effects on stress cognitions, cardiovascular reactivity, daily anxiety, and cortisol than would be expected from either mindset alone.",
+      },
+      {
+        question: 'Why does a growth mindset alone sometimes fail in high-stress moments?',
+        answer: "A growth mindset is a long-horizon belief about ability and effort. It is useful for interpreting outcomes after the fact, but in the moment of acute physical stress, it does not change how the body's activation feels. The hot face, racing heart, and shaky hands are still interpreted by default as signs of failure rather than fuel. The Yeager 2022 research suggests that pairing growth mindset with a stress-is-enhancing mindset closes this short-horizon gap. The growth mindset tells you growth is possible. The stress-is-enhancing mindset tells you the activation you feel right now is appropriate equipment for performing well.",
+      },
+      {
+        question: 'Are these effects large or small?',
+        answer: "The downstream outcome effects in the Yeager 2022 paper are real but modest in absolute terms. The intervention does not eliminate anxiety or transform performance. It moves the curve in the predicted direction by a measurable amount, with the strongest effects in adolescents who started with the worst-aligned mindsets. The honest framing of the research is that it is useful and underused rather than transformational, and that it works best as a complement to rest, preparation, and skill-building rather than a replacement for them.",
+      },
+    ],
+  },
 ]
 
 // Guide content
