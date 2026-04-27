@@ -1210,6 +1210,234 @@ For the broader context on what growth mindset can and cannot do, see our piece 
       },
     ],
   },
+  {
+    slug: 'growth-mindset-grit-meta-analysis-2025',
+    title: 'What 42,000 Participants Tell Us About How Growth Mindset Predicts Grit',
+    description: 'A 2025 meta-analysis in Acta Psychologica synthesised 66 studies covering 42,112 participants and found small-to-moderate correlations between growth mindset and grit. The pattern reveals what mindset can and cannot do, and where to put your effort if you want the second to follow from the first.',
+    category: 'Mindset',
+    readTime: '11 min read',
+    date: '2026-04-27',
+    content: `
+## A Number You Can Anchor On
+
+Growth-mindset writing online tends to oscillate between two unhelpful poles. Either the mindset is treated as a near-magical lever that quietly determines whether you succeed at anything difficult, or it is dismissed as a self-help trope that the replication crisis has put to bed. Neither framing tells you what to do on a Tuesday morning when you're trying to stay with a hard problem.
+
+The 2025 meta-analysis by K. K. L. Lam and M. Zhou, published in Acta Psychologica (Volume 255, Article 104872), is one of the cleanest places to anchor between those two poles. The authors aggregated 66 primary studies covering 42,112 participants and asked a narrow question: how strongly does a growth mindset correlate with grit, the construct Angela Duckworth defines as sustained passion and perseverance for long-term goals?
+
+The headline numbers are these. The overall correlation between growth mindset and grit was ρ = 0.19. Broken out by Duckworth's two grit subcomponents, the correlation with consistency of interest was ρ = 0.20, and the correlation with perseverance of effort was ρ = 0.24.
+
+Those are real correlations. They are also small-to-moderate, not large. The honest interpretation lives in the middle: a growth mindset is one of several things that predicts whether someone keeps going when the work gets hard, but it is not the dominant factor. This article is about what that distinction means in practice.
+
+## Reading the Effect Sizes Without Inflating or Dismissing Them
+
+A correlation of 0.24 between mindset and effort sounds modest because, in absolute terms, it is. Squared, it accounts for roughly 5.8% of the variance in perseverance of effort. The remaining 94% lives in other factors: the person's existing skills, their environment, their physical state, the structure of the task, the people around them, and a long list of other variables that mindset does not directly address.
+
+This is where most popular writing on mindset goes wrong in one direction or the other. The inflated reading is that mindset "drives" perseverance. The numbers do not support that. The dismissive reading is that mindset is "irrelevant" or "debunked." The numbers do not support that either. A reliable correlation of around 0.2 across more than 40,000 participants is a real signal, not noise. It is just smaller than the marketing language around growth mindset has historically suggested.
+
+The most useful framing comes from looking at the comparison. Many factors that researchers and practitioners take seriously have correlations in this range with downstream outcomes. The correlation between conscientiousness and academic performance, for instance, sits in roughly the same band. We do not say "conscientiousness is debunked" because the correlation is 0.2 to 0.3. We say "conscientiousness is one meaningful predictor among several." The same framing applies here.
+
+## Why the Correlation Is Stronger With Effort Than With Interest
+
+The two subcomponents of grit behave differently in the meta-analysis. Growth mindset correlates ρ = 0.24 with perseverance of effort and ρ = 0.20 with consistency of interest. The gap is small but conceptually telling.
+
+Perseverance of effort, in Duckworth's framework, is the willingness to keep working on something hard. Consistency of interest is the willingness to stay with the same goal across long stretches of time, even when newer goals are pulling for attention.
+
+A growth mindset speaks more directly to the first than the second. The belief that ability can grow with effort is a belief about the value of effort. It does not tell you which goal to point that effort at, or whether to switch. It tells you that the work is not wasted while you are doing it.
+
+This is consistent with what longitudinal research on grit has found. Building Grit, a 2019 study in the Journal of Youth and Adolescence, traced the longitudinal pathways from mindset through commitment to grit and academic outcomes. Mindset predicted commitment, commitment predicted grit, grit predicted outcomes. The chain is real. But each link in it is moderate, not deterministic, and consistency-of-interest sits further down the chain than perseverance-of-effort does.
+
+## What the Mindset Intervention Literature Says, Honestly
+
+Two important meta-analyses in 2022 reached different conclusions about whether short growth-mindset interventions actually improve student academic outcomes. One, by Macnamara and colleagues, concluded that the apparent effects were largely attributable to study-design weaknesses and publication bias, and that the highest-quality studies showed essentially no effect (d = 0.02, not significantly different from zero). Another, by Burnette and colleagues, found small but meaningful positive effects, particularly for specific subgroups.
+
+The more recent 2025 review by Gazmuri and colleagues in the Review of Education, looking systematically at the existing evidence, leans toward the cautious interpretation. Short, scalable mindset interventions appear to produce small-to-zero effects on average academic achievement. The 2019 Yeager and colleagues national experiment in Nature, which is one of the better-designed studies in the field, found measurable improvements concentrated in lower-achieving students in supportive school cultures, with smaller or null effects elsewhere.
+
+The 2025 Lam and Zhou meta-analysis fits cleanly into this picture. A growth mindset is a real correlate of grit. Brief interventions to change someone's mindset, however, produce small effects on the outcomes that follow grit, like grades. The correlations exist. The cheap, fast routes to changing them often do not.
+
+This is the honest version of where the literature sits. For deeper context, see our companion piece on [why growth mindset alone is not enough](/resources/growth-mindset-context-matters-2025-research), which walks through the contested intervention findings in more detail.
+
+## What This Means For You On A Tuesday Morning
+
+The practical implication of these effect sizes is not "growth mindset doesn't matter." It is "growth mindset matters, modestly, and the place it matters most is in how you stay with hard work."
+
+Three concrete uses of this finding stand up to the data.
+
+### Use Growth Mindset Where It Has the Strongest Pull
+
+The 0.24 correlation with perseverance of effort is the strongest signal in the meta-analysis. The most leveraged application of growth mindset is therefore in the moment when you are deciding whether to keep going on a difficult task. Not in motivation generally, not in goal-setting generally, but in the specific micro-decision of whether to continue with a hard piece of work for another twenty minutes.
+
+The internal move is small. When you notice the impulse to stop because the work is uncomfortable, label the discomfort as the condition under which the mindset can do its job. The discomfort is the wedge through which growth happens. This framing is consistent with what the synergistic mindsets research (see [growth mindset paired with stress reappraisal](/resources/synergistic-mindsets-stress-reappraisal-2026)) has shown about the value of pairing the mindset with a useful interpretation of physical activation.
+
+### Don't Expect Mindset to Solve Goal-Selection Problems
+
+The weaker correlation with consistency of interest, ρ = 0.20, is the part of grit that mindset does not address well. If you keep starting goals and abandoning them, that is not a mindset problem. It is a problem with how you are choosing goals, what your environment rewards, or what you actually want.
+
+This matters because a lot of growth-mindset advice tries to apply the framework to motivation in general, including the question of which projects to pursue. The correlations suggest mindset is not the right tool for this. For the question "should I keep at this particular goal?" you are better served by tools like values clarification, environmental design, and explicit cost-benefit analysis than by mindset reframing.
+
+### Use the Mindset Frame, But Don't Mistake It For The Habit
+
+Mindset is a belief. Grit is a pattern of behaviour over years. A correlation of ρ = 0.19 between the two means that having the belief makes the pattern modestly more likely, but the pattern still has to be built behaviour by behaviour. The 2009 University College London research by Phillippa Lally and colleagues on habit formation found that habits take a median of 66 days to form, with significant individual variation. Mindset is the orientation. Habits are the substrate. Both are needed, but they are not the same.
+
+For the underlying mechanics of the second piece, see our piece on [the psychology of habit formation](/resources/psychology-of-habit-formation), which goes into the specific design of small reliable behaviours rather than the orientation toward them.
+
+## Where Growth Mindset Has the Strongest Practical Case
+
+Stepping back, the cleanest version of what mindset is good for emerges from looking at where the correlations are strongest and where the intervention literature is most positive.
+
+The strongest practical case is for moments of acute difficulty in pursuit of a clear goal. Not for goal-setting. Not for vague life direction. Not as a substitute for skill, environment, or rest. For the specific psychological micro-moment when a piece of hard work is uncomfortable and you are deciding whether to push through. In that moment, the belief that effort produces growth makes the decision to push through measurably more likely. That is what the data supports, and it is enough to be useful.
+
+For leaders who care about how this translates into team performance and how to build the surrounding conditions that let mindset do its job, [The Leader's Table](https://theleaderstable.xyz) covers the management side of this question, including how to give feedback in a way that reinforces the mindset rather than undermining it.
+
+## A One-Sentence Takeaway
+
+A growth mindset is one of several modest predictors of whether you stay with hard work. The honest expectation is that, in the right moment and with the right surrounding habits, it tilts the decision in your favour by something like a 5 to 7 percent margin. Not transformational. Not nothing. Useful.
+
+Use it where it has the strongest pull. Build the habits and environment around it that the correlations alone cannot replace.
+`,
+    faqs: [
+      {
+        question: 'What did the 2025 meta-analysis on growth mindset and grit actually find?',
+        answer: "The meta-analysis by Lam and Zhou, published in Acta Psychologica (Volume 255, Article 104872, 2025), aggregated 66 primary studies covering 42,112 participants. They found that growth mindset correlated with overall grit at ρ = 0.19, with consistency of interest at ρ = 0.20, and with perseverance of effort at ρ = 0.24. These are small-to-moderate correlations. They suggest that growth mindset is one real predictor of whether someone keeps going on hard work, but it is far from the only factor.",
+      },
+      {
+        question: 'Are these effect sizes large or small?',
+        answer: "They are real but modest. A correlation of 0.24 between growth mindset and perseverance of effort accounts for roughly 5.8% of the variance, meaning the remaining 94% lives in other factors like skills, environment, physical state, and task design. This is similar in size to other established predictors like conscientiousness on academic performance. Calling growth mindset 'transformational' overstates the data. Calling it 'irrelevant' understates it. The honest framing is that mindset is a meaningful but modest predictor among several.",
+      },
+      {
+        question: 'Have growth-mindset interventions been shown to work?',
+        answer: "The intervention literature is genuinely mixed. A 2022 meta-analysis by Macnamara and colleagues concluded that the apparent effects were largely attributable to study-design weaknesses and publication bias, with high-quality studies showing essentially no effect. Another 2022 meta-analysis by Burnette and colleagues found small but meaningful effects for specific subgroups. The 2019 Yeager Nature study found improvements concentrated in lower-achieving students in supportive school cultures. The most defensible reading is that growth mindset is a real correlate of grit, but short, scalable interventions to change someone's mindset produce small or null effects on the outcomes downstream of grit, like grades.",
+      },
+    ],
+  },
+  {
+    slug: 'two-minute-rule-habit-formation',
+    title: 'The Two-Minute Rule: How Shrinking a Habit Until It Cannot Fail Makes It Stick',
+    description: 'James Clear popularised the two-minute rule and behavioural research from B. J. Fogg, Wendy Wood, and Phillippa Lally explains why it works. The rule is not about doing two minutes of work. It is about lowering the activation cost of starting until the habit becomes automatic.',
+    category: 'Habits',
+    readTime: '9 min read',
+    date: '2026-04-27',
+    content: `
+## What the Rule Actually Says
+
+The two-minute rule, as it appears in James Clear's Atomic Habits, is straightforward: when you start a new habit, it should take less than two minutes to do. The intention is not that the entire habit lasts two minutes, but that the version of it you commit to in the early days should be short enough to be impossible to skip.
+
+A few examples Clear uses:
+
+- "Read before bed each night" becomes "Read one page."
+- "Do thirty minutes of yoga" becomes "Take out my yoga mat."
+- "Run three miles" becomes "Tie my running shoes."
+
+The rule frames the first two minutes of any habit as a separate behaviour from the rest of it. You make the first two minutes the entire commitment. If more happens after that, it is a bonus.
+
+To anyone who has tried and failed to maintain a new habit, the rule sounds almost too modest to work. The point of this article is to show why it works, what the underlying behavioural science says, and how to apply it without it collapsing into a way to do nothing.
+
+## The Behavioural Logic Underneath
+
+Three lines of research converge on why the two-minute rule produces durable behaviour change while more ambitious commitments often do not.
+
+### 1. Activation Energy Determines Whether a Behaviour Starts
+
+B. J. Fogg's Behaviour Model, developed at Stanford's Behaviour Design Lab, breaks any behaviour into three components: motivation, ability, and a prompt. Behaviour happens when all three converge above a threshold.
+
+What is useful about Fogg's model is the relationship he identifies between motivation and ability. When ability is high, that is, when the behaviour is easy, you can do it even when motivation is low. When ability is low, you need a great deal of motivation to overcome the difficulty. This is why most willpower-based approaches fail. Motivation is unreliable. Difficulty is not.
+
+The two-minute rule is, in Fogg's terms, an ability-side intervention. By shrinking the behaviour until it requires almost no effort to start, you make it possible to perform on days when motivation is low. And those low-motivation days, not the high-motivation ones, are what determine whether a habit survives.
+
+### 2. Habits Form Through Repetition, Not Through Effort
+
+Phillippa Lally and colleagues at University College London ran a 2010 study tracking how long it took for self-selected daily behaviours to become automatic. The widely cited result was a median of 66 days, with substantial variation. What is less widely cited is the structure of the curve: automaticity rises quickly at first and then plateaus, and missing a single day did not reset the curve.
+
+The implication is that the variable that matters for habit formation is the number of repetitions, not the size of each repetition. A behaviour repeated 60 times in 60 days will become more automatic than the same behaviour, twice as long, repeated 30 times in 60 days. The two-minute rule is engineered to maximise the number of repetitions.
+
+### 3. Friction Compounds in Both Directions
+
+Wendy Wood, in her book Good Habits, Bad Habits, summarises decades of research on what she calls friction. Friction is the cumulative cost of every small obstacle between you and a behaviour. Putting your gym bag in the car the night before reduces friction. Having to find clean workout clothes in the morning increases it.
+
+Wood's research, including her work on context cues and habit stability, suggests that small reductions in friction produce disproportionately large effects on behaviour over time. The two-minute rule is, at its core, a deliberate friction reduction. It removes the most expensive part of any behaviour, the activation cost, by setting the bar so low that activation is almost free.
+
+## Why "Just Do Two Minutes" Is Not the Real Instruction
+
+Read the rule literally and it sounds like a way to do almost nothing. That misses what is actually being asked.
+
+The two-minute rule is a strategy for the first phase of habit formation, not a permanent prescription. The point is to establish what Clear calls the gateway habit. A gateway habit is a small, repeatable action that sits in the same context as the larger behaviour you eventually want. "Take out my yoga mat" is the gateway to a daily yoga practice. "Open my notebook" is the gateway to journaling.
+
+Once the gateway habit is automatic, that is, once you do not need to think about it any more, you have created a stable foothold. From there, you can extend the behaviour. But the extension is optional and follows the foothold. The foothold is what you commit to.
+
+This sequence is the reverse of how most people approach habit change. The usual pattern is to commit to the full target behaviour from day one and ratchet back when it becomes unsustainable. The two-minute rule reverses this. You commit to something so small you cannot fail at it, and you build from there.
+
+## How to Apply the Rule Without Letting It Collapse
+
+The honest objection to the rule is that someone could use it as a permanent excuse to do almost nothing. "I read one page tonight" becomes a substitute for actually reading. To prevent that, three practical points are worth stating clearly.
+
+### Treat the Two Minutes as the Entry, Not the Exit
+
+The two-minute commitment is what you owe yourself. What happens after is up to you. Most days, once you have started, you will continue past two minutes naturally because the activation cost is already paid. The rule's quiet trick is that starting is the hardest part, and it solves starting.
+
+If you find that you almost always stop at two minutes, the issue is usually motivation or context, not the rule. The rule itself is working. Something else, fatigue, a wrong choice of habit, an unsupportive environment, is keeping you from continuing.
+
+### Pick a Habit That Has a Natural Continuation
+
+Some habits extend naturally past two minutes. Reading a page often becomes reading a chapter. Tying running shoes often becomes a run. These are good targets for the rule.
+
+Other habits do not extend as naturally. If your two-minute commitment is "open my drawing pad," the rest of the drawing session still needs to happen, and the rule alone will not produce it. For these, you need a separate plan for what comes after the gateway behaviour.
+
+### Anchor the Behaviour to an Existing Routine
+
+The most reliable way to keep the gateway habit alive is to attach it to something you already do without thinking. Charles Duhigg, in The Power of Habit, calls this the cue. James Clear calls it habit stacking. The form is the same: "After I [existing habit], I will [new two-minute habit]."
+
+"After I pour my morning coffee, I will open my notebook" is a habit stack. It uses an existing automatic behaviour as the cue for a new one. Combined with the two-minute rule, the result is a behaviour that is both small enough to start and predictable in when it starts.
+
+## Where the Rule Fits in a Broader Habit System
+
+The two-minute rule is one tool. It pairs naturally with three others worth knowing.
+
+The first is implementation intentions, a concept from Peter Gollwitzer's research on goal pursuit. Implementation intentions are if-then plans of the form "If situation X arises, I will do behaviour Y." Studies across health, exercise, and academic domains show that people who form implementation intentions follow through on goals at substantially higher rates than people who only set the goal. The two-minute rule supplies the behaviour. Implementation intentions supply the trigger.
+
+The second is environmental design, from Wendy Wood's work. Make the cue visible. Put the book on the pillow. Lay the workout clothes by the bed. Reduce the number of decisions between you and the behaviour. Environmental design and the two-minute rule reinforce each other because both reduce friction.
+
+The third is identity-based framing, which Clear emphasises in the second half of Atomic Habits. The argument is that durable habits are downstream of how you see yourself. The aim is not to read more but to be a reader. The two-minute rule supports identity formation because every repetition, however small, is a vote for the identity you are building.
+
+## A Realistic Picture of How This Plays Out
+
+To make the rule concrete, here is a realistic timeline of what applying it to a writing habit might look like.
+
+Days 1 to 14: You commit to "open my writing app and write one sentence." Most days this expands into 5 to 15 minutes of writing. Some days it does not, and that is fine. The point is that you opened the app every day. Repetition is accumulating.
+
+Days 15 to 45: The opening of the app has stopped requiring deliberation. It is becoming automatic. Some days you write for 30 to 45 minutes without planning to. Your sense of yourself as someone who writes is starting to firm up.
+
+Days 46 to 90: The gateway is fully automatic. Now you can extend the commitment. Maybe the new minimum is "write one paragraph." The next gateway is established with the previous one already locked in.
+
+Months three onward: The behaviour is durable. Missed days do not destabilise it. The identity has shifted. The original two-minute version may no longer be necessary at all.
+
+This trajectory is not guaranteed and will look different for different habits. But the shape is recurring. A habit that is small enough to be impossible to fail at gets repeated. Repetition produces automaticity. Automaticity produces durability. Durability produces identity. The two-minute rule is the entry point to that sequence.
+
+## The Quiet Power of a Modest Rule
+
+The two-minute rule is not a productivity hack and not an inspirational slogan. It is a precise behavioural intervention that reduces the activation cost of starting until the activation cost is no longer the obstacle. The behavioural research on habits, on motivation, and on friction all converges on the same prediction. Small, frequent, low-friction repetitions produce durable behaviour change. Large, infrequent, high-friction efforts often do not.
+
+If you have tried and failed to build a habit before, the failure is unlikely to be a failure of willpower. It is more likely a failure of design. The two-minute rule is a design pattern. It rebuilds the habit so that willpower is no longer the bottleneck.
+
+For more on the cognitive side of behaviour change, see our [complete guide to developing a growth mindset](/guides/complete-guide-growth-mindset). For applying these principles to professional development, [The Leader's Table](https://theleaderstable.xyz) covers how managers build the daily routines that make leadership effective.
+    `,
+    faqs: [
+      {
+        question: 'Is the two-minute rule the same as the five-second rule?',
+        answer: "No. Mel Robbins' five-second rule is a technique for overcoming hesitation in a moment of choice. You count down 5-4-3-2-1 and then act before motivation collapses. The two-minute rule is a habit-design technique. It works at the level of how you structure a recurring behaviour, not how you respond to a single moment of hesitation. They are complementary but address different problems.",
+      },
+      {
+        question: "What if two minutes is genuinely all I do every day? Is the habit still working?",
+        answer: "Yes, with a caveat. If your goal is to establish the gateway behaviour and make it automatic, then two minutes a day is sufficient and the rule is doing its job. If your goal is to actually accomplish the larger behaviour, like writing a book or training for a race, then the gateway alone is not enough. You will need to extend the commitment once the gateway is automatic. The rule is a starting strategy, not a finishing one.",
+      },
+      {
+        question: 'Does the rule work for breaking habits as well as building them?',
+        answer: "The rule as Clear describes it is mainly for building habits. For breaking habits, the related techniques are increasing friction in front of the unwanted behaviour, called environmental design in Wendy Wood's terminology, and replacing the unwanted behaviour with a different cue-response pairing. The two-minute rule can support replacement habits because the new behaviour you install needs to compete with the old one, and a gateway habit is easier to establish than a full replacement.",
+      },
+      {
+        question: "How do I know which two-minute version of a habit to pick?",
+        answer: "Pick the smallest version that contains the essence of the larger behaviour and has a natural continuation. 'One page of reading' contains the essence of reading and naturally extends. 'Open the book and look at it' does not. Likewise, 'tie running shoes' contains the essence of running because once the shoes are on, running is the natural next step. The right gateway is small enough to never be skipped and connected enough that doing it makes the larger behaviour the path of least resistance.",
+      },
+    ],
+  },
 ]
 
 // Guide content
