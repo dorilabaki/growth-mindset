@@ -12,6 +12,75 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: 'if-then-planning-implementation-intentions',
+    title: 'If-Then Planning: The Research-Backed Way to Actually Hit Your Goals',
+    description: 'A goal tells your brain what you want. An if-then plan tells it when and where to act. Here is the decades of research behind implementation intentions, and how to write one that sticks.',
+    category: 'Habits',
+    readTime: '7 min read',
+    date: '2026-06-22',
+    content: `
+## The Gap Between Wanting and Doing
+
+You decide to exercise three times a week. You mean it. Two weeks later, the gym bag is still by the door and the calendar is empty. The problem usually isn't motivation. It's that a goal on its own doesn't tell your brain when, where, or how to act.
+
+Psychologist Peter Gollwitzer named a fix for this in 1999: the implementation intention, or what most people now call an if-then plan. Instead of holding a vague goal ("I'll exercise more"), you write a specific cue-and-response: "If it's 7 a.m. on Monday, Wednesday, or Friday, then I'll put on my running shoes and walk out the door." The plan hands control of the behavior to a situation, so you don't have to relitigate the decision every single time.
+
+## What the Research Actually Shows
+
+This isn't a productivity-blog hunch. It's one of the most heavily tested ideas in behavioral science.
+
+In 2006, Gollwitzer and Paschal Sheeran published a meta-analysis in Advances in Experimental Social Psychology that pooled 94 independent tests covering more than 8,000 participants. They found that forming an if-then plan produced a medium-to-large effect on goal attainment, d = 0.65, over and above simply setting a goal. In plain terms: people who planned the when and where of their actions followed through substantially more often than equally motivated people who only set the goal.
+
+The evidence has only grown since. A 2024 meta-analytic update led by Sheeran and Gollwitzer aggregated 642 separate tests of implementation intentions, making it one of the largest bodies of evidence behind any self-regulation technique. The same basic pattern holds across domains as varied as exercise, healthy eating, studying, and recycling.
+
+## Why It Works
+
+Three mechanisms explain the effect, and understanding them helps you write better plans.
+
+First, an if-then plan makes the cue mentally accessible. Once you've specified "when it's 7 a.m.," your brain is primed to notice that moment instead of letting it slip past.
+
+Second, it automates the response. Linking a situation to an action repeatedly builds something close to a reflex, so the behavior starts without needing a fresh burst of willpower.
+
+Third, it protects the goal from distraction and competing urges. Gollwitzer's research found if-then plans help people shield ongoing efforts from temptation, and even disengage from strategies that aren't working.
+
+## How to Write a Plan That Sticks
+
+The format matters. Research shows effects are larger when the plan keeps a genuine if-then (contingent) structure, when you're actually motivated to reach the goal, and when you've rehearsed the plan at least once.
+
+Be specific about the cue. "If I feel like being productive" is not a cue. "If I sit down at my desk after lunch" is. Anchor the trigger to a concrete time, place, or event you'll reliably encounter.
+
+Pick a response you can start immediately. The plan should fire off the first small action, not the whole project. "Then I'll open the document and write one sentence" beats "then I'll finish the report."
+
+Plan for obstacles, too. A second-line if-then handles the thing most likely to derail you: "If a colleague interrupts my focus block, then I'll note where I stopped and return to it before checking email."
+
+## A Few Worked Examples
+
+For a fitness goal: "If it's Tuesday or Thursday at 6 p.m., then I'll change into workout clothes before sitting down."
+
+For a job search, where consistency beats intensity: "If it's 9 a.m. on a weekday, then I'll apply to one role before opening my inbox." For more on building a sustainable search routine, [How To Find A Job](https://howtofindajob.org) covers the weekly cadence that keeps applications moving.
+
+For deep work: "If it's the start of my morning block, then I'll put my phone in another room and open only the file I'm working on."
+
+## The Takeaway
+
+Goals tell you where you want to go. If-then plans tell you what to do the moment opportunity shows up, which is where most good intentions quietly die. The technique costs nothing, takes a minute, and has decades of evidence behind it. Write the cue, write the response, rehearse it once. Then let the situation do the remembering for you.
+    `,
+    faqs: [
+      {
+        question: 'How is an if-then plan different from a regular to-do list?',
+        answer: 'A to-do list records what you want to do. An if-then plan specifies exactly when and where you will do it by tying the action to a concrete trigger. That cue is what closes the gap between intention and action. The meta-analytic evidence (d = 0.65 across 94 tests) is for the planned, cue-based version, not for goals or lists alone.',
+      },
+      {
+        question: 'Do if-then plans work for breaking bad habits, not just building good ones?',
+        answer: 'Yes. The same structure works in reverse with a substitution: "If I reach for my phone during dinner, then I will put it face-down across the room." Gollwitzer’s research found implementation intentions help people disengage from unwanted responses, not only start new ones.',
+      },
+      {
+        question: 'How many plans should I make at once?',
+        answer: 'Start with one. Implementation intentions work because the cue becomes mentally automatic, and spreading your attention across many new triggers dilutes that effect. Get one if-then running reliably, then add the next.',
+      },
+    ],
+  },
+  {
     slug: 'slow-productivity-burnout-2026',
     title: 'Slow Productivity: Why Quality Beats Speed in 2026',
     description: 'Discover why slowing down and focusing on depth over speed is the antidote to burnout and the path to sustainable growth.',
