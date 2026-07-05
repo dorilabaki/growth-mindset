@@ -36,7 +36,7 @@ export const feedPosts: FeedPost[] = [
   {
     id: "1",
     linkedInUrl: "https://www.linkedin.com/company/growth-mindset-big-brain/posts/", // Replace with actual post URL
-    content: `Your brain doesn't have a "full" sign. Every single day, you're capable of learning something new—no matter your age. That's what neuroplasticity teaches us.
+    content: `Your brain doesn't have a "full" sign. Every single day, you're capable of learning something new, no matter your age. That's what neuroplasticity teaches us.
 
 Stop telling yourself you're "too old" to learn.
 Stop believing you've "maxed out" your potential.
