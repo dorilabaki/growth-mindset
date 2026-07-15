@@ -12,6 +12,67 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: 'growth-mindset-cannot-outrun-circumstance-73-country-study',
+    title: 'A 73-Country Study Measured How Much Mindset Offsets Circumstance. The Answer: About 3%.',
+    description: 'One of the most repeated claims in mindset research is that a growth mindset "tempers the effects of poverty on achievement." A study of 73 countries published in npj Science of Learning finally put a number on it: growth mindset explains about 2.9% to 3.2% of the achievement gap between richer and poorer students. Here is why that small number is worth knowing, and what it changes about how you should use the concept.',
+    category: 'Research',
+    readTime: '9 min read',
+    date: '2026-07-15',
+    content: `
+## The Claim That Launched a Thousand School Programs
+
+In 2016, a study of Chilean students published in PNAS made a memorable claim: a growth mindset "tempers the effects of poverty on academic achievement." Students from low-income families who believed their abilities could grow appeared to be, in the authors' words, buffered against the effects of disadvantage. The paper has been cited more than 1,400 times and downloaded nearly 200,000 times, and it helped justify mindset curricula in schools across the US and beyond, often with the explicit goal of reducing educational inequality.
+
+It's an appealing idea. It's also, according to the largest test of it to date, mostly not true. And the way it fails is instructive for anyone who uses growth mindset in their own life, not just in a classroom.
+
+## What the New Study Did
+
+Researchers from Oxford, Bristol, Zurich, and Bonn (Joan Madia, Rob Gruijters, Isabel Raabe, and Nicolas Hübner) used data from PISA 2022, the OECD's standardized assessment of 15-year-olds, covering 73 countries. Published in npj Science of Learning in late 2025, the study asked a precise question: how much of the achievement gap between high and low socioeconomic status (SES) students runs through growth mindset?
+
+That word "how much" is the contribution. Earlier studies showed that poorer students are less likely to hold a growth mindset (true in this data too) and that mindset correlates with achievement (also true here). But correlation plus a plausible story isn't a quantity. Using a statistical approach called four-way decomposition, the team separated the SES achievement gap into the part that runs directly through material circumstances and the part that runs through mindset.
+
+## What They Found
+
+The headline numbers:
+
+- **The SES gap is large.** Students from lower SES backgrounds scored 0.587 standard deviations lower in math than their higher SES peers. That's a chasm in education research terms.
+- **Mindset explains almost none of it.** Growth mindset mediated about 2.9% of the gap in math and about 3.2% in science and reading. Roughly 97% of the gap runs through pathways that have nothing to do with what students believe about their own malleability.
+- **Equalizing mindset wouldn't close the gap.** In the counterfactual where every student holds the same level of growth mindset, the achievement gap barely moves, and at higher mindset levels it actually widens slightly.
+- **The buffer runs the wrong way.** Contrary to the 2016 claim, growth mindset appeared less beneficial for learning at low levels of SES, not more. Believing in growth helps more when you have the resources to act on it.
+
+This isn't one rogue finding. A 2019 US study of 4,828 ninth graders found mindset explained about 2% of the socioeconomic achievement gap. A 2023 study found that five socioemotional skills combined, including growth mindset, explained at most 8.8%. The numbers keep landing in the same small neighborhood.
+
+## Before You Throw Out the Concept
+
+If you've read our coverage of [the context-dependence of mindset effects](/resources/growth-mindset-context-matters-2025-research) or [the two-year wellbeing study](/resources/growth-mindset-mental-wellbeing-two-year-study-2026), you know this site's position: growth mindset is a real but small lever, and honest numbers beat inspirational ones.
+
+So keep two things in view at once. First, mindset effects on individual achievement exist but are modest. The most favorable large meta-analysis (Burnette and colleagues, 2023) puts intervention effects at d = 0.14, and the most skeptical (Macnamara and Burgoyne, 2023) finds d = 0.05 and not statistically significant after correcting for publication bias. The famous Yeager national experiment found about a 0.10 GPA-point gain for lower-achieving students from a one-hour intervention. Small, cheap, sometimes worth it.
+
+Second, none of that smallness makes the belief useless to you as an individual. A 3% mediation share is a statement about what mindset can do against structural inequality, not about what it can do for one person deciding whether to attempt something hard. Those are different questions with different answers.
+
+## What This Changes About How You Use It
+
+The study's real lesson is about weight-bearing. Mindset is a component, not a foundation. Three practical translations:
+
+- **Stop treating belief as a substitute for resources.** The students who benefited most from a growth mindset were the ones with material support to act on it. In your own life, the equivalent is time, tools, instruction, and feedback. If a goal is stalling, audit the resources before you audit your attitude. Adding [structured, deliberate practice](/resources/deliberate-practice-skill-building-guide-2026) will usually move you further than another round of self-belief.
+- **Retire the self-blame loop.** If mindset explained most of the gap between advantaged and disadvantaged students, then falling behind would mostly be a belief failure. It doesn't, and it isn't. When you struggle in an under-resourced situation, the finding here says the situation is doing most of the work. That's not an excuse to stop trying. It's a correction to where you aim your effort.
+- **Be suspicious of any single-variable story about success.** The 2016 "tempers poverty" claim spread because it was hopeful and simple. It took nine years and 73 countries' worth of data to size it properly. Whenever someone tells you one belief, habit, or trick explains large differences in outcomes, remember that the honest number was 3%.
+
+## The Bottom Line
+
+A growth mindset is worth holding. The evidence that it tracks better wellbeing and modest achievement gains is real. But the strongest version of the claim, that believing in growth can offset the disadvantages of circumstance, now has a measured size: around 3 cents on the dollar. Hold the belief, and spend the rest of your effort on the things that carry the other 97: structure, practice, resources, and environments that let effort compound.
+
+## Sources
+
+- Madia, J. E., Gruijters, R. J., Raabe, I. J., & Hübner, N., "Growth mindset and socioeconomic inequality in academic achievement across seventy-three PISA countries," npj Science of Learning (2025), DOI: 10.1038/s41539-025-00365-8
+- Claro, S., Paunesku, D., & Dweck, C. S., "Growth mindset tempers the effects of poverty on academic achievement," PNAS 113, 8664-8668 (2016)
+- Destin, M., et al., "Do student mindsets differ by socioeconomic status?," AERA Open 5 (2019)
+- Gruijters, R. J., Raabe, I. J., & Hübner, N., "Socio-emotional skills and the socioeconomic achievement gap," Sociology of Education 97, 120-147 (2023)
+- Burnette, J. L., et al., Psychological Bulletin 149, 174-205 (2023); Macnamara, B. N. & Burgoyne, A. P., Psychological Bulletin 149, 133-173 (2023)
+- Yeager, D. S., et al., "A national experiment reveals where a growth mindset improves achievement," Nature 573, 364-369 (2019)
+`,
+  },
+  {
     slug: 'growth-mindset-mental-wellbeing-two-year-study-2026',
     title: 'Growth Mindset and Mental Wellbeing: What a Two-Year Study of 454 Adults Found',
     description: 'Most growth mindset research asks whether the belief improves grades or performance. A two-year longitudinal study published in PLOS Mental Health asked a different question: does it protect your mental health during hard times? Adults with a stronger growth mindset showed lower depression, higher wellbeing, and better adjustment across two of the most disruptive years in recent memory. Here is what the study found, and what it does not prove.',
