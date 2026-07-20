@@ -12,6 +12,73 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: 'attention-is-trainable-reclaim-focus-2026',
+    title: "Your Attention Isn't Broken. It's Being Outcompeted. What 20 Years of Data Say About Getting It Back",
+    description: "The eight-second goldfish attention span is a myth with no scientific source. Here is what two decades of Gloria Mark's real workplace data actually show: screen switching has sped up to about 47 seconds, each switch costs roughly 23 minutes to recover from, and focus is a trainable skill, not a fixed trait you were born with.",
+    category: 'Focus',
+    readTime: '9 min read',
+    date: '2026-07-20',
+    content: `
+## First, Kill the Goldfish
+
+You have probably heard that humans now have an attention span of eight seconds, shorter than a goldfish. It is one of the most repeated statistics of the last decade. It is also fake. When journalists and researchers tried to trace it back to a source, they found none. There is no study establishing an eight-second human attention span, and no evidence a goldfish's attention was ever measured against ours. The claim spread because it confirmed something we already suspected about ourselves.
+
+Killing that myth matters, because the real story is both more accurate and more useful. Your ability to concentrate has not shrunk to the length of a breath. What has changed is how often your attention gets pulled, how quickly it moves, and how expensive each of those moves turns out to be. Those are things you can measure, and things you can train.
+
+## What Two Decades of Tracking Actually Found
+
+The most careful long-run data on this comes from Gloria Mark, a professor at the University of California, Irvine who has studied attention in real workplaces for more than twenty years. Her team did not run lab quizzes. They followed people through their actual workdays and logged how long they stayed on one screen before switching to another.
+
+The trend is real. In 2004, the average time people spent on a single screen before switching was about two and a half minutes. By 2012 it had fallen to roughly 75 seconds. In more recent measurements it sits around 47 seconds, and Mark notes that other researchers running separate studies between 2014 and 2020 landed in the same range, somewhere between 44 and 50 seconds. In one 2016 dataset the average was 47 seconds and the median was 40, meaning half of all observed attention stretches were 40 seconds or shorter.
+
+So the change is not imaginary. But notice what it describes: how frequently we switch, not the ceiling on how long we can focus when we choose to. Mark is direct about this. Our ability to focus is not lost. The way we focus has changed, largely because we now work inside environments engineered to interrupt us.
+
+## The Hidden Price of Every Switch
+
+The reason all this matters is that switching is not free, and most of us have no idea what we are paying. In an earlier and widely cited study, Mark and her colleagues found that after an interruption, it took people an average of about 23 minutes to return to the original task. Not 23 seconds. Twenty-three minutes.
+
+Part of that lag has a name. The psychologist Sophie Leroy described what she called attention residue: when you jump from one task to another, a piece of your attention stays stuck on the first one, and it drags on your performance on the second. You are technically looking at the new thing while a background process is still chewing on the old one. Stack enough of those unfinished switches across a day and you get the familiar feeling of working nonstop while finishing almost nothing.
+
+This reframes the problem. The enemy of focus is rarely a weak mind. It is a high switch rate in an environment that rewards switching, combined with the real cost of getting back.
+
+## Attention Is a Skill, Not a Fixed Trait
+
+Here is where a growth mindset stops being a slogan and becomes practical. If you believe attention is a fixed trait, a thing you either have or lack, then the 47-second number is a life sentence and there is nothing to do but feel guilty. If you treat attention as a trainable capacity, the same number becomes a starting baseline, and baselines move.
+
+The brain supports the optimistic reading. The same neuroplasticity that lets you get better at a language or an instrument applies to the mechanics of concentration. Focus improves with repetition, with recovery, and with an environment that stops fighting you. None of that requires a personality transplant. It requires treating attention the way you would treat any skill you wanted to build: deliberately, and with the conditions set up in your favor.
+
+## How To Actually Train It
+
+Start by lowering the switch rate instead of trying to white-knuckle your way to more willpower. Willpower loses to notifications every time, because the notifications are designed by people whose job is to win.
+
+Protect a block of quiet time. Mark's own recommendation, drawn from her workplace studies, is to carve out periods where messages are not sent and replies are not expected, so people can actually do the work. Do the personal version: pick one 60 to 90 minute block a day, put the phone in another room, close every tab that is not the task, and let people know you will be slow to respond. The point is not heroics. It is removing the triggers before you rely on discipline.
+
+Single-task on purpose, and expect it to feel wrong at first. If your baseline is a switch every 47 seconds, staying on one thing for ten minutes will feel unnatural, even uncomfortable. That discomfort is the training effect, the same way the first slow runs feel awful before they get easier. Let the boredom sit rather than reaching for your phone to end it.
+
+Respect the residue. When you do have to switch, give the first task a clean stopping point. Jot down where you were and what comes next before you move. That small note lets your attention actually leave, instead of leaking backward while you pretend to work on something else.
+
+Recover deliberately. Attention is depleted by use and restored by rest, so treat breaks as part of the training, not a reward for finishing. A short walk without your phone rebuilds more capacity than scrolling, which just swaps one demand for another.
+
+## The Real Takeaway
+
+Your attention is not broken, and you are not uniquely weak. You are running a normal human mind inside an economy that profits from interrupting it. The data says the switching has gotten faster and the cost of each switch is high. It also says focus is a capacity that responds to training and environment, not a fixed quantity you were issued at birth. Treat it like the skill it is, protect the conditions it needs, and the baseline moves. That is the whole game.
+
+Related reading: for how the brain rewires with practice, see the piece on neuroplasticity and how your brain physically changes when you learn. For a saner pace that protects deep work, see the guide to slow productivity and the burnout cycle. To turn focus into a repeatable habit, see the two-minute rule for building habits that stick. If most of your switching happens at work, our sister site Office Productivity Hacks covers focus systems for the desk at officeproductivityhacks.com.
+
+## Sources
+
+- Gloria Mark, University of California, Irvine, research on attention span (2004 to present), summarized via Microsoft WorkLab, the American Psychological Association's Speaking of Psychology, Steelcase, and University of California news. Findings: average time on a screen before switching fell from about 2.5 minutes in 2004 to about 75 seconds in 2012 to about 47 seconds in recent data, with independent 2014 to 2020 studies replicating a 44 to 50 second range.
+- Gloria Mark and colleagues, research on interrupted work finding an average of roughly 23 minutes to return to a task after an interruption.
+- Sophie Leroy, "Why Is It So Hard to Do My Work? The Challenge of Attention Residue When Switching Between Work Tasks" (2009).
+- On the eight-second goldfish claim: multiple fact-checks have found no scientific source for it.
+`,
+    faqs: [
+      { question: "Is the eight-second attention span statistic true?", answer: "No. The claim that human attention has dropped to eight seconds, shorter than a goldfish, has no traceable scientific source. Fact-checkers who tried to find the underlying study came up empty. The real measured change is in how often people switch screens, not a hard ceiling on how long they can concentrate." },
+      { question: "How long does it really take to refocus after an interruption?", answer: "Research led by Gloria Mark found it takes an average of about 23 minutes to return to the original task after an interruption. Part of the reason is attention residue, where a piece of your focus stays stuck on the previous task even after you have moved on." },
+      { question: "Can you actually train your attention, or is it fixed?", answer: "Attention behaves like a trainable skill rather than a fixed trait. The same neuroplasticity that supports learning a language or an instrument applies to concentration. It improves with single-tasking practice, deliberate recovery, and an environment that reduces the number of triggers pulling you away." },
+    ],
+  },
+  {
     slug: 'growth-mindset-cannot-outrun-circumstance-73-country-study',
     title: 'A 73-Country Study Measured How Much Mindset Offsets Circumstance. The Answer: About 3%.',
     description: 'One of the most repeated claims in mindset research is that a growth mindset "tempers the effects of poverty on achievement." A study of 73 countries published in npj Science of Learning finally put a number on it: growth mindset explains about 2.9% to 3.2% of the achievement gap between richer and poorer students. Here is why that small number is worth knowing, and what it changes about how you should use the concept.',
