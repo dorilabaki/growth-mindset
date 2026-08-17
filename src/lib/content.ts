@@ -12,6 +12,104 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: 'retrieval-practice-rereading-illusion-2026',
+    title: "Rereading Feels Like Learning. A Washington University Experiment Shows It Isn't.",
+    description: "One group read a passage about 14 times. Another read it 3.4 times and then tested themselves on it. A week later the rereaders remembered 40% of the material and the self-testers remembered 61%. The rereaders were also the most confident they would do well. Here is what four decades of memory research says about why the study method that feels productive is usually the weakest one you can pick.",
+    category: 'Science',
+    readTime: '9 min read',
+    date: '2026-08-17',
+    content: `
+## The Experiment You Should Know About Before You Study Anything Again
+
+In 2006, Henry Roediger and Jeffrey Karpicke at Washington University in St. Louis ran an experiment that is quietly devastating if you have ever prepared for anything by reading it over and over.
+
+They gave 180 undergraduates a short prose passage on a general science topic. Then they split them into three groups, all of whom got exactly the same amount of time with the material: four periods of five minutes each.
+
+The first group read the passage in all four periods. They got through it an average of 14.2 times.
+
+The second group read it in three periods, then took one recall test where they wrote down everything they could remember. They read it 10.3 times.
+
+The third group read it once, then took three consecutive recall tests. They only got through the passage 3.4 times.
+
+Nobody in any group received feedback on their tests. Nobody got to check their answers. The testing groups simply tried to pull the material out of their own heads.
+
+## The Result
+
+Five minutes later, the rereaders looked like the winners. They recalled 83% of the passage's idea units. The single-test group got 78%. The triple-test group came last at 71%.
+
+One week later, the ranking inverted completely. The triple-test group recalled 61%. The single-test group recalled 56%. The rereaders, who had read the passage more than four times as often as anyone else, recalled 40%.
+
+Put the forgetting side by side and it gets starker. Over that week, the rereading group lost 52% of what they had known. The single-test group lost 28%. The triple-test group lost 14%.
+
+Roediger and Karpicke ran a second version with 120 students and a longer window, and the same pattern held. After five minutes, restudying beat testing (81% versus 75%). After two days, testing won (68% versus 54%). After a week, testing won again (56% versus 42%). One detail is worth sitting with: the group that took a single test recalled as much after a full week as the rereading group did after only two days. Taking one test bought roughly five extra days of memory.
+
+## The Uncomfortable Part
+
+Here is the finding that makes this more than a study-skills tip.
+
+At the end of the learning session, before anyone knew how they would do, the researchers asked every student to rate on a seven-point scale how well they thought they would remember the passage in a week.
+
+The rereaders rated themselves 4.8. The single-test group said 4.2. The triple-test group said 4.0.
+
+The group that was most confident performed the worst. The group that was least confident performed the best. Their confidence was not just wrong, it was inverted.
+
+That is not a quirk of one experiment. It is the core problem with judging your own learning by how learning feels. Rereading produces a sensation of fluency. The words go down easily, you recognise every sentence, and recognition feels a lot like knowing. Retrieval produces the opposite sensation. You stare at a blank page, you struggle, you come up with less than you hoped, and you conclude the method is failing you. The struggle is the mechanism.
+
+Robert Bjork, the UCLA psychologist who has spent a career on this, calls these desirable difficulties: conditions that slow down learning in the moment and improve retention over time. Roediger and Karpicke explicitly place their results in that tradition. Testing was harder. That was the point.
+
+## This Is Not One Study
+
+If it were a single result, it would be a curiosity. It is not.
+
+In 2013, John Dunlosky, Katherine Rawson, Elizabeth Marsh, Mitchell Nathan and Daniel Willingham published a 55-page review in Psychological Science in the Public Interest that graded ten common learning techniques for how well the evidence supports them. Their conclusion is worth quoting in spirit: the techniques most students actually use, including underlining, rereading, and mnemonic devices, came out as surprisingly low utility. They were hard to implement well and produced inconsistent gains. The two that earned a high utility rating were practice testing and distributed practice, meaning spreading study sessions out over time instead of massing them.
+
+In 2011, Karpicke and Janell Blunt published a result in Science comparing retrieval practice against elaborative studying with concept mapping, a method that looks far more sophisticated than a quiz. Retrieval practice produced more learning. The advantage showed up on questions requiring comprehension and inference, not just recall of facts. It even showed up when the final test was building a concept map.
+
+And in 2009, Karpicke, Andrew Butler and Roediger surveyed 177 college students about how they actually study. The majority reported rereading their notes or textbook. Relatively few reported testing themselves. The most effective technique available to them was also one of the least used.
+
+## What This Looks Like in Practice
+
+None of this requires an app or a system. Four changes cover most of the value.
+
+**Close the book and write.** After reading anything you want to keep, put it away and write down what you remember from memory. Bullet points are fine. This one move converts passive reading into retrieval. If it feels like you produced less than you learned, that is the experiment working, not you failing.
+
+**Test before you feel ready.** The instinct is to review until you feel confident, then test. Reverse it. Testing while you still feel shaky is where the retention is generated. Confidence built by rereading is, as the data above shows, not informative.
+
+**Space it out.** Distributed practice was the other high-utility technique in the Dunlosky review. Three twenty-minute sessions across a week will beat one hour tonight, even though tonight feels more productive.
+
+**Do not wait for feedback to start.** In both Roediger and Karpicke experiments, the testing groups got no feedback at all and still won by wide margins after a delay. Feedback improves things further, but the act of retrieval carries the effect on its own. You do not need a perfect answer key to begin.
+
+## Why This Belongs Here
+
+A growth mindset is often reduced to believing you can improve. The more useful version is knowing which effort actually produces improvement, because effort is not interchangeable.
+
+Fourteen readings of a passage is real effort. It is also a poor investment, and the reason people keep making it is that it feels good while producing very little. Three self-tests is less pleasant, less time on task, and roughly 50% more retained a week later. If you treat difficulty as a signal that something is wrong, you will systematically choose the weaker method for the rest of your life.
+
+That is the practical link between mindset and method. Believing skill is trainable only helps if you also know that the uncomfortable version of practice is usually the one that trains it. For how the brain physically supports this, see [neuroplasticity and how learning changes your brain](/resources/neuroplasticity-brain-change). For the broader case that structured, effortful practice beats volume, see the [guide to deliberate practice](/guides/deliberate-practice-skill-building-guide-2026). For why the environment matters as much as the method, see [attention is trainable](/resources/attention-is-trainable-reclaim-focus-2026). And for making the retrieval habit small enough to actually keep, see [the two-minute rule](/resources/two-minute-rule-habit-formation).
+
+If you are learning technical material with an AI assistant, the retrieval principle still applies and gets easier to ignore, because the model will happily hand you fluent explanations you never had to reconstruct. Our sister site How Do I Use AI covers how to prompt for practice questions rather than summaries at [howdoiuse.ai](https://howdoiuse.ai). For the workplace version, where most people try to learn new tools between meetings, Office Productivity Hacks covers it at [officeproductivityhacks.com](https://officeproductivityhacks.com).
+
+## The Takeaway
+
+Recognition is not recall. Reading a page again teaches you that you have seen the page, which is a different skill from being able to produce what was on it. The research is old, replicated, and consistent: the version of study that feels like it is going badly is usually the version that works.
+
+Trust the numbers over the feeling. Close the book and write.
+
+## Sources
+
+- Henry L. Roediger III and Jeffrey D. Karpicke, "Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention," Psychological Science, Volume 17, Number 3 (2006), pages 249 to 255. Source of all figures cited above: Experiment 1 (n = 120) final recall of 81% restudy versus 75% test at five minutes, 54% versus 68% at two days, and 42% versus 56% at one week; Experiment 2 (n = 180) mean passage readings of 14.2 (SSSS), 10.3 (SSST) and 3.4 (STTT), final recall of 83%, 78% and 71% at five minutes and 40%, 56% and 61% at one week, proportional forgetting of 52%, 28% and 14%, and mean predicted-recall ratings of 4.8, 4.2 and 4.0 on a seven-point scale.
+- John Dunlosky, Katherine A. Rawson, Elizabeth J. Marsh, Mitchell J. Nathan and Daniel T. Willingham, "Improving Students' Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology," Psychological Science in the Public Interest, Volume 14, Number 1 (2013), pages 4 to 58. Source of the utility ratings placing practice testing and distributed practice as high utility and underlining, rereading and mnemonic devices as low utility.
+- Jeffrey D. Karpicke and Janell R. Blunt, "Retrieval Practice Produces More Learning Than Elaborative Studying With Concept Mapping," Science, Volume 331, Issue 6018 (2011), pages 772 to 775.
+- Jeffrey D. Karpicke, Andrew C. Butler and Henry L. Roediger III, "Metacognitive Strategies in Student Learning: Do Students Practise Retrieval When They Study on Their Own?", Memory, Volume 17, Number 4 (2009). Source of the survey of 177 undergraduates showing rereading as the dominant self-reported strategy and self-testing as relatively rare.
+- Robert A. Bjork, "Memory and Metamemory Considerations in the Training of Human Beings," in Metcalfe and Shimamura (editors), Metacognition: Knowing About Knowing (MIT Press, 1994). Origin of the desirable difficulties framing that Roediger and Karpicke apply to their results.
+`,
+    faqs: [
+      { question: "Why does rereading feel more effective than testing yourself?", answer: "Rereading produces fluency. The material goes down easily and every sentence looks familiar, and familiarity feels a lot like knowing. Retrieval feels worse because you face a blank page and produce less than you hoped. In the 2006 Roediger and Karpicke experiment the group that reread most rated their expected one-week recall highest, at 4.8 out of 7, and then recalled the least, at 40%. Confidence built by rereading is not a reliable signal of what you have actually retained." },
+      { question: "Do you need to check your answers for retrieval practice to work?", answer: "No. In both Roediger and Karpicke experiments the testing groups received no feedback at all and still outperformed the rereading groups by wide margins on delayed tests, by 14 percentage points after a week in one case and 21 in the other. Feedback improves results further, but the act of pulling information out of memory produces the effect on its own. You can start today without an answer key." },
+      { question: "Is retrieval practice only useful for memorising facts?", answer: "No. Karpicke and Blunt's 2011 study in Science found that retrieval practice beat elaborative studying with concept mapping on test questions that required comprehension and inference, not just factual recall. The advantage held even when the final task was to build a concept map, which is the format the comparison group had been practising." },
+    ],
+  },
+  {
     slug: 'attention-is-trainable-reclaim-focus-2026',
     title: "Your Attention Isn't Broken. It's Being Outcompeted. What 20 Years of Data Say About Getting It Back",
     description: "The eight-second goldfish attention span is a myth with no scientific source. Here is what two decades of Gloria Mark's real workplace data actually show: screen switching has sped up to about 47 seconds, each switch costs roughly 23 minutes to recover from, and focus is a trainable skill, not a fixed trait you were born with.",
@@ -121,7 +219,7 @@ Second, none of that smallness makes the belief useless to you as an individual.
 
 The study's real lesson is about weight-bearing. Mindset is a component, not a foundation. Three practical translations:
 
-- **Stop treating belief as a substitute for resources.** The students who benefited most from a growth mindset were the ones with material support to act on it. In your own life, the equivalent is time, tools, instruction, and feedback. If a goal is stalling, audit the resources before you audit your attitude. Adding [structured, deliberate practice](/resources/deliberate-practice-skill-building-guide-2026) will usually move you further than another round of self-belief.
+- **Stop treating belief as a substitute for resources.** The students who benefited most from a growth mindset were the ones with material support to act on it. In your own life, the equivalent is time, tools, instruction, and feedback. If a goal is stalling, audit the resources before you audit your attitude. Adding [structured, deliberate practice](/guides/deliberate-practice-skill-building-guide-2026) will usually move you further than another round of self-belief.
 - **Retire the self-blame loop.** If mindset explained most of the gap between advantaged and disadvantaged students, then falling behind would mostly be a belief failure. It doesn't, and it isn't. When you struggle in an under-resourced situation, the finding here says the situation is doing most of the work. That's not an excuse to stop trying. It's a correction to where you aim your effort.
 - **Be suspicious of any single-variable story about success.** The 2016 "tempers poverty" claim spread because it was hopeful and simple. It took nine years and 73 countries' worth of data to size it properly. Whenever someone tells you one belief, habit, or trick explains large differences in outcomes, remember that the honest number was 3%.
 
@@ -185,7 +283,7 @@ What the study does establish is a consistent, replicated association between be
 
 There is a plausible mechanism, and it does not require anything mystical. Depression feeds on the belief that your situation is permanent and that you are the kind of person who cannot change it. A growth mindset is, almost by definition, the opposite belief. It does not deny that things are bad. It denies that bad is a fixed address.
 
-That maps onto what the adjustment data showed. If you believe you can learn your way into a new situation, you try things. You set up the video calls, you rebuild the routine, you [treat the setback as a stage rather than an ending](/resources/how-to-recover-from-a-setback). Each small successful adjustment then becomes its own evidence that you can adapt, which supports mood in turn. Psychologists call this a virtuous cycle, and it is consistent with the finding that mindset, adjustment, and wellbeing moved together.
+That maps onto what the adjustment data showed. If you believe you can learn your way into a new situation, you try things. You set up the video calls, you rebuild the routine, you [treat the setback as a stage rather than an ending](/guides/how-to-recover-from-a-setback). Each small successful adjustment then becomes its own evidence that you can adapt, which supports mood in turn. Psychologists call this a virtuous cycle, and it is consistent with the finding that mindset, adjustment, and wellbeing moved together.
 
 It also fits the broader pattern in the research we have covered before: growth mindset effects show up most reliably [where context and stakes align with the belief](/resources/growth-mindset-context-matters-2025-research), not as a universal booster shot. A crisis that demands adaptation is close to the ideal context for a belief about adaptability.
 
@@ -2311,7 +2409,7 @@ A useful frame: implementation intentions sit at the intersection of three threa
 
 The first is the friction-reduction line, popularised by James Clear's *Atomic Habits* and BJ Fogg's *Tiny Habits*. The argument is that habits survive when starting them is easy. Implementation intentions reduce starting friction by predefining the start. The trigger is automatic. The deliberation cost is paid in advance, when you formed the plan, not in the moment.
 
-The second is the goal-graded approach we covered in our [MTO Goal Method article](/resources/mto-goal-method-three-levels-beats-all-or-nothing). MTO solves the all-or-nothing failure mode in goal-setting by defining three levels of daily success. Implementation intentions complement this by handling the question of when and how to start. A combined approach might pair an MTO-graded daily goal with an if-then plan for the trigger that begins the work.
+The second is the goal-graded approach, sometimes called the MTO method, which sets a minimum, a target and an outstanding level for each day. It solves the all-or-nothing failure mode in goal-setting by defining three levels of daily success. Implementation intentions complement this by handling the question of when and how to start. A combined approach might pair an MTO-graded daily goal with an if-then plan for the trigger that begins the work.
 
 The third is the growth-mindset literature itself. Carol Dweck's research shows that people with a growth orientation persist longer through difficulty. Implementation intentions provide the operational mechanism by which growth-oriented intent becomes consistent action. Mindset without execution is wishful; execution without mindset is fragile. The two are complementary, not redundant.
 
