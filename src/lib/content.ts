@@ -12,6 +12,99 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: 'procrastination-emotion-regulation-not-time-management-2026',
+    title: "Procrastination Isn't a Time Management Problem. The Research Says It's a Mood Problem.",
+    description: "Every productivity system you have tried assumes procrastination is a scheduling failure. Three decades of psychology research points somewhere else: people delay tasks to escape a bad feeling, not because they miscalculated the calendar. A 3,525-student Swedish cohort study published in JAMA Network Open tracked what that delay costs over nine months. Here is what the evidence actually supports doing about it.",
+    category: 'Science',
+    readTime: '9 min read',
+    date: '2026-08-24',
+    content: `
+## The Diagnosis Almost Everyone Gets Wrong
+
+You know what you should be doing. You know roughly how long it takes. You have a calendar, a task list, and probably two apps you downloaded specifically to solve this. And you are still not doing it.
+
+If procrastination were a time management problem, that combination would fix it. It does not, and the reason is that the diagnosis is wrong. The research consensus that has built up since the mid-1990s says procrastination is a self-regulation failure centred on emotion, not on scheduling. Tim Pychyl, who ran the Procrastination Research Group at Carleton University, states it plainly: it is an emotion regulation problem, not a time management problem.
+
+That reframe is not a motivational slogan. It changes which interventions have any chance of working.
+
+## How Common This Actually Is
+
+Piers Steel's 2007 meta-analytic review in Psychological Bulletin, built on 691 correlations, put the prevalence figures in the record. Estimates indicate 80% to 95% of college students engage in procrastination. Chronic, problematic procrastination affects roughly 15% to 20% of adults.
+
+Read the second number carefully, because it is the one people misuse. Most procrastination is ordinary and situational. A meaningful minority of people experience it as a persistent pattern that interferes with work, health, and finances. Those are two different problems, and advice pitched at the first often insults the second.
+
+## The Mechanism: Short-Term Mood Repair
+
+Fuschia Sirois and Tim Pychyl laid out the mechanism in a 2013 paper in Social and Personality Psychology Compass. Their argument is that procrastination is a case of prioritising short-term mood repair over long-term goals. You face a task that feels aversive, boring, ambiguous, or threatening to your sense of competence. That produces a negative emotional state. Avoiding the task removes the state immediately. The relief is real, it arrives within seconds, and it is reinforcing.
+
+Notice what that means. Procrastination works. It reliably delivers exactly what the person is unconsciously optimising for, which is feeling better right now. The cost is transferred to a version of you that does not exist yet and therefore has no vote.
+
+Dianne Tice and Roy Baumeister documented this trade in a longitudinal study published in Psychological Science in 1997, tracking students across a semester. Early in the term, procrastinators reported lower stress and less illness than non-procrastinators. Late in the term, they reported higher stress and more illness, and across the whole period they were sicker overall. They also received lower grades on every assignment. The authors' summary of the pattern is the most useful sentence in the literature on this topic: short-term benefits, long-term costs.
+
+That is why willpower framing fails. You are not fighting laziness. You are competing with a reward that pays out instantly against one that pays out in a week.
+
+## What Nine Months of Delay Correlates With
+
+The largest recent test of the downstream cost came from Sweden. Fred Johansson and colleagues published a cohort study in JAMA Network Open in January 2023 following 3,525 university students recruited from eight universities in the greater Stockholm area and Orebro, with a 73% follow-up rate nine months later. Procrastination was measured with five items from the Swedish Pure Procrastination Scale, scored from 5 to 25. Baseline mean was 12.9.
+
+At the nine-month follow-up, a one standard deviation increase in baseline procrastination was associated with higher symptom levels of depression, anxiety, and stress, and with higher risk of disabling pain in the upper extremities, poor sleep quality, physical inactivity, loneliness, and economic difficulties. The point estimates for the mental health outcomes ranged from 0.08 to 0.13 standard deviations. The risk ratios for the binary outcomes ranged from 1.07 to 1.27.
+
+Two things are worth saying about those numbers, and the authors say both themselves.
+
+First, they are small. The paper states directly that the associations are weak, noting that a one standard deviation increase in procrastination was associated with an increase in subsequent depression symptoms of only 0.13 standard deviations. Anyone quoting this study as proof that procrastination wrecks your health is overselling it.
+
+Second, they are associations, not causal effects. The authors are explicit that interpreting them causally requires assumptions that are unlikely to be fully met in the present study, and they flag in the introduction that the direction could run both ways, with poor mental health reducing energy and motivation and therefore producing more delay.
+
+What the study does establish is that procrastination is not a neutral scheduling quirk. It sits in a cluster with sleep, mood, isolation, and money problems, and the pattern persists across most of an academic year. If you have suspected that your delay habit and your low mood are connected, this is reasonable evidence that you are not imagining it.
+
+## Why Productivity Systems Keep Failing You
+
+Once you accept that the trigger is an emotional state, the failure of most productivity advice becomes predictable.
+
+A better calendar does not reduce the aversiveness of the task. Breaking work into smaller chunks helps only when the aversion is driven by scale, which is one cause among several. Accountability partners work partly because they change the emotional weighting, which is why they outperform apps.
+
+And self-criticism, the standard response, makes it measurably worse. The negative emotion is the trigger. Adding shame to that state increases the pressure to escape it, which increases the pull toward avoidance. Sirois's work on self-compassion and procrastination points in the opposite direction from the intuitive fix. If you want the fuller argument on this, see [self-compassion fuels motivation, it isn't self-indulgence](/resources/self-compassion-fuels-motivation-not-self-indulgence-2026) and [why self-compassion outperforms self-criticism](/resources/self-compassion-outperforms-self-criticism).
+
+## What Has Evidence Behind It
+
+Three approaches have real support, and all three work on the emotion rather than on the schedule.
+
+**Name the feeling before you name the task.** The first move is diagnostic. Ask what specifically is unpleasant about this piece of work. Ambiguity about what "done" means, fear that the output will expose a gap, boredom, and resentment at having been assigned it all feel like the same generic reluctance from the inside, but they need different responses. Ambiguity is fixed by defining the deliverable. Fear of exposure is fixed by lowering the stakes of the first draft. You cannot pick the right lever until you know which one it is.
+
+**Use if-then plans.** Implementation intentions have the strongest track record of any single intervention here, because they remove the decision point where the emotional negotiation happens. Instead of intending to write the report, you specify: if it is 9am on Tuesday and I am at my desk, then I will open the document and write the first section heading. Peter Gollwitzer's research programme on this now spans three decades. We covered the evidence base in [if-then plans and their 30-year track record](/resources/if-then-plans-implementation-intentions-30-year-track-record) and the practical version in [if-then planning](/resources/if-then-planning-implementation-intentions).
+
+**Shrink the entry cost, not the task.** The point of starting with two minutes of work is not that two minutes is productive. It is that two minutes is too small for the aversion response to fire. Once you are in the task, the anticipated dread usually turns out to have been worse than the task itself, which is a finding that shows up repeatedly in the emotion regulation literature. See [the two-minute rule](/resources/two-minute-rule-habit-formation) for how to apply it.
+
+For chronic procrastination in the 15% to 20% band, these self-directed methods are often not enough, and cognitive behavioural approaches delivered by a clinician have a stronger record. Treating that as a personal failure of discipline is both inaccurate and unhelpful.
+
+## Where This Shows Up Beyond Your To-Do List
+
+The two contexts where procrastination costs most are the ones where the task is emotionally loaded rather than technically hard.
+
+Job searching is the clearest example. Applications carry rejection risk, so the aversion is high, and the deadline is usually self-imposed, so nothing external forces the issue. Our sister site How To Find A Job covers the structural side of that problem at [howtofindajob.org](https://howtofindajob.org). The other is administrative work that feels beneath you and therefore generates resentment. Office Productivity Hacks covers automating that category out of existence at [officeproductivityhacks.com](https://officeproductivityhacks.com).
+
+## The Takeaway
+
+You are not disorganised. You are regulating a feeling, and the method you are using works brilliantly in the short run and poorly over nine months.
+
+Stop optimising the calendar and start asking what the task makes you feel. Then make the first step small enough that the feeling does not have time to arrive.
+
+## Sources
+
+- Piers Steel, "The Nature of Procrastination: A Meta-Analytic and Theoretical Review of Quintessential Self-Regulatory Failure," Psychological Bulletin, Volume 133, Number 1 (2007), pages 65 to 94. Source of the prevalence estimates of 80% to 95% among college students and 15% to 20% chronic procrastination among adults, based on 691 correlations.
+- Fuschia M. Sirois and Timothy A. Pychyl, "Procrastination and the Priority of Short-Term Mood Regulation: Consequences for Future Self," Social and Personality Psychology Compass, Volume 7, Number 2 (2013), pages 115 to 127. Source of the short-term mood repair account.
+- Dianne M. Tice and Roy F. Baumeister, "Longitudinal Study of Procrastination, Performance, Stress, and Health: The Costs and Benefits of Dawdling," Psychological Science, Volume 8, Number 6 (1997), pages 454 to 458. Source of the early-semester versus late-semester stress and illness reversal, the overall higher illness rate, and the lower grades on all assignments.
+- Fred Johansson, Alexander Rozental, Klara Edlund, Pierre Cote, Tobias Sundberg, Clara Onell, Ann Rudman and Eva Skillgate, "Associations Between Procrastination and Subsequent Health Outcomes Among University Students in Sweden," JAMA Network Open, Volume 6, Number 1 (4 January 2023), article e2249346, doi:10.1001/jamanetworkopen.2022.49346. Source of all cohort figures cited above: 3,525 participants from 8 universities, 73% follow-up at 9 months, Pure Procrastination Scale range 5 to 25 with baseline mean 12.9, and per-1-SD estimates for depression (beta 0.13, 95% CI 0.09 to 0.17), anxiety (beta 0.08, 95% CI 0.04 to 0.12), stress (beta 0.11, 95% CI 0.08 to 0.15), disabling upper extremity pain (RR 1.27, 95% CI 1.14 to 1.42), poor sleep quality (RR 1.09, 95% CI 1.05 to 1.14), physical inactivity (RR 1.07, 95% CI 1.04 to 1.11), loneliness (RR 1.07, 95% CI 1.02 to 1.12) and economic difficulties (RR 1.15, 95% CI 1.02 to 1.30). The authors state the associations are weak and explicitly caution against causal interpretation.
+- Timothy A. Pychyl, Procrastination Research Group, Carleton University, on procrastination as an emotion regulation problem rather than a time management problem.
+`,
+    faqs: [
+      { question: 'If procrastination is not about time management, why do productivity systems help some people?', answer: 'They help when they happen to reduce the emotional load of the task. Breaking work into smaller pieces lowers the aversion that comes from scale, and an accountability partner changes what the delay feels like. The systems that fail are the ones that only reorganise the schedule, because the schedule was never the trigger.' },
+      { question: 'Does the Swedish study prove procrastination damages your health?', answer: 'No, and the authors say so. The JAMA Network Open cohort found associations between procrastination and later depression, anxiety, stress, disabling upper extremity pain, poor sleep, inactivity, loneliness and economic difficulty, but the effect sizes were small and the paper states that causal interpretation requires assumptions unlikely to be fully met. The relationship may also run in both directions, since poor mental health can itself increase delay.' },
+      { question: 'What is the single most effective thing to try first?', answer: 'An if-then plan that specifies the exact cue and the exact first action, paired with an entry step small enough to be trivial. Implementation intentions have the strongest research record of any single intervention because they remove the moment where you renegotiate with yourself, and a two-minute entry step is usually too small to trigger the avoidance response.' },
+      { question: 'When is procrastination worth getting professional help for?', answer: 'When it is persistent rather than situational and is interfering with work, finances, health or relationships. The Steel review estimates that 15% to 20% of adults experience chronic problematic procrastination. For that group, cognitive behavioural approaches delivered by a clinician have a stronger record than self-directed productivity methods.' },
+    ],
+  },
+  {
     slug: 'retrieval-practice-rereading-illusion-2026',
     title: "Rereading Feels Like Learning. A Washington University Experiment Shows It Isn't.",
     description: "One group read a passage about 14 times. Another read it 3.4 times and then tested themselves on it. A week later the rereaders remembered 40% of the material and the self-testers remembered 61%. The rereaders were also the most confident they would do well. Here is what four decades of memory research says about why the study method that feels productive is usually the weakest one you can pick.",
