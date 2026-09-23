@@ -12,6 +12,136 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: 'breaking-a-habit-decay-timeline-2026',
+    title: "Breaking a Habit Doesn't Take 21 Days Either. In One Study It Took Between 1 and 65.",
+    description: "Almost all habit research is about building. A pair of studies from the University of Bern tracked 194 people day by day while they tried to break one, across 11,805 daily reports. Habit strength took anywhere from 1 to 65 days to stabilise, the strategy people chose made no significant difference, and three day-level factors did: running into the cue, days the behaviour did not happen, and whether the reduction felt worth it that day.",
+    category: 'Science',
+    readTime: '9 min read',
+    date: '2026-09-23',
+    content: `
+## Everything You Have Read Is About Building
+
+Search for habit advice and you get an avalanche of it. Stack the new behaviour on an old one. Make it two minutes long. Keep the context stable. Track the streak.
+
+Nearly all of it is about construction. Almost none of it is about demolition, which is strange, because for most people the harder problem is the second one. The evening snack you did not decide to eat. The phone you picked up without noticing. The drink that happens on Thursdays because Thursdays are when it happens.
+
+Those are habits too, running on the same machinery, and until recently almost nobody had measured what happens to them when you actually try to stop. A pair of studies out of the University of Bern has now done exactly that, tracking people day by day while they tried to break a habit. The findings are less tidy than the formation literature, and more useful, because they name the two things that actually move the needle and quietly dismiss several things that do not.
+
+## The Study: 91 Days, 194 People, 11,805 Daily Reports
+
+Robert Edgren, Dario Baretta and Jennifer Inauen at the University of Bern's Department of Health Psychology and Behavioral Medicine published their first paper in Applied Psychology: Health and Well-Being in February 2025.
+
+The design is the important part. They ran a 91-day intensive longitudinal study with 194 participants split into four parallel non-randomised groups, each targeting a different unwanted habit: sedentary behaviour, unhealthy snacking, alcohol consumption, or smoking. Every day, participants rated the automaticity of the behaviour using the Self-Report Behavioral Automaticity Index, the standard four-item measure of how reflexive a behaviour feels. That produced 11,805 daily observations.
+
+Then they fitted a family of curves to each person's data individually to find out what shape habit decay actually takes.
+
+## The Number: 1 to 65 Days
+
+Here is the headline finding, and it is worth sitting with.
+
+**The time it took for habit decay to stabilise ranged from 1 to 65 days.**
+
+Not an average. A range. One person's habit strength flattened out after a single day. Another's kept falling for more than two months. Asymptotic and logistic models were the best fit for 54% of the sample, meaning that for most people the decline decelerated over time, dropping quickly at first and then levelling off at a floor.
+
+The authors' own summary is precise: habit decay when trying to degrade a habit typically follows a decelerating negative trend, but it is a highly idiosyncratic process. Multilevel modelling showed substantial between-person heterogeneity. Initial habit strength differed by behaviour group, but the decay process itself did not.
+
+That last detail matters more than it sounds. Whether you are trying to stop snacking or stop smoking, the shape of how the automaticity fades looks broadly similar. What differs is the person, not the vice.
+
+If the 21-day rule was a bad guide to forming a habit, and [the research says it was](/resources/how-long-to-form-a-habit-21-day-myth-2026), it is an even worse guide to breaking one. There is no number. There is a range wide enough that any single figure would mislead nearly everyone who read it.
+
+## What Actually Predicted Progress
+
+The second paper, published in Psychology & Health in 2026, went after the mechanism. Same 194 adults, 75% female, mean age 41. Each person picked a strategy and wrote an implementation intention around it, then worked on degrading their chosen habit over 12 weeks while filling in daily diaries.
+
+The three strategies on offer were the ones the habit literature nominates:
+
+- **Substitution.** Replace the behaviour with a different one in the same slot.
+- **Inhibition.** Encounter the cue, and consciously refrain.
+- **Cue discontinuity.** Change the environment so the cue stops appearing.
+
+Substitution was the most popular pick by a wide margin.
+
+And then the results did something researchers do not usually enjoy reporting. **There were no significant associations for strategy type.** Nor for the characteristics of the implementation intentions people wrote. The thing everyone argues about, which technique is best, did not separate.
+
+What did separate were three day-level factors:
+
+1. **Habit strength was higher on days when people encountered the cue.** Running into the trigger pushed automaticity back up, whether or not the person gave in.
+2. **Habit strength was lower on days when the behaviour was not performed.** Each non-performance day was itself a downward force, not merely the absence of an upward one.
+3. **Habit strength was lower on days when the reward for reducing the behaviour was higher than that person's average.** Feeling that the reduction paid off, on that specific day, predicted a weaker habit.
+
+Stress and intention showed up in some models but not consistently.
+
+The authors' conclusion: non-performance of the habitual behaviour and reward emerged as determinants of habit degradation, while encountering habitual cues might counteract degradation effort.
+
+## Read That Again, Because It Reorders the Advice
+
+Most habit-breaking advice is about the moment of temptation. Be strong. Use a technique. Ride the urge.
+
+The Bern data says the moment of temptation is the part you should be trying to have less often. The cue itself, independent of whether you resist it, is what keeps the habit alive. Willpower applied at the cue is a losing trade not because willpower is fake, but because you are spending it on a stimulus you could have removed.
+
+And it says something equally unglamorous about the other side: the accumulation of ordinary non-performance days is doing the work. Not a breakthrough. Not a reframe. Days where it simply did not happen.
+
+The third finding is the one people skip. Reward mattered, and specifically **daily** reward, higher than that person's own average. Not the abstract long-term payoff, which arrives too late to reinforce anything, but a felt benefit on the day. Slept better. Had more money. Felt clearer at 4pm. If your reduction plan contains no mechanism for noticing the benefit on the day it occurs, you have removed the only reinforcement in the system.
+
+## The Symmetry With Formation
+
+It is worth putting this beside the building literature, because the fit is neat.
+
+Sebastian Bürgler, Marina Milyavskaya, Gail McMillan, Rachel Burns, Phillippa Lally and Benjamin Gardner published a preregistered reanalysis of a six-month longitudinal habit formation study in Personality and Social Psychology Bulletin in April 2026. They identified six determinants significantly associated with habit strength: autonomous motivation, behaviour frequency, context stability, feeling energised, and feeling pleased, all positive, and perceived difficulty, negative.
+
+Look at the pairs.
+
+- **Context stability builds habits.** Cue encounters sustain them. So context disruption is the demolition tool, and it is the same lever pulled the other way.
+- **Behaviour frequency builds habits.** Non-performance degrades them. Same lever.
+- **Feeling pleased builds habits.** Day-level reward degrades the unwanted one. Same lever.
+
+The mechanisms are not two separate systems. Breaking a habit is forming its absence, and the same variables govern both directions. Which means the tools you already have from the formation side, [the two-minute entry step](/resources/two-minute-rule-habit-formation) and [if-then plans](/resources/if-then-plans-implementation-intentions-30-year-track-record), are not wasted here. They are just pointed at the replacement behaviour rather than at the resistance.
+
+## Five Things the Data Supports Doing
+
+**1. Go after the cue before you go after the urge.** List the three most reliable triggers for the behaviour, then ask of each one whether it can be removed, moved, or made inconvenient rather than resisted. The snack you keep in the car. The route past the shop. The notification. This is the single highest-leverage move in the findings, and it is the one people treat as cheating. It is also why environment design beats resolve at work, a point Office Productivity Hacks makes from the other direction in its piece on [decision fatigue](https://officeproductivityhacks.com/resources/decision-fatigue-productivity).
+
+**2. Stop optimising your strategy.** Substitution, inhibition and cue discontinuity did not differ significantly in the trial. Pick whichever you will actually run and move on. The time you spend choosing a method is time not spent accumulating non-performance days.
+
+**3. Build a daily payoff into the plan.** At the end of each day, name the specific benefit you got from not doing it. Not the abstract five-year version. Today's version. This is the reward signal that predicted lower habit strength, and it is the piece almost every plan omits.
+
+**4. Expect the fast part first and the slow part after.** The decelerating curve means your steepest progress arrives early, then flattens. The flattening is not failure or a plateau to break through. It is the expected shape. Most people quit exactly where the model says the curve should level off.
+
+**5. Do not set a deadline.** One to 65 days. Any target you set has a good chance of being wrong by weeks in either direction, and a missed target is the most common reason people abandon a process that was working. Track non-performance days instead of counting down to a finish line that the data says does not exist. The same logic applies to any long process with an unknown end date, which is why How To Find A Job recommends tracking [stage-by-stage activity rather than a countdown](https://howtofindajob.org/resources/diagnose-where-your-job-search-is-breaking-down) during a search.
+
+## What This Research Does Not Show
+
+Four limits, stated plainly, because the habit field has a history of confident claims that did not survive replication.
+
+The outcome is self-reported automaticity, not observed behaviour. Participants rated how reflexive the behaviour felt. That is the field's standard measure and it is validated, but it is a perception.
+
+The 2025 decay study used four parallel non-randomised groups, so the behaviour comparisons are not causal.
+
+Both samples are the same 194 people, 75% female with a mean age of 41, working on four health-risk behaviours. Whether the same dynamics govern a scrolling habit, a spending habit or a conversational habit is an open question, not a finding.
+
+And a null result on strategy type is not proof that strategy does not matter. It means this study, at this sample size, did not detect a difference. A larger trial might.
+
+## Bottom Line
+
+There is no 21 days for breaking a habit, and there is no 66 either. In the only study that has measured it day by day, stabilisation took somewhere between 1 and 65 days depending on the person, with the fastest progress arriving early and then flattening.
+
+What predicted progress was not which technique people chose. It was how often they ran into the cue, how many days passed without the behaviour happening, and whether they felt a payoff on the day. Remove the trigger, let the empty days accumulate, and notice what you got out of it before you go to sleep.
+
+That is a less satisfying plan than a technique with a name. It is the one the data supports.
+
+## Sources
+
+- Robert Edgren, Dario Baretta and Jennifer Inauen, "The temporal trajectories of habit decay in daily life: An intensive longitudinal study on four health-risk behaviors," Applied Psychology: Health and Well-Being, February 2025, doi:10.1111/aphw.12612. Source of the 91-day design, 194 participants in four parallel non-randomised groups, 11,805 daily Self-Report Behavioral Automaticity Index observations, the 1-to-65-day stabilisation range, the finding that asymptotic and logistic models were the best fit for 54% of the sample, and the conclusion that decay follows a decelerating negative trend but is highly idiosyncratic.
+- "Determinants and strategies of self-reported habit degradation: an intensive longitudinal study," Psychology & Health, 2026, doi:10.1080/08870446.2026.2626493. Source of the 12-week strategy study: 194 adults (75% female, mean age 41), self-selected substitution, inhibition or cue discontinuity paired with implementation intentions, substitution as the most common choice, the null findings for strategy type and implementation intention characteristics, and the day-level associations for cue encounter, non-performance and above-average reward.
+- Sebastian Bürgler, Marina Milyavskaya, Gail McMillan, Rachel J. Burns, Phillippa Lally and Benjamin Gardner, "What Makes a Habit? Investigating Potential Determinants of Habit Formation," Personality and Social Psychology Bulletin, published online 29 April 2026, doi:10.1177/01461672261440446. Preregistered reanalysis of a six-month longitudinal habit formation study; source of the six determinants of habit strength cited above.`,
+    faqs: [
+      { question: "How long does it take to break a habit?", answer: "There is no single number. In the University of Bern's 91-day daily-diary study of 194 people, the time for habit strength to stabilise ranged from 1 to 65 days depending on the individual. For most participants the decline decelerated, falling fastest at the start and then levelling off. Any specific figure you see quoted is either an average being misreported as a rule, or invented." },
+      { question: "Which is better, replacing a habit or just resisting it?", answer: "The 12-week trial found no significant difference between substitution, inhibition and cue discontinuity, and none for the characteristics of the implementation intentions people wrote. Substitution was the most popular choice but did not outperform the others. Pick the one you will actually follow rather than optimising the method." },
+      { question: "Why does avoiding the trigger work better than resisting it?", answer: "In the daily data, habit strength was higher on days when people encountered the cue, regardless of whether they gave in. The cue appears to sustain the habit on its own. Removing or changing the trigger takes that force out of the system, while resisting it leaves the force in place and asks you to counteract it every time." },
+      { question: "What should I track instead of a streak?", answer: "Count days on which the behaviour did not happen, and note the specific benefit you got that day. Both were associated with lower habit strength in the research: non-performance days and above-average daily reward. A broken streak resets a counter that was never the mechanism. An extra non-performance day still counts." },
+    ],
+  },
+  {
     slug: 'procrastination-emotion-regulation-not-time-management-2026',
     title: "Procrastination Isn't a Time Management Problem. The Research Says It's a Mood Problem.",
     description: "Every productivity system you have tried assumes procrastination is a scheduling failure. Three decades of psychology research points somewhere else: people delay tasks to escape a bad feeling, not because they miscalculated the calendar. A 3,525-student Swedish cohort study published in JAMA Network Open tracked what that delay costs over nine months. Here is what the evidence actually supports doing about it.",
