@@ -12,6 +12,87 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: 'self-compassion-job-search-stalls-diary-study-2026',
+    title: "When a Job Search Stalls, Self-Compassion Changed What It Did to Mood. A 227-Person Diary Study.",
+    description: "A Journal of Vocational Behavior study followed 227 job seekers for 20 days. When people felt stuck, those low in self-compassion felt clearly worse. Those high in it showed almost no link. Here's what the paper found, what it didn't test, and three habits it points to.",
+    category: 'Science',
+    readTime: '8 min read',
+    date: '2026-09-30',
+    content: `
+## A Stalled Search Does Two Things at Once
+
+Most advice about job hunting treats it as a logistics problem: better resume, more applications, sharper follow-ups. The psychology literature treats it as something else, a long stretch of uncertain effort with very little feedback. Applications disappear. Recruiters go quiet. The market can be perfectly healthy and your own week can still feel like nothing is happening.
+
+A 2018 paper in the Journal of Vocational Behavior asked a narrow, useful question about that experience. When a job search stalls, does how you treat yourself change what the stall does to your mood? The authors were Lonneke Kreemers, Edwin van Hooft and Annelies van Vianen, and they ran two studies to find out.
+
+## The Two Studies
+
+**Study 1** was cross-sectional. It surveyed 99 job seekers, 61.6 percent of them women, average age about 41. Roughly 58 percent were unemployed and the median search had run six months. Participants reported how difficult their search had been and how they had felt over the previous four days.
+
+**Study 2** was a diary design. It followed 227 career starters (77 percent women, average age 25, most of them recent graduates, and 74 percent already holding a paid job) across five surveys spread over 20 days, one every four days. About 57 percent completed all five. At each wave they rated how much progress they felt they were making and how they felt emotionally.
+
+In both studies, self-compassion was measured with the 26-item Self-Compassion Scale, the standard instrument in the field. It scores how kindly people treat themselves when things go badly, whether they see setbacks as part of common human experience, and whether they keep painful feelings in balanced awareness instead of getting swept up in them.
+
+## What They Found
+
+Across both studies, job seekers higher in self-compassion reported fewer negative emotions and more positive ones overall. In Study 1 the associations were sizable: standardized coefficients of about -0.46 and -0.44 for the two kinds of negative affect, and +0.48 and +0.52 for the two kinds of positive affect. But a general association like that is what you'd expect from almost any trait, and it doesn't say much on its own.
+
+The more specific result came from the diary study, which looked at what happens in the moments when a search feels stuck.
+
+For people low in self-compassion (one standard deviation below average), feeling that they were making less progress was clearly tied to feeling worse. Lower perceived progress went with more of the tense, agitated kind of negative emotion (slope of 0.129) and more of the low, flat kind (slope of 0.281). Both were statistically significant.
+
+For people high in self-compassion (one standard deviation above average), the same link was close to zero. The slopes were 0.002 for the agitated kind and 0.047 for the low kind, neither statistically distinguishable from no relationship. Feeling stuck was less connected to feeling bad.
+
+In plain terms: the stall still happened. What differed was how much of it landed on the person's mood.
+
+## Where It Didn't Help
+
+The paper is careful about this, and it's worth being just as careful. Self-compassion did not soften the link between lack of progress and lower positive emotion. People high in self-compassion still felt less good on days they felt stuck; they just felt less bad. In the diary study, the buffering effect showed up for negative emotions only.
+
+Study 1 found a related pattern. Job search difficulty predicted more negative affect regardless of self-compassion level. Self-compassion did not make hard searches feel easy. It changed what happened to positive feelings under pressure: among low-self-compassion participants, more difficulty went with less positive emotion (B = -0.21), and among high-self-compassion participants, that link was flat (B = 0.05).
+
+## What This Research Does Not Show
+
+The authors list their own limits, and there are several.
+
+The data are correlational and self-reported. Nothing here shows that raising someone's self-compassion causes a steadier mood during a search. People who are emotionally steadier may also happen to score higher on the scale.
+
+Self-compassion was treated as a stable trait, measured once. The study cannot say whether a person who deliberately practices it during a search gets the same benefit.
+
+The paper measured feelings, not outcomes. It does not show that self-compassionate job seekers apply more, interview better, or land jobs faster. The authors note they didn't include self-efficacy, which has a well-established link to search outcomes.
+
+The samples are narrow. Study 2 was mostly young, mostly female, mostly employed career starters, and only 57 percent finished every wave. Study 1 was 99 people with a single-item measure of difficulty. Findings might look different for a 50-year-old laid off after 20 years.
+
+And it's a 2018 paper. It's still the direct evidence on this question, but it's one research group's work and not a settled consensus.
+
+## What You Can Reasonably Take From It
+
+The study doesn't hand you a protocol, and we won't invent one. But its measure points to three habits that are cheap to try, and each one lines up with a component of the scale the researchers used.
+
+**Name a stall as a stall.** When you notice you're in a week with no replies, say it plainly to yourself: this is a slow stretch of a search, and slow stretches are normal. The paper's finding is that people who could hold that view showed less of the emotional slide.
+
+**Talk to yourself the way you would to a friend in the same spot.** If a friend told you they'd sent 30 applications and heard back from two, you wouldn't tell them they were failing. The scale's self-kindness items are built around this idea.
+
+**Remember that the experience is common.** Long searches are ordinary. BLS data show 1.9 million Americans were long-term unemployed in August, and our sister site How To Find A Job broke down [what the August JOLTS report says about the market](https://howtofindajob.org/resources/august-2026-jolts-7-million-openings-what-job-seekers-should-do) this week. A stall isn't a verdict on you.
+
+If you want the broader research on why this isn't softness, two earlier pieces cover it: [Self-Compassion Is Not Going Soft on Yourself](/resources/self-compassion-fuels-motivation-not-self-indulgence-2026) and [Why Self-Compassion Outperforms Self-Criticism for Growth](/resources/self-compassion-outperforms-self-criticism).
+
+## Bottom Line
+
+In a 20-day diary study of 227 job seekers, feeling stuck reliably dragged down the mood of people low in self-compassion, and barely touched the negative mood of people high in it. It didn't restore positive emotion, it didn't prove cause and effect, and it didn't test whether the job seekers got hired sooner. What it does show is that the emotional cost of a stalled search isn't fixed. How you talk to yourself while it's happening changes how much of that cost you carry.
+
+## Sources
+
+- Kreemers, L. M., van Hooft, E. A. J., & van Vianen, A. E. M. (2018). "Dealing with negative job search experiences: The beneficial role of self-compassion for job seekers' affective responses." Journal of Vocational Behavior, 106, 165-179. Source of all sample sizes, coefficients and limitations cited above.
+- U.S. Bureau of Labor Statistics, "The Employment Situation, August 2026" (1.9 million long-term unemployed), and "Job Openings and Labor Turnover Summary, August 2026," released September 29, 2026.
+`,
+    faqs: [
+      { question: "Does self-compassion help when a job search stalls?", answer: "In a 20-day diary study of 227 job seekers, people high in self-compassion showed almost no link between feeling stuck and negative mood, while people low in it showed a clear link. The study is correlational and self-reported, so it shows an association, not that practicing self-compassion causes a steadier mood." },
+      { question: "Did the study show self-compassionate job seekers get hired faster?", answer: "No. The paper measured emotional responses only. It did not track applications, interviews or job offers, and the authors note they did not include self-efficacy, which is linked to search outcomes." },
+      { question: "Does self-compassion mean going easy on your job search?", answer: "The study did not test effort or behaviour. It measured how job seekers felt during stretches of low progress. Self-compassion in the paper's scale is about how you treat yourself when things go badly, not about lowering your standards or applying less." }
+    ],
+  },
+  {
     slug: 'breaking-a-habit-decay-timeline-2026',
     title: "Breaking a Habit Doesn't Take 21 Days Either. In One Study It Took Between 1 and 65.",
     description: "Almost all habit research is about building. A pair of studies from the University of Bern tracked 194 people day by day while they tried to break one, across 11,805 daily reports. Habit strength took anywhere from 1 to 65 days to stabilise, the strategy people chose made no significant difference, and three day-level factors did: running into the cue, days the behaviour did not happen, and whether the reduction felt worth it that day.",
