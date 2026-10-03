@@ -116,6 +116,33 @@ export function Footer() {
           </div>
         </div>
 
+        {/* Sister sites */}
+        <nav aria-label="Sister sites" className="mt-10 pt-6 border-t border-primary-800 flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-6 text-sm">
+          <span className="text-primary-400 font-medium">Sister sites</span>
+          <ul className="flex flex-wrap gap-x-6 gap-y-2">
+            <li>
+              <a href="https://theleaderstable.xyz" target="_blank" rel="noopener" className="text-primary-300 hover:text-white transition-colors" title="Leadership">
+                The Leader&apos;s Table
+              </a>
+            </li>
+            <li>
+              <a href="https://officeproductivityhacks.com" target="_blank" rel="noopener" className="text-primary-300 hover:text-white transition-colors" title="Excel and office tools">
+                Office Productivity Hacks
+              </a>
+            </li>
+            <li>
+              <a href="https://howdoiuse.ai" target="_blank" rel="noopener" className="text-primary-300 hover:text-white transition-colors" title="AI tutorials">
+                How Do I Use AI
+              </a>
+            </li>
+            <li>
+              <a href="https://howtofindajob.org" target="_blank" rel="noopener" className="text-primary-300 hover:text-white transition-colors" title="Job search">
+                How To Find A Job
+              </a>
+            </li>
+          </ul>
+        </nav>
+
         {/* Bottom */}
         <div className="mt-12 pt-8 border-t border-primary-800 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-sm text-primary-400">
