@@ -12,6 +12,86 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: 'mindset-performance-trajectories-hkust-longitudinal-2025',
+    title: "Growth Mindset's Edge Faded Over Four Years. A 915-Student Study Shows Where It Lasted.",
+    description: "A 2025 npj Science of Learning study followed 915 university students from entry to graduation. Growth mindset students led early, the gap narrowed over time, and the benefit showed up outside their major. Here's what the paper found and what it can't tell you.",
+    category: 'Science',
+    readTime: '7 min read',
+    date: '2026-10-05',
+    content: `
+## The Question Most Mindset Studies Skip
+
+Most growth mindset research asks one thing: does it work? The answer depends on which study you pick, and the debate has run for years. A 2025 paper in npj Science of Learning asked a different question. Instead of "does it work," it asked "when does it show up, and for how long?"
+
+Melody M. Chao, Allen H. Huang, Anirban Mukhopadhyay and Janghoon Shon tracked students at the Hong Kong University of Science and Technology from the day they entered university until they finished. Nobody was assigned a mindset intervention. The researchers measured the mindsets students already held and watched what happened to their grades.
+
+## What the Study Did
+
+The sample was 915 students across two cohorts, 59.8 percent of them female, with an average age of 18.2 at entry. They came from 18 regions. Over the full run the dataset holds 6,918 student-term observations and 33,607 student-course observations.
+
+Mindset was measured once, at intake, with a three-item scale rated from 1 (strongly disagree) to 6 (strongly agree). One item reads: "Your intelligence is something about you that you can't change very much," scored in reverse. Performance came from term GPA, cumulative GPA and individual course grades across the four years.
+
+This is an observational design. The students weren't randomly assigned to a mindset, so the study can describe patterns. It can't prove mindset caused them.
+
+## Finding 1: The Early Lead Narrowed
+
+Students with stronger growth mindsets outperformed their fixed-mindset peers early on. That advantage diminished over time, and the two groups moved closer together in the later terms. The paper tests this with a quadratic interaction between mindset and term (B = -0.003, SE = 0.001, p = 0.029).
+
+In plain terms: the growth mindset students didn't fall behind. The fixed-mindset students caught up. If you picture mindset as a permanent multiplier on achievement, this result doesn't fit that picture.
+
+## Finding 2: The Benefit Showed Up Outside the Major
+
+The authors split course grades into major and non-major courses. A stronger growth mindset predicted higher grades in non-major courses (B = 0.029, SE = 0.005, p < 0.001). In major courses there was no detectable relationship (B = -0.005, SE = 0.009, p = 0.575).
+
+The authors read this as growth mindsets helping students navigate unfamiliar academic territory. That reading is the paper's interpretation of the pattern, and the data show the pattern, not the mechanism. A reasonable guess is that students are more comfortable in their own major by the time grades are on the line, so the extra tolerance for struggle matters less there. The paper doesn't test that guess.
+
+## Finding 3: The Muddled Middle Did Worst
+
+This is the least intuitive result. The relationship between mindset and performance wasn't a straight line. The authors describe it as "not only nonlinear but also non-monotonic." Students with moderate mindsets performed the worst. Both strong growth mindsets and strong fixed mindsets were associated with better achievement than being unsure.
+
+The statistical evidence for this one is thinner than for the other two. The squared mindset term was significant at the term level (B = 0.015, SE = 0.005, p = 0.002) but fell short of the usual 0.05 cutoff at the individual level (B = 0.019, SE = 0.010, p = 0.061). Treat it as a pattern worth testing again, not a settled law.
+
+The abstract puts the takeaway this way: both growth and fixed mindsets are associated with higher academic achievement, while a lack of clear mindset is linked to poorer outcomes. The authors don't conclude that fixed mindsets are good. Their point is that having a coherent belief about learning, whichever way it points, may matter in ways the simple growth-versus-fixed contrast hides.
+
+## What This Study Does Not Show
+
+It's a single site. The authors say so directly: "Although the sample is quite diverse and the data are longitudinal, it is a single-site study." Results from Hong Kong University of Science and Technology could differ in other education systems or at other points in life.
+
+Mindset was measured once, at age 18 or so, and treated as stable. Beliefs change. A student who started with a fixed view and shifted by year two isn't captured.
+
+Grades are one outcome. They don't measure how much someone learned, how they coped, or how they felt. And because this isn't an experiment, other traits that travel with mindset, such as prior preparation or confidence, could explain part of the pattern.
+
+The authors also warn against "one size fits all propositions that ignore underlying heterogeneity," which is a fair caution for anyone selling a mindset program.
+
+## What You Can Reasonably Take From It
+
+The study doesn't give a protocol, so we won't invent one. It does suggest three modest ideas.
+
+**Expect the belief to matter most at transitions.** The benefit appeared early and in subjects outside the students' specialty. If you're starting a new job, a new field or a new skill, that's where a "I can get better at this" view is most likely to pay off. Once you're experienced, the paper's data suggest the belief carries less weight.
+
+**Don't stop at the belief.** If the edge fades as people gain expertise, then what keeps improvement going later is likely something else. Our piece on [why growth mindset alone is not enough](/resources/growth-mindset-context-matters-2025-research) covers the context side, and [the deliberate practice mindset](/resources/deliberate-practice-mindset-beyond-growth) covers the behavior side.
+
+**Decide what you believe about learning.** The U-shaped result is tentative, but it points at a cheap exercise. Write down, in one sentence, what you think determines whether you improve at the skill you care about most. If you can't answer, that's the muddled middle. Settling on an answer you can defend is a more useful first step than adopting a slogan.
+
+This also fits the scale of effect we've covered before. A 73-country study found [mindset offsets circumstance by about 3 percent](/resources/growth-mindset-cannot-outrun-circumstance-73-country-study). Mindset is a real variable. It isn't the only one, and this paper adds that its influence changes over time.
+
+If you lead people through new-role transitions, that early window is worth planning around. Our sister site The Leader's Table has a [first-time manager handbook](https://theleaderstable.xyz/guides/first-time-manager-handbook/) for exactly that moment, though it isn't built on this study.
+
+## Bottom Line
+
+In four years of grades from 915 university students, a stronger growth mindset predicted an early lead that narrowed with time, higher marks outside the major but not inside it, and, tentatively, better results for people with a clear belief of either kind than for those in the middle. It's one campus and one observational design. It's a useful reminder that mindset effects have a timeline, and that timeline is worth asking about before you trust any claim about permanence.
+
+## Sources
+
+- Chao, M. M., Huang, A. H., Mukhopadhyay, A., & Shon, J. (2025). "Divergent effects of mindsets on performance trajectories." npj Science of Learning, published August 28, 2025, doi:10.1038/s41539-025-00355-w. Source of the sample sizes, measure, coefficients, limitations and quotations used above.
+`,
+    faqs: [
+      { question: "Does a growth mindset improve grades over four years?", answer: "In a longitudinal study of 915 university students, those with stronger growth mindsets outperformed fixed-mindset peers early on, but the advantage diminished over time. The study is observational, so it can't show that mindset caused the difference." },
+      { question: "Did growth mindset help in every kind of course?", answer: "No. The benefit appeared in non-major courses (B = 0.029, p < 0.001) and was not detectable in major courses (B = -0.005, p = 0.575). The authors interpret this as growth mindsets helping students handle unfamiliar subject areas." },
+      { question: "Is a fixed mindset bad for performance according to this study?", answer: "Not in a simple way. Both strong growth and strong fixed mindsets were associated with higher achievement than a moderate or unclear mindset. The statistical support for this pattern was stronger at the term level than at the individual level, so it should be treated as tentative." },
+    ],
+  },
+  {
     slug: 'self-compassion-job-search-stalls-diary-study-2026',
     title: "When a Job Search Stalls, Self-Compassion Changed What It Did to Mood. A 227-Person Diary Study.",
     description: "A Journal of Vocational Behavior study followed 227 job seekers for 20 days. When people felt stuck, those low in self-compassion felt clearly worse. Those high in it showed almost no link. Here's what the paper found, what it didn't test, and three habits it points to.",
