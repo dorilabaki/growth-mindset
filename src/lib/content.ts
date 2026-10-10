@@ -268,7 +268,7 @@ The mechanisms are not two separate systems. Breaking a habit is forming its abs
 
 **4. Expect the fast part first and the slow part after.** The decelerating curve means your steepest progress arrives early, then flattens. The flattening is not failure or a plateau to break through. It is the expected shape. Most people quit exactly where the model says the curve should level off.
 
-**5. Do not set a deadline.** One to 65 days. Any target you set has a good chance of being wrong by weeks in either direction, and a missed target is the most common reason people abandon a process that was working. Track non-performance days instead of counting down to a finish line that the data says does not exist. The same logic applies to any long process with an unknown end date, which is why How To Find A Job recommends tracking [stage-by-stage activity rather than a countdown](https://howtofindajob.org/resources/diagnose-where-your-job-search-is-breaking-down) during a search.
+**5. Do not set a deadline.** One to 65 days. Any target you set has a good chance of being wrong by weeks in either direction, and a missed target is the most common reason people abandon a process that was working. Track non-performance days instead of counting down to a finish line that the data says does not exist. The same logic applies to any long process with an unknown end date, which is why How To Find A Job recommends tracking [stage-by-stage activity through the application funnel rather than a countdown](https://howtofindajob.org/resources/resume-funnel-2026-where-applications-actually-go) during a search.
 
 ## What This Research Does Not Show
 
