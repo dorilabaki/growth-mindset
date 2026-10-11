@@ -953,7 +953,7 @@ Goals tell you where you want to go. If-then plans tell you what to do the momen
     content: `
 ## Introduction
 
-You've likely heard the productivity obsession: wake up earlier, optimize every minute, hustle harder, achieve more. But here's what the data shows—77% of workers in 2026 are experiencing burnout, and pushing harder isn't the solution. The real breakthrough isn't speed. It's slowing down.
+You've likely heard the productivity obsession: wake up earlier, optimize every minute, hustle harder, achieve more. But here's what the data shows, 77% of workers in 2026 are experiencing burnout, and pushing harder isn't the solution. The real breakthrough isn't speed. It's slowing down.
 
 The slow productivity movement is redefining what "being productive" actually means. Instead of maximizing output at all costs, it's about producing work that matters, with the energy to sustain it.
 
@@ -963,7 +963,7 @@ The statistics paint a stark picture. According to 2026 workplace data:
 
 - **77% of workers** report experiencing some form of burnout at their current job
 - **55% are actively experiencing** burnout right now
-- **Employee engagement collapsed** from 88% in 2025 to just 64% in 2026—a devastating 24-point drop in a single year
+- **Employee engagement collapsed** from 88% in 2025 to just 64% in 2026, a devastating 24-point drop in a single year
 - **Global engagement is at 21%**, meaning only one in five employees feels actively engaged
 - **Teams with high burnout** show 18-20% lower productivity despite working harder
 
@@ -975,15 +975,15 @@ The conventional productivity model assumes more hours and faster output equal b
 
 ### Mental Fatigue Beats Workload Volume
 
-For the first time, burnout is being driven less by workload and more by cognitive strain, mental fatigue, and decision friction. Your brain has a limited supply of decision-making energy each day. When you're depleted, every choice becomes harder—even simple ones.
+For the first time, burnout is being driven less by workload and more by cognitive strain, mental fatigue, and decision friction. Your brain has a limited supply of decision-making energy each day. When you're depleted, every choice becomes harder, even simple ones.
 
 ### Quality Requires Depth
 
-Work that matters—the kind that advances your career, moves projects forward, or creates real value—requires deep focus. This isn't compatible with constant switching, notifications, and rushing.
+Work that matters, the kind that advances your career, moves projects forward, or creates real value, requires deep focus. This isn't compatible with constant switching, notifications, and rushing.
 
 ### Speed Kills Creativity
 
-Groundbreaking ideas don't emerge under pressure. Creativity requires what neuroscientists call "default mode" thinking—the mental state you enter when you're not pushing hard. Rush culture suppresses this state entirely.
+Groundbreaking ideas don't emerge under pressure. Creativity requires what neuroscientists call "default mode" thinking, the mental state you enter when you're not pushing hard. Rush culture suppresses this state entirely.
 
 ## The Slow Productivity Framework
 
@@ -999,7 +999,7 @@ Instead of fragmenting your day across meetings and emails, protect 90-120 minut
 
 ### 3. Build in Recovery Time
 
-Slow productivity includes non-work time as a productivity tool. Rest isn't the absence of productivity—it's part of it. Sleep, exercise, and genuine downtime replenish the cognitive resources you need for good work.
+Slow productivity includes non-work time as a productivity tool. Rest isn't the absence of productivity, it's part of it. Sleep, exercise, and genuine downtime replenish the cognitive resources you need for good work.
 
 ### 4. Batch Similar Tasks
 
@@ -1034,7 +1034,7 @@ You don't need to transform your entire work life overnight. Start here:
 
 1. **This week**: Block two 90-minute deep work sessions. Protect them ruthlessly.
 2. **Next week**: Identify your three most important projects. Say no to something.
-3. **Ongoing**: Add 15 minutes of genuine recovery time daily (not checking email—actually disconnecting).
+3. **Ongoing**: Add 15 minutes of genuine recovery time daily (not checking email, actually disconnecting).
 
 ## Key Takeaways
 
@@ -1046,13 +1046,13 @@ You don't need to transform your entire work life overnight. Start here:
 
 ## Implementing Slow Productivity Practically
 
-Slowing down requires more than mindset—it requires systems. For specific tactics to eliminate time-wasting tasks and decision fatigue, see [decision fatigue and productivity strategies](https://officeproductivityhacks.com/resources/decision-fatigue-productivity).
+Slowing down requires more than mindset, it requires systems. For specific tactics to eliminate time-wasting tasks and decision fatigue, see [decision fatigue and productivity strategies](https://officeproductivityhacks.com/resources/decision-fatigue-productivity).
 
 If you're leading others through this transition, or want to understand how to maintain presence and effectiveness while slowing down, [executive presence for leaders](https://theleaderstable.xyz/resources/executive-presence-new-manager) explores how to maintain impact without burnout.
 
 ## Conclusion
 
-The hustle culture pushed us toward a cliff. We're now seeing the consequences: exhaustion, declining engagement, and paradoxically, lower productivity. Slow productivity isn't a retreat—it's an advancement. It's the recognition that your brain, creativity, and decision-making ability are your most valuable assets. Protecting them isn't lazy. It's the most productive thing you can do.
+The hustle culture pushed us toward a cliff. We're now seeing the consequences: exhaustion, declining engagement, and paradoxically, lower productivity. Slow productivity isn't a retreat, it's an advancement. It's the recognition that your brain, creativity, and decision-making ability are your most valuable assets. Protecting them isn't lazy. It's the most productive thing you can do.
 
 The best time to slow down was last year. The second best time is today.
     `,
@@ -1063,7 +1063,7 @@ The best time to slow down was last year. The second best time is today.
       },
       {
         question: 'How is slow productivity different from laziness?',
-        answer: 'Slow productivity includes deliberate focus, deep work blocks, and strategic priorities. It\'s intentional and measured. Laziness is avoidance without purpose. Slow productivity is discipline applied differently—toward what\'s truly important rather than constant busyness.',
+        answer: 'Slow productivity includes deliberate focus, deep work blocks, and strategic priorities. It\'s intentional and measured. Laziness is avoidance without purpose. Slow productivity is discipline applied differently, toward what\'s truly important rather than constant busyness.',
       },
       {
         question: 'Can I practice slow productivity in a demanding job?',
@@ -1085,7 +1085,7 @@ Have you ever caught yourself saying "I can't do this" or "I'm not good at that"
 
 ## Understanding the Growth Mindset
 
-Dr. Carol Dweck's groundbreaking research at Stanford University introduced the world to the concept of growth versus fixed mindsets. People with a fixed mindset believe their abilities are static—you're either smart or you're not, talented or you're not. In contrast, those with a growth mindset understand that abilities can be developed through dedication, hard work, and learning from failures.
+Dr. Carol Dweck's groundbreaking research at Stanford University introduced the world to the concept of growth versus fixed mindsets. People with a fixed mindset believe their abilities are static, you're either smart or you're not, talented or you're not. In contrast, those with a growth mindset understand that abilities can be developed through dedication, hard work, and learning from failures.
 
 ## The Magic of "Yet"
 
@@ -1113,7 +1113,7 @@ When you hear friends, family, or colleagues express fixed mindset statements, g
 
 ## The Neuroscience Behind "Yet"
 
-Research shows that our brains are remarkably plastic—capable of forming new neural connections throughout our lives. When we approach challenges with a "yet" mentality, we:
+Research shows that our brains are remarkably plastic, capable of forming new neural connections throughout our lives. When we approach challenges with a "yet" mentality, we:
 
 - Reduce cortisol (stress hormone) levels
 - Increase dopamine release, making learning more enjoyable
@@ -1128,7 +1128,7 @@ Research shows that our brains are remarkably plastic—capable of forming new n
 
 ## Conclusion
 
-The power of "yet" lies in its ability to reframe our relationship with challenges and learning. By incorporating this simple word into your vocabulary, you're not just changing how you speak—you're rewiring how you think about your potential. Start today, and watch how this tiny shift creates ripples of growth throughout your life.
+The power of "yet" lies in its ability to reframe our relationship with challenges and learning. By incorporating this simple word into your vocabulary, you're not just changing how you speak, you're rewiring how you think about your potential. Start today, and watch how this tiny shift creates ripples of growth throughout your life.
     `,
     faqs: [
       {
@@ -1151,7 +1151,7 @@ The power of "yet" lies in its ability to reframe our relationship with challeng
     content: `
 ## Introduction
 
-In a world that often celebrates only victories, failure can feel like a shameful experience to hide. But what if failure isn't the opposite of success—but rather an essential ingredient of it? The most successful people in history haven't succeeded despite their failures; they've succeeded **because** of them.
+In a world that often celebrates only victories, failure can feel like a shameful experience to hide. But what if failure isn't the opposite of success, but rather an essential ingredient of it? The most successful people in history haven't succeeded despite their failures; they've succeeded **because** of them.
 
 ## The Failure-Success Connection
 
@@ -1161,13 +1161,13 @@ Consider these examples:
 - **Michael Jordan** was cut from his high school basketball team
 - **Walt Disney** was told he "lacked imagination"
 
-What sets these individuals apart isn't their ability to avoid failure—it's their response to it.
+What sets these individuals apart isn't their ability to avoid failure, it's their response to it.
 
 ## Reframing Failure
 
 ### From Threat to Teacher
 
-Every failure contains valuable information. When something doesn't work, you've learned one way that doesn't lead to your goal. This is not wasted effort—it's essential data.
+Every failure contains valuable information. When something doesn't work, you've learned one way that doesn't lead to your goal. This is not wasted effort, it's essential data.
 
 ### From Final to Feedback
 
@@ -1194,7 +1194,7 @@ Start expecting failure as part of any worthwhile endeavor. The question isn't "
 
 ### 2. Fail Fast, Learn Faster
 
-In the startup world, there's a concept called "failing fast"—the idea that quick, small failures lead to rapid learning and iteration. Apply this to your personal growth.
+In the startup world, there's a concept called "failing fast", the idea that quick, small failures lead to rapid learning and iteration. Apply this to your personal growth.
 
 ### 3. Document Your Failures
 
@@ -1236,7 +1236,7 @@ Embracing failure doesn't mean seeking it out or celebrating poor performance. I
     content: `
 ## Introduction
 
-A growth mindset isn't something you either have or don't have—it's a skill you can develop through consistent practice. Like building physical strength, developing a growth mindset requires daily exercise. Here are seven science-backed habits that can transform how you think about learning, challenges, and your own potential.
+A growth mindset isn't something you either have or don't have, it's a skill you can develop through consistent practice. Like building physical strength, developing a growth mindset requires daily exercise. Here are seven science-backed habits that can transform how you think about learning, challenges, and your own potential.
 
 ## Habit 1: Morning Reflection
 
@@ -1254,7 +1254,7 @@ Deliberately seek out one thing that makes you slightly uncomfortable each day. 
 - Taking on a task at work you've been avoiding
 - Learning something new, even for just 15 minutes
 
-The key is consistency—small challenges add up to significant growth.
+The key is consistency, small challenges add up to significant growth.
 
 ## Habit 3: Practice Strategic Self-Talk
 
@@ -1273,7 +1273,7 @@ Rather than avoiding criticism, actively seek it out. Ask colleagues, friends, o
 - "What feedback do you have for me?"
 - "How could I improve in this area?"
 
-View feedback as a gift—valuable information for your growth journey.
+View feedback as a gift, valuable information for your growth journey.
 
 ## Habit 5: Celebrate Effort, Not Just Results
 
@@ -1321,7 +1321,7 @@ Don't try to adopt all seven habits at once. Instead:
 
 ## Conclusion
 
-These seven habits may seem simple individually, but their combined effect is transformative. Remember, the goal isn't perfection—it's progress. Start with one habit, practice it consistently, and gradually add more. Your future self will thank you for the investment you make today.
+These seven habits may seem simple individually, but their combined effect is transformative. Remember, the goal isn't perfection, it's progress. Start with one habit, practice it consistently, and gradually add more. Your future self will thank you for the investment you make today.
     `,
     faqs: [
       {
@@ -1344,7 +1344,7 @@ These seven habits may seem simple individually, but their combined effect is tr
     content: `
 ## Introduction
 
-For decades, scientists believed the adult brain was fixed—that after a certain age, you couldn't teach an old dog new tricks. This belief has been thoroughly debunked. Thanks to neuroplasticity, your brain is constantly changing, adapting, and growing new connections throughout your entire life.
+For decades, scientists believed the adult brain was fixed, that after a certain age, you couldn't teach an old dog new tricks. This belief has been thoroughly debunked. Thanks to neuroplasticity, your brain is constantly changing, adapting, and growing new connections throughout your entire life.
 
 ## What Is Neuroplasticity?
 
@@ -1374,7 +1374,7 @@ If one area of the brain is damaged, other areas can sometimes take over its fun
 
 ## Neuroplasticity and Growth Mindset
 
-Understanding neuroplasticity provides the scientific foundation for growth mindset. When you believe you can improve, you're not engaging in wishful thinking—you're acknowledging a fundamental truth about how your brain works.
+Understanding neuroplasticity provides the scientific foundation for growth mindset. When you believe you can improve, you're not engaging in wishful thinking, you're acknowledging a fundamental truth about how your brain works.
 
 This knowledge is empowering because it means:
 
@@ -1440,7 +1440,7 @@ Neuroplasticity changes how we think about human potential. It proves that you'r
     content: `
 ## Introduction
 
-In the age of social media, comparison has become an epidemic. We scroll through curated highlight reels, measuring our behind-the-scenes against everyone else's best moments. This comparison trap is one of the greatest threats to a growth mindset—and to our mental health.
+In the age of social media, comparison has become an epidemic. We scroll through curated highlight reels, measuring our behind-the-scenes against everyone else's best moments. This comparison trap is one of the greatest threats to a growth mindset, and to our mental health.
 
 ## The Problem with Comparison
 
@@ -1453,7 +1453,7 @@ When we compare ourselves to others, we typically:
 
 ## How Comparison Kills Growth
 
-A growth mindset focuses on personal improvement—becoming better than you were yesterday. Comparison shifts this focus externally, leading to:
+A growth mindset focuses on personal improvement, becoming better than you were yesterday. Comparison shifts this focus externally, leading to:
 
 - **Discouragement**: "I'll never be that good, so why try?"
 - **Envy**: Negative emotions that drain energy from growth
@@ -1462,7 +1462,7 @@ A growth mindset focuses on personal improvement—becoming better than you were
 
 ## Reframing: From Competition to Inspiration
 
-The goal isn't to never notice others' achievements—it's to change how you respond:
+The goal isn't to never notice others' achievements, it's to change how you respond:
 
 ### Before (Fixed Mindset Comparison)
 "They're so successful. I'll never be like them. I must not be good enough."
@@ -1554,7 +1554,7 @@ Emotional fitness is the practice of recognizing emotional signals early and res
 - Building tolerance for emotional discomfort
 - Sustaining well-being through preventive practices, not just crisis management
 
-Think of it like cardiovascular health. You don't just deal with heart problems when they happen—you exercise regularly to maintain cardiac health. Emotional fitness works the same way.
+Think of it like cardiovascular health. You don't just deal with heart problems when they happen, you exercise regularly to maintain cardiac health. Emotional fitness works the same way.
 
 ## The Science of Emotional Regulation
 
@@ -1569,7 +1569,7 @@ A meta-analysis of 12 randomized controlled trials with 785 participants found b
 - Cyclic sighing (deliberately extending exhales) proved most effective for immediate mood improvement
 - Effective sessions require at least 5 minutes of human-guided practice with multiple weekly sessions
 
-The mechanism: Slow breathing activates your parasympathetic nervous system—your body's "rest and digest" mode. This reduces cortisol (stress hormone) production and enables clearer thinking.
+The mechanism: Slow breathing activates your parasympathetic nervous system, your body's "rest and digest" mode. This reduces cortisol (stress hormone) production and enables clearer thinking.
 
 ### Exercise and Emotional Well-being
 
@@ -1585,7 +1585,7 @@ Studies measured specific outcomes: Young people engaging in regular physical ac
 While less studied than breathwork, journaling research indicates distinct benefits:
 
 - Rewires neural pathways associated with self-awareness and emotional regulation
-- Creates patterns recognition—you begin noticing what triggers certain emotional responses
+- Creates patterns recognition, you begin noticing what triggers certain emotional responses
 - Provides a feedback loop where you see your own growth over time
 
 The practice strengthens your ability to observe emotions without being overwhelmed by them.
@@ -1616,7 +1616,7 @@ The practice strengthens your ability to observe emotions without being overwhel
 
 - **Type**: Any consistent activity you'll maintain (walking, strength training, dancing)
 - **Dosage**: 30 minutes of moderate activity produces significant emotional benefits
-- **Bonus**: Builds multiple benefits—physical health plus emotional regulation
+- **Bonus**: Builds multiple benefits, physical health plus emotional regulation
 
 ## Building Your Emotional Fitness Plan
 
@@ -1657,7 +1657,7 @@ The 2026 shift toward emotional fitness reflects broader organizational and cult
 - Schools are integrating these practices into student wellness programs
 - The focus shifts from treating mental health crises to preventing them through regular practice
 
-You're not adopting an unusual behavior—you're participating in a mainstream shift toward preventive emotional health.
+You're not adopting an unusual behavior, you're participating in a mainstream shift toward preventive emotional health.
 
 ## Key Takeaways
 
@@ -1670,9 +1670,9 @@ You're not adopting an unusual behavior—you're participating in a mainstream s
 
 ## Conclusion
 
-Your emotional capacity is like a muscle: it grows with consistent use, atrophies with neglect, and recovers faster when you've trained it well. The emotional fitness techniques covered here aren't novel or mysterious—they're practical, evidence-backed practices available to anyone willing to invest 15-30 minutes daily.
+Your emotional capacity is like a muscle: it grows with consistent use, atrophies with neglect, and recovers faster when you've trained it well. The emotional fitness techniques covered here aren't novel or mysterious, they're practical, evidence-backed practices available to anyone willing to invest 15-30 minutes daily.
 
-Start with breathwork. Add journaling. Include movement. Track your consistency. Within weeks, you'll notice reduced reactivity to stress, better sleep, and clearer thinking during challenges. These aren't minor improvements—they're foundational shifts that compound over time, directly strengthening your capacity for growth, learning, and resilience.
+Start with breathwork. Add journaling. Include movement. Track your consistency. Within weeks, you'll notice reduced reactivity to stress, better sleep, and clearer thinking during challenges. These aren't minor improvements, they're foundational shifts that compound over time, directly strengthening your capacity for growth, learning, and resilience.
 
 Emotional fitness isn't about eliminating difficult emotions. It's about developing the strength to experience them fully while maintaining the clarity to respond intentionally.
     `,
@@ -1683,7 +1683,7 @@ Emotional fitness isn't about eliminating difficult emotions. It's about develop
       },
       {
         question: 'How quickly will I see results from emotional fitness practices?',
-        answer: 'Breathwork produces measurable mood improvements within single 5-minute sessions. Journaling shows clarity improvements within 2-3 weeks of consistent practice. Physical activity effects emerge within 2-4 weeks. However, the most significant benefits—sustained resilience and emotional regulation—develop over 2-3 months of consistent practice.',
+        answer: 'Breathwork produces measurable mood improvements within single 5-minute sessions. Journaling shows clarity improvements within 2-3 weeks of consistent practice. Physical activity effects emerge within 2-4 weeks. However, the most significant benefits, sustained resilience and emotional regulation, develop over 2-3 months of consistent practice.',
       },
       {
         question: 'Can I combine different emotional fitness techniques?',
@@ -1880,7 +1880,7 @@ Naming it moves it from background static to something you can actually respond 
 
 ### Remember common humanity
 
-The feeling that your struggle is uniquely shameful is almost always false. Whatever you're facing — a missed deadline, a failed launch, a rough interview — has been faced by millions of other people with the same emotional texture. That recognition isn't an excuse. It's a corrective to isolation.
+The feeling that your struggle is uniquely shameful is almost always false. Whatever you're facing, a missed deadline, a failed launch, a rough interview, has been faced by millions of other people with the same emotional texture. That recognition isn't an excuse. It's a corrective to isolation.
 
 ## Self-Compassion and the Iterative Mindset
 
@@ -1921,7 +1921,7 @@ For more on building a structured approach to improvement, explore the [iterativ
       },
       {
         question: 'Is self-compassion the same as self-esteem?',
-        answer: "No. Self-esteem is evaluative — it depends on feeling good about yourself or better than others. Self-compassion doesn't require positive self-evaluation. Neff's research found that self-compassion produces more stable emotional outcomes than self-esteem, particularly after failure, because it doesn't collapse when performance dips.",
+        answer: "No. Self-esteem is evaluative, it depends on feeling good about yourself or better than others. Self-compassion doesn't require positive self-evaluation. Neff's research found that self-compassion produces more stable emotional outcomes than self-esteem, particularly after failure, because it doesn't collapse when performance dips.",
       },
     ],
   },
@@ -1941,7 +1941,7 @@ Then the evidence started catching up.
 
 A wave of rigorous research, including a 2025 structured review in the Review of Education and the results of the National Study of Learning Mindsets, shows that growth mindset interventions produce real but modest effects, and only under specific conditions. Context matters more than the mindset itself.
 
-This isn't a takedown of growth mindset. The underlying science — that beliefs about ability affect effort and learning — still holds. But the simplified version that got sold in corporate trainings and classroom posters oversells what a mindset shift alone can do.
+This isn't a takedown of growth mindset. The underlying science, that beliefs about ability affect effort and learning, still holds. But the simplified version that got sold in corporate trainings and classroom posters oversells what a mindset shift alone can do.
 
 If you've been frustrated that "believing you can improve" hasn't produced the results you expected, the research explains why.
 
@@ -2011,7 +2011,7 @@ The practical fix: change the inputs. Choose communities, content, and conversat
 
 ### 5. Focus on Process, Not Self-Concept
 
-The research is clearest on effect when growth mindset is framed as a claim about how learning works — abilities develop through effort and strategy — rather than as a claim about identity. "I am a growth mindset person" is less useful than "I can get better at this specific thing if I work the right way."
+The research is clearest on effect when growth mindset is framed as a claim about how learning works, abilities develop through effort and strategy, rather than as a claim about identity. "I am a growth mindset person" is less useful than "I can get better at this specific thing if I work the right way."
 
 The first is a label you have to defend. The second is a practice you can apply.
 
@@ -2864,7 +2864,7 @@ Each micro-habit seems insignificant. But compounding works:
 - One daily reframe of self-talk = 365 new thought patterns
 - One moment of acknowledging effort = 365 reinforcements of growth mindset
 
-The impact isn't linear—it's exponential. After three months, these tiny habits have reshaped your baseline thinking.
+The impact isn't linear, it's exponential. After three months, these tiny habits have reshaped your baseline thinking.
 
 ### The Motivation Flip
 
@@ -2878,7 +2878,7 @@ You don't think your way into change. You act your way into a new way of thinkin
 
 ### 1. The Three-Word Reframe (30 seconds)
 
-When you catch yourself in fixed mindset thinking—"I can't," "I'm not smart enough," "This is impossible"—add three words:
+When you catch yourself in fixed mindset thinking, "I can't," "I'm not smart enough," "This is impossible", add three words:
 
 **"...YET"**
 
@@ -2888,7 +2888,7 @@ When you catch yourself in fixed mindset thinking—"I can't," "I'm not smart en
 
 That's it. One word. One shift. Takes seconds. Compounds into a fundamental reorientation of how you approach challenges.
 
-Why it works: The word "yet" acknowledges your current state while opening the door to future possibility. Your brain accepts this reframe because it's true. You haven't done it yet—but that's different from can't.
+Why it works: The word "yet" acknowledges your current state while opening the door to future possibility. Your brain accepts this reframe because it's true. You haven't done it yet, but that's different from can't.
 
 ### 2. The Daily Effort Acknowledgment (15 seconds)
 
@@ -2938,7 +2938,7 @@ Write three things:
 - One thing that didn't work
 - One thing I'm curious about
 
-Why it works: This embeds metacognition—thinking about your thinking. You're not just learning; you're becoming aware of your learning process. Over time, you get better at optimizing how you learn, think, and grow.
+Why it works: This embeds metacognition, thinking about your thinking. You're not just learning; you're becoming aware of your learning process. Over time, you get better at optimizing how you learn, think, and grow.
 
 ## Implementation: Make It Ridiculously Easy
 
@@ -2977,7 +2977,7 @@ Pick one micro-habit this week. Just one. Not all five.
 
 Commit to 30 days. Track it. Make it so small it feels almost silly.
 
-After 30 days, you won't just have a habit. You'll have evidence that tiny, consistent actions create real change. You'll have proof that your mindset isn't fixed—it's plastic, trainable, shaped by the small things you do daily.
+After 30 days, you won't just have a habit. You'll have evidence that tiny, consistent actions create real change. You'll have proof that your mindset isn't fixed, it's plastic, trainable, shaped by the small things you do daily.
 
 That proof will make every other growth goal feel possible.
 
@@ -2987,7 +2987,7 @@ This is the unglamorous truth about mindset transformation: It's not dramatic. I
 
 You don't have an epiphany and suddenly become a growth-minded person. You string together 365 small moments where you chose curiosity over judgment, effort over ability, possibility over certainty.
 
-By next year, you'll look back and realize you think differently—not because you read one book or attended one seminar, but because you systematically rewired yourself through tiny, daily acts.
+By next year, you'll look back and realize you think differently, not because you read one book or attended one seminar, but because you systematically rewired yourself through tiny, daily acts.
 
 That's the power of micro-habits. Not the big moments. The accumulation of small ones.
 
@@ -3065,7 +3065,7 @@ Same challenge. Completely different outcome.
 
 Emotional regulation has been studied extensively in neuroscience and psychology. Here's what matters:
 
-**Prefrontal cortex development**: The part of your brain responsible for decision-making, planning, and emotional regulation develops throughout your 20s and continues to strengthen throughout life with practice. This means emotional fitness isn't something you're born with—it's trainable at any age.
+**Prefrontal cortex development**: The part of your brain responsible for decision-making, planning, and emotional regulation develops throughout your 20s and continues to strengthen throughout life with practice. This means emotional fitness isn't something you're born with, it's trainable at any age.
 
 **Neuroplasticity**: Just as muscles strengthen through exercise, neural pathways strengthen through repeated use. Each time you successfully regulate an emotion, you're strengthening your ability to do it in the future.
 
@@ -3380,7 +3380,7 @@ Deliberate practice asks you to spend your time at the uncomfortable edge of you
         content: `
 A growth mindset is the belief that your abilities, intelligence, and talents can be developed through dedication, hard work, and learning. This concept, pioneered by psychologist Carol Dweck at Stanford University, has transformed how we understand human potential.
 
-The opposite—a fixed mindset—assumes that our character, intelligence, and creative ability are static givens that we cannot meaningfully change. People with fixed mindsets believe you either have talent or you don't, you're smart or you're not.
+The opposite, a fixed mindset, assumes that our character, intelligence, and creative ability are static givens that we cannot meaningfully change. People with fixed mindsets believe you either have talent or you don't, you're smart or you're not.
 
 Research has consistently shown that people with growth mindsets:
 - Achieve more than those with fixed mindsets
@@ -3398,7 +3398,7 @@ This guide will walk you through understanding the science behind growth mindset
         content: `
 ## Neuroplasticity: The Brain's Ability to Change
 
-For most of the 20th century, scientists believed the brain was fixed after childhood. We now know this is completely wrong. The brain remains "plastic"—capable of forming new connections and even growing new neurons—throughout our entire lives.
+For most of the 20th century, scientists believed the brain was fixed after childhood. We now know this is completely wrong. The brain remains "plastic", capable of forming new connections and even growing new neurons, throughout our entire lives.
 
 This scientific reality is the foundation of growth mindset. When you learn something new:
 - Neurons form new connections (synapses)
@@ -3429,7 +3429,7 @@ When you're working hard at learning something difficult:
 - Dopamine is released during "aha" moments, reinforcing learning
 - New neural pathways are being constructed and strengthened
 
-This is literally your brain growing. The struggle isn't a sign of failure—it's a sign of growth in action.
+This is literally your brain growing. The struggle isn't a sign of failure, it's a sign of growth in action.
         `,
       },
       {
@@ -3437,7 +3437,7 @@ This is literally your brain growing. The struggle isn't a sign of failure—it'
         content: `
 ## Understanding Your Triggers
 
-Even people with predominantly growth mindsets have fixed mindset triggers—situations that activate defensive, fixed thinking. Common triggers include:
+Even people with predominantly growth mindsets have fixed mindset triggers, situations that activate defensive, fixed thinking. Common triggers include:
 
 ### Challenge
 When facing a difficult task, fixed mindset says: "This is too hard. I'm not capable."
@@ -3506,7 +3506,7 @@ The brain grows most during challenging tasks. Deliberately seek experiences tha
 - Require sustained effort
 - Involve some degree of failure and iteration
 
-This doesn't mean constant struggle—balance is important. But regular, purposeful challenge is essential for growth.
+This doesn't mean constant struggle, balance is important. But regular, purposeful challenge is essential for growth.
 
 ## Strategy 3: Focus on Process, Not Just Outcomes
 
@@ -3599,7 +3599,7 @@ A growth mindset supports healing. Believe in your body's ability to recover and
 Surround yourself with reminders of growth: books you're reading, progress trackers, inspirational quotes about learning and effort.
 
 ### Social Circle
-Seek out growth-minded people. Attitudes are contagious—spend time with those who believe in improvement and embrace challenges.
+Seek out growth-minded people. Attitudes are contagious, spend time with those who believe in improvement and embrace challenges.
 
 ### Information Diet
 Consume content that reinforces growth: biographies of people who overcame obstacles, podcasts about learning, articles about neuroplasticity.
@@ -3633,7 +3633,7 @@ Everyone occasionally slides back into fixed mindset thinking. When this happens
 
 ## The Long-Term View
 
-Growth mindset is not a destination but a way of approaching life. The goal isn't to eliminate all fixed mindset thinking—that's unrealistic. The goal is to:
+Growth mindset is not a destination but a way of approaching life. The goal isn't to eliminate all fixed mindset thinking, that's unrealistic. The goal is to:
 - Increasingly recognize fixed mindset patterns
 - More quickly shift to growth-oriented responses
 - Embrace an ever-expanding comfort zone
@@ -3655,7 +3655,7 @@ Remember: the growth mindset journey itself follows growth mindset principles. Y
         content: `
 ## Welcome to Your Transformation
 
-Over the next 30 days, you'll embark on a journey from fixed mindset patterns to a growth-oriented way of living. This isn't about quick fixes or surface-level changes—it's about rewiring how you think about challenges, failures, effort, and your own potential.
+Over the next 30 days, you'll embark on a journey from fixed mindset patterns to a growth-oriented way of living. This isn't about quick fixes or surface-level changes, it's about rewiring how you think about challenges, failures, effort, and your own potential.
 
 ## How This Program Works
 
@@ -3742,7 +3742,7 @@ Let's begin.
 
 **Concept:** How we respond to failure reveals our mindset.
 
-**Action:** Recall a recent failure or setback. Write in detail about how you reacted—emotionally, mentally, and behaviorally.
+**Action:** Recall a recent failure or setback. Write in detail about how you reacted, emotionally, mentally, and behaviorally.
 
 **Reflection:** What does this reaction reveal about your underlying beliefs?
 
@@ -3795,7 +3795,7 @@ Let's begin.
 
 ## Day 10: The Effort Connection
 
-**Concept:** In a growth mindset, effort isn't a sign of inadequacy—it's the path to mastery.
+**Concept:** In a growth mindset, effort isn't a sign of inadequacy, it's the path to mastery.
 
 **Action:** Identify something you've always wished came easier. Write about how deliberate effort could develop this skill, step by step.
 
@@ -3837,7 +3837,7 @@ Let's begin.
 
 **Concept:** Consolidating your new interpretive frameworks.
 
-**Action:** Create a personal "reframing cheat sheet"—a quick reference of your most common fixed mindset thoughts and their growth mindset translations.
+**Action:** Create a personal "reframing cheat sheet", a quick reference of your most common fixed mindset thoughts and their growth mindset translations.
 
 **Reflection:** Which reframes feel most powerful for you?
         `,
@@ -3869,7 +3869,7 @@ Let's begin.
 
 **Concept:** Novel learning experiences reinforce the growth mindset neural pathways.
 
-**Action:** Spend 30 minutes learning something completely new—a skill, topic, or hobby you've never explored.
+**Action:** Spend 30 minutes learning something completely new, a skill, topic, or hobby you've never explored.
 
 **Reflection:** How did it feel to be a beginner?
 
@@ -3899,7 +3899,7 @@ Let's begin.
 
 **Concept:** Deliberate practice means working at the edge of your abilities.
 
-**Action:** Take something you're actively learning and spend 20 minutes on the hardest part—the part you usually skip or rush through.
+**Action:** Take something you're actively learning and spend 20 minutes on the hardest part, the part you usually skip or rush through.
 
 **Reflection:** What happened in your brain during that productive struggle?
 
@@ -3909,7 +3909,7 @@ Let's begin.
 
 **Concept:** Establishing your growth practice routine.
 
-**Action:** Design a sustainable daily growth practice—a set of 3-5 activities you can do each day to maintain growth mindset.
+**Action:** Design a sustainable daily growth practice, a set of 3-5 activities you can do each day to maintain growth mindset.
 
 **Reflection:** What practices from this week do you want to continue long-term?
         `,
@@ -3921,7 +3921,7 @@ Let's begin.
 
 **Concept:** Growth mindset transforms how we relate to others.
 
-**Action:** Identify one relationship you'd like to improve. Apply growth mindset principles—believe it can grow, seek feedback, put in effort.
+**Action:** Identify one relationship you'd like to improve. Apply growth mindset principles, believe it can grow, seek feedback, put in effort.
 
 **Reflection:** How does growth mindset change your approach to relationships?
 
@@ -3931,7 +3931,7 @@ Let's begin.
 
 **Concept:** Professional development flourishes with growth mindset.
 
-**Action:** Identify a stretch goal at work—something that would require you to grow new capabilities. Begin planning how to pursue it.
+**Action:** Identify a stretch goal at work, something that would require you to grow new capabilities. Begin planning how to pursue it.
 
 **Reflection:** What's holding you back from growth in your career?
 
@@ -3941,7 +3941,7 @@ Let's begin.
 
 **Concept:** Your mindset influences those around you.
 
-**Action:** Intentionally model growth mindset for others today—share your learning process, admit what you don't know, celebrate effort over talent.
+**Action:** Intentionally model growth mindset for others today, share your learning process, admit what you don't know, celebrate effort over talent.
 
 **Reflection:** How did people respond to your growth mindset modeling?
 
@@ -3991,7 +3991,7 @@ Let's begin.
 
 **Concept:** Appreciating how far you've come fuels continued growth.
 
-**Action:** Write a detailed gratitude entry about your 30-day journey—the challenges, the insights, the changes.
+**Action:** Write a detailed gratitude entry about your 30-day journey, the challenges, the insights, the changes.
 
 **Reflection:** What are you most grateful for from this experience?
 
@@ -4013,7 +4013,7 @@ Let's begin.
 
 ## Congratulations
 
-You've completed the 30-day transformation. But remember—developing a growth mindset is not a 30-day project. It's a lifetime practice. Return to these exercises whenever you need a refresh, and keep growing.
+You've completed the 30-day transformation. But remember, developing a growth mindset is not a 30-day project. It's a lifetime practice. Return to these exercises whenever you need a refresh, and keep growing.
         `,
       },
     ],
@@ -4031,7 +4031,7 @@ Resilience is one of those words that sounds obvious until you try to define it.
 
 The working definition psychologists use is more modest and more useful: resilience is the capacity to adapt and function in the face of significant adversity, and to recover afterwards. The emphasis is on functioning, not on feeling good. Resilient people still feel anger, fear, grief, and disappointment. They just don't become permanently destabilised by them.
 
-This matters because a lot of self-help content treats resilience as a kind of emotional superpower — the ability to not feel bad. This framing is both inaccurate and actively counterproductive. Trying not to feel negative emotions is an unwinnable game and leaves people feeling like failures when they inevitably do.
+This matters because a lot of self-help content treats resilience as a kind of emotional superpower, the ability to not feel bad. This framing is both inaccurate and actively counterproductive. Trying not to feel negative emotions is an unwinnable game and leaves people feeling like failures when they inevitably do.
 
 The better framing, supported by decades of research in psychology, is that resilience is a set of specific skills. Noticing what you're feeling. Regulating arousal. Interpreting difficult events in ways that preserve agency. Reaching out for support. Keeping basic physical functioning intact under stress. These skills can be learned, practised, and improved. None of them are personality traits.
 
@@ -4043,7 +4043,7 @@ This guide walks through the science of resilience and the concrete practices th
         content: `
 ## Why Stress Evolved
 
-The stress response is one of the most ancient systems in your body. When your brain perceives a threat, a cascade of biological events — mediated by the sympathetic nervous system and the hypothalamic-pituitary-adrenal (HPA) axis — prepares your body to respond. Heart rate increases, breathing quickens, muscles tense, peripheral blood vessels constrict, digestion slows, and a flood of hormones (cortisol, adrenaline, noradrenaline) ready the system for fight or flight.
+The stress response is one of the most ancient systems in your body. When your brain perceives a threat, a cascade of biological events, mediated by the sympathetic nervous system and the hypothalamic-pituitary-adrenal (HPA) axis, prepares your body to respond. Heart rate increases, breathing quickens, muscles tense, peripheral blood vessels constrict, digestion slows, and a flood of hormones (cortisol, adrenaline, noradrenaline) ready the system for fight or flight.
 
 This system evolved to respond to immediate physical threats and to shut off quickly once the threat passed. It was never designed for chronic activation. The problems of modern stress come largely from a mismatch: the system activates for mortgage payments, team conflicts, and unread emails the same way it would for a predator, and it often stays activated for hours or days because none of those threats are resolved by running away.
 
@@ -4053,13 +4053,13 @@ Understanding this is practical, not just intellectual. Most of what resilience 
 
 Stephen Porges's polyvagal theory, developed over several decades, offers a more nuanced picture than the classic fight-or-flight binary. The theory describes three states: a social engagement state (calm, connected, able to engage with others), a mobilisation state (fight or flight, ready for action), and a shutdown state (freeze or collapse, disengagement).
 
-The practical value of this framework is that it identifies states beyond active stress. The shutdown state — numbness, exhaustion, disconnection, hopelessness — is as much a stress response as visible anxiety, but it looks different and calls for different interventions. Someone stuck in shutdown doesn't need calming; they need gentle activation.
+The practical value of this framework is that it identifies states beyond active stress. The shutdown state, numbness, exhaustion, disconnection, hopelessness, is as much a stress response as visible anxiety, but it looks different and calls for different interventions. Someone stuck in shutdown doesn't need calming; they need gentle activation.
 
 Resilient people don't live in the social engagement state all the time. They move fluidly between states as the situation requires, and they recover from mobilisation and shutdown reliably.
 
 ## Allostatic Load
 
-The research concept of allostatic load captures the cumulative wear and tear that prolonged stress places on the body. Chronic activation of the stress response — even at moderate levels — affects cardiovascular health, immune function, metabolic regulation, and cognitive function.
+The research concept of allostatic load captures the cumulative wear and tear that prolonged stress places on the body. Chronic activation of the stress response, even at moderate levels, affects cardiovascular health, immune function, metabolic regulation, and cognitive function.
 
 This is why resilience is not just a psychological matter. The practices that build resilience also reduce allostatic load, which has long-run consequences for physical health. Sleep, exercise, nutrition, and social connection are not separate from resilience; they are among its foundations.
         `,
@@ -4071,7 +4071,7 @@ This is why resilience is not just a psychological matter. The practices that bu
 
 Cognitive behavioural therapy (CBT), developed by Aaron Beck in the 1960s, rests on a simple observation: the same event can produce very different emotional responses depending on how the person interprets it. A missed deadline is a logistical problem for one person and a catastrophe for another, even when the external consequences are identical.
 
-This is not about "positive thinking." It's about accurate thinking. CBT research shows that emotional distress is often driven by characteristic distortions of thinking — catastrophising, mind-reading, all-or-nothing thinking, overgeneralisation — that make situations feel worse than they are. Recognising and correcting these distortions reliably reduces distress.
+This is not about "positive thinking." It's about accurate thinking. CBT research shows that emotional distress is often driven by characteristic distortions of thinking, catastrophising, mind-reading, all-or-nothing thinking, overgeneralisation, that make situations feel worse than they are. Recognising and correcting these distortions reliably reduces distress.
 
 The technique is straightforward. When you notice an intense emotional reaction, ask what you're telling yourself about the situation. Write it down if helpful. Then ask a few specific questions: is this interpretation true? What evidence supports it? What evidence contradicts it? What's another way to see this situation? What would you tell a friend in this situation?
 
@@ -4087,11 +4087,11 @@ This is not about denying reality. A genuine personal failure is appropriately e
 
 ## The Distinction Between Thinking and Ruminating
 
-Useful thinking about a problem leads to decisions, actions, or clarity. Rumination is mental activity that stays in motion without moving toward resolution — the same thoughts circling, the same scenarios replaying, the same regrets rehearsed.
+Useful thinking about a problem leads to decisions, actions, or clarity. Rumination is mental activity that stays in motion without moving toward resolution, the same thoughts circling, the same scenarios replaying, the same regrets rehearsed.
 
 Rumination is one of the strongest correlates of depression and anxiety. The distinction matters because well-meaning advice to "think things through" can reinforce rumination in people who are already stuck in it.
 
-The practical test: after five minutes of thinking about a problem, are you closer to a decision or an action? If yes, keep thinking. If no, the thinking has become rumination and the useful move is to interrupt it — through a walk, a conversation, a different task, a physical activity. The brain returns to the problem later with fresh resources.
+The practical test: after five minutes of thinking about a problem, are you closer to a decision or an action? If yes, keep thinking. If no, the thinking has become rumination and the useful move is to interrupt it, through a walk, a conversation, a different task, a physical activity. The brain returns to the problem later with fresh resources.
         `,
       },
       {
@@ -4145,7 +4145,7 @@ The correction is simple in principle: a small number of people, seen regularly,
 
 ## Asking for Help
 
-The skill of asking for help is a major predictor of resilience, and a common blind spot. Many people have been subtly trained — by family patterns, by culture, by professional environments — that asking for help is weakness. The research says the opposite: people who reach out earlier and more often under stress recover faster and have stronger relationships.
+The skill of asking for help is a major predictor of resilience, and a common blind spot. Many people have been subtly trained, by family patterns, by culture, by professional environments, that asking for help is weakness. The research says the opposite: people who reach out earlier and more often under stress recover faster and have stronger relationships.
 
 Practical forms of asking for help range from small (texting a friend "rough day, just wanted to say hi") to large (therapy, coaching, a formal conversation with a loved one about something difficult). All of them are skills. All of them get easier with practice.
 
@@ -4173,7 +4173,7 @@ Expect the mind to wander constantly. This is not failure. The wandering and ret
 
 ## Non-Meditation Mindfulness
 
-Formal meditation is one route, but not the only one. Many activities that demand full attention — a sport, a craft, a conversation without phones — produce similar effects. The common factor is attention fully engaged in the present moment, without commentary.
+Formal meditation is one route, but not the only one. Many activities that demand full attention, a sport, a craft, a conversation without phones, produce similar effects. The common factor is attention fully engaged in the present moment, without commentary.
 
 For people who find sitting meditation aversive, any practice that produces this kind of attention can substitute. The key is that it is regular, that it requires real attention (mindless scrolling does not count), and that it creates time in the day when the rumination pattern is interrupted.
         `,
@@ -4185,7 +4185,7 @@ For people who find sitting meditation aversive, any practice that produces this
 
 Viktor Frankl, a psychiatrist who survived the concentration camps, wrote in *Man's Search for Meaning* that the difference between those who survived and those who did not often came down to whether they could find meaning in their suffering. His observation has been repeatedly confirmed in more recent research: people who have a strong sense of meaning in their lives show better outcomes across a wide range of adversities.
 
-This is not about grand missions. It is about knowing what you are for — what you care about, what kind of person you're trying to be, what the point of the work is. This knowing is a kind of ballast. When things are hard, it holds you in place.
+This is not about grand missions. It is about knowing what you are for, what you care about, what kind of person you're trying to be, what the point of the work is. This knowing is a kind of ballast. When things are hard, it holds you in place.
 
 The practical work of building meaning is the work of clarifying values. What do you actually care about, as opposed to what you have been told to care about? What kind of person do you want to have been, looking back? What would you want said about you, not in a career sense but in a human sense?
 
@@ -4205,15 +4205,15 @@ This reframe is powerful because it separates agency from circumstance. You cann
         content: `
 ## The Recovery Arc
 
-A setback — a job loss, a relationship ending, a serious illness, a betrayal — produces a predictable emotional arc. The specifics vary, but the shape is generally: shock or numbness, then intense emotional activation (often grief, anger, fear), then slower integration and adaptation over weeks to months, then a new equilibrium that is rarely identical to the old one.
+A setback, a job loss, a relationship ending, a serious illness, a betrayal, produces a predictable emotional arc. The specifics vary, but the shape is generally: shock or numbness, then intense emotional activation (often grief, anger, fear), then slower integration and adaptation over weeks to months, then a new equilibrium that is rarely identical to the old one.
 
 Resilience is not skipping these phases. It is moving through them without getting stuck, and arriving at an adaptation that preserves agency and possibility.
 
 The practices that help with recovery are largely the practices that help with daily resilience, applied more intensively: sleep (often disrupted by significant setbacks and requiring attention), movement (often the last thing you want and one of the most effective), social connection (especially with people who can tolerate hearing about the hard thing without trying to fix it), and mindfulness (for managing the intense emotions without being consumed by them).
 
-One additional piece is important: the story you tell about what happened. Early stories are often rough drafts — "this is the worst thing that could have happened"; "I should have seen this coming"; "I'll never recover." These stories matter because they shape how you process the event and what you do next.
+One additional piece is important: the story you tell about what happened. Early stories are often rough drafts, "this is the worst thing that could have happened"; "I should have seen this coming"; "I'll never recover." These stories matter because they shape how you process the event and what you do next.
 
-Telling the story to trusted people, in different ways, over time, helps it settle into a more workable form. Not a positive form necessarily, but a more complete form — one that acknowledges what happened, includes what you learned, and leaves room for what comes next.
+Telling the story to trusted people, in different ways, over time, helps it settle into a more workable form. Not a positive form necessarily, but a more complete form, one that acknowledges what happened, includes what you learned, and leaves room for what comes next.
 
 ## Post-Traumatic Growth
 
@@ -4239,7 +4239,7 @@ None of these are new ideas. The difference between knowing them and practising 
 
 ## The Progression Over Time
 
-The first month of a resilience practice tends to feel effortful. You are installing habits that were not there. The second and third months, the habits start to feel like part of the normal day. By the sixth month, you notice that you are responding differently to difficulty — less overwhelmed, less stuck, quicker to recover.
+The first month of a resilience practice tends to feel effortful. You are installing habits that were not there. The second and third months, the habits start to feel like part of the normal day. By the sixth month, you notice that you are responding differently to difficulty, less overwhelmed, less stuck, quicker to recover.
 
 The change is slow and often invisible from the inside. It shows up most clearly in contrast. When something happens that would have destabilised the pre-practice version of you, and you find yourself processing it without being consumed, you realise something has shifted.
 
@@ -4249,7 +4249,7 @@ Don't expect a dramatic transformation. Expect gradual strengthening, with occas
 
 A final note, because it matters. There are times when individual practices are not enough. Clinical depression, trauma, severe anxiety, and other conditions are not moral failures or signs of weak resilience practice. They are conditions that often require professional treatment.
 
-If you have tried the practices in this guide for some months and find yourself consistently below functional, or if you are having thoughts of self-harm, or if daily functioning has become impossible — reach out to a mental health professional. This is not a last resort for people whose practice failed. It is an appropriate first-line response for certain conditions.
+If you have tried the practices in this guide for some months and find yourself consistently below functional, or if you are having thoughts of self-harm, or if daily functioning has become impossible, reach out to a mental health professional. This is not a last resort for people whose practice failed. It is an appropriate first-line response for certain conditions.
 
 Resilience includes knowing when the situation requires more than individual practice. Getting professional help when it is needed is itself a resilient move.
 
@@ -4465,11 +4465,11 @@ This isn't laziness rebranded as motivation. This is the science of how behavior
       {
         title: 'Why Big Goals Fail',
         content: `
-Here's the uncomfortable truth: ambitious goals fail because they rely on willpower and motivation—the two resources you have the least of when you need them most.
+Here's the uncomfortable truth: ambitious goals fail because they rely on willpower and motivation, the two resources you have the least of when you need them most.
 
 You start January 1st with high motivation. You're going to exercise daily. You're going to meditate 20 minutes. You're going to read for an hour. You're going to write 1,000 words daily.
 
-By January 15th, motivation has faded. The habits haven't become automatic yet. And willpower—your finite daily budget for self-control—is depleted from trying to change everything simultaneously.
+By January 15th, motivation has faded. The habits haven't become automatic yet. And willpower, your finite daily budget for self-control, is depleted from trying to change everything simultaneously.
 
 Research by BJ Fogg, Director of the Behavior Design Lab at Stanford, documented this pattern across 40,000+ people. The fundamental problem with big goals isn't the goal itself. It's the behavior change pathway you choose to reach it.
         `,
@@ -4509,7 +4509,7 @@ Yes: "Before I turn off my phone at night, I'll read one page"
 
 Notice the pattern: anchor the micro-habit to something you already do (pour coffee, sit at desk, turn off phone). Use the existing behavior as a trigger. Make the new behavior laughably small.
 
-The trigger removes the need for motivation. You don't have to decide to do it—it's tied to a behavior you're already doing. The size removes the resistance. It's so small that doing it is easier than not doing it.
+The trigger removes the need for motivation. You don't have to decide to do it, it's tied to a behavior you're already doing. The size removes the resistance. It's so small that doing it is easier than not doing it.
         `,
       },
       {
@@ -4517,7 +4517,7 @@ The trigger removes the need for motivation. You don't have to decide to do it�
         content: `
 Research shows that genuinely tiny habits become automatic in 2-4 weeks of daily repetition with celebration. Regular habits take 18-254 days to become automatic, depending on the person and the habit. Tiny habits compress this timeline because their low difficulty enables near-daily completion.
 
-The key is celebration. After you do the micro-habit, you create a positive emotional signal. You notice it worked. You feel a small sense of accomplishment. This isn't about being dramatic—it's about creating the neurochemical feedback that wires the behavior into your brain.
+The key is celebration. After you do the micro-habit, you create a positive emotional signal. You notice it worked. You feel a small sense of accomplishment. This isn't about being dramatic, it's about creating the neurochemical feedback that wires the behavior into your brain.
 
 Dopamine released during genuine positive feeling strengthens the neural pathway between trigger, behavior, and reward. Without it, repetition builds the behavior slower or not at all.
 
@@ -4545,7 +4545,7 @@ The micro-habit approach reframes the timeline. You're not trying to transform i
       {
         title: 'Evidence-Based, Not Trend-Based',
         content: `
-The 2026 shift in personal development is toward evidence-based change. The viral hacks, the extreme routines, the 5am club, the ice bath protocols—skepticism is rising. What works for one Instagram influencer probably won't work for you.
+The 2026 shift in personal development is toward evidence-based change. The viral hacks, the extreme routines, the 5am club, the ice bath protocols, skepticism is rising. What works for one Instagram influencer probably won't work for you.
 
 What does work is documented across decades of research:
 
@@ -4560,15 +4560,15 @@ The micro-habit approach is evidence-backed, not trend-backed. It survives conta
       {
         title: 'Building Your First Micro-Habit',
         content: `
-1. **Pick the trigger** — Something you already do daily. Morning coffee. Brushing teeth. Sitting at your desk. Opening your inbox.
+1. **Pick the trigger**, Something you already do daily. Morning coffee. Brushing teeth. Sitting at your desk. Opening your inbox.
 
-2. **Define the micro-habit** — So small it feels almost trivial. 10 push-ups. One minute of stretching. Three deep breaths. One page. One paragraph. Five minutes.
+2. **Define the micro-habit**, So small it feels almost trivial. 10 push-ups. One minute of stretching. Three deep breaths. One page. One paragraph. Five minutes.
 
-3. **Practice for 2-4 weeks** — Daily. Same time. Same trigger.
+3. **Practice for 2-4 weeks**, Daily. Same time. Same trigger.
 
-4. **Create the celebration** — A genuine positive feeling after completion. It can be small. "I did it." A mental note. A small gesture. The feeling is the wiring mechanism.
+4. **Create the celebration**, A genuine positive feeling after completion. It can be small. "I did it." A mental note. A small gesture. The feeling is the wiring mechanism.
 
-5. **Don't add anything else yet** — One habit. Let it become automatic. Then add another.
+5. **Don't add anything else yet**, One habit. Let it become automatic. Then add another.
 
 The timeline feels slow. One micro-habit per month. Twelve per year. That feels like nothing.
 
@@ -4613,7 +4613,7 @@ export const glossaryTerms: GlossaryTerm[] = [
     term: 'Growth Mindset',
     definition: 'The belief that abilities and intelligence can be developed through dedication, hard work, and learning from failures.',
     fullExplanation: `
-A growth mindset is a term coined by psychologist Carol Dweck to describe the belief that your most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and resilience that is essential for great accomplishment.
+A growth mindset is a term coined by psychologist Carol Dweck to describe the belief that your most basic abilities can be developed through dedication and hard work, brains and talent are just the starting point. This view creates a love of learning and resilience that is essential for great accomplishment.
 
 People with a growth mindset:
 - Embrace challenges as opportunities to grow
@@ -4622,9 +4622,9 @@ People with a growth mindset:
 - Learn from criticism
 - Find lessons and inspiration in others' success
 
-The opposite is a fixed mindset—the belief that intelligence and abilities are static traits that cannot be significantly changed. Research consistently shows that those who adopt a growth mindset achieve more over time than those with fixed mindsets.
+The opposite is a fixed mindset, the belief that intelligence and abilities are static traits that cannot be significantly changed. Research consistently shows that those who adopt a growth mindset achieve more over time than those with fixed mindsets.
 
-Growth mindset is not just about effort. It's about trying new strategies, seeking help when needed, and continuously learning. The good news is that mindset can be changed—neuroplasticity supports our ability to develop new ways of thinking at any age.
+Growth mindset is not just about effort. It's about trying new strategies, seeking help when needed, and continuously learning. The good news is that mindset can be changed, neuroplasticity supports our ability to develop new ways of thinking at any age.
     `,
     relatedTerms: ['fixed-mindset', 'neuroplasticity', 'deliberate-practice'],
   },
@@ -4633,7 +4633,7 @@ Growth mindset is not just about effort. It's about trying new strategies, seeki
     term: 'Fixed Mindset',
     definition: 'The belief that intelligence, abilities, and talents are fixed traits that cannot be significantly developed.',
     fullExplanation: `
-A fixed mindset is the belief that your qualities are carved in stone. You have a certain amount of intelligence, a certain personality, and a certain moral character—and nothing you do can change that in any meaningful way.
+A fixed mindset is the belief that your qualities are carved in stone. You have a certain amount of intelligence, a certain personality, and a certain moral character, and nothing you do can change that in any meaningful way.
 
 People with a fixed mindset tend to:
 - Avoid challenges that might reveal inadequacy
@@ -4642,7 +4642,7 @@ People with a fixed mindset tend to:
 - Ignore useful criticism
 - Feel threatened by others' success
 
-The fixed mindset creates an urgency to prove yourself over and over. If you have only a certain amount of intelligence, a certain personality, and a certain moral character—well, then you'd better prove you have a healthy dose of them. Every situation is evaluated: Will I succeed or fail? Will I look smart or dumb? Will I be accepted or rejected?
+The fixed mindset creates an urgency to prove yourself over and over. If you have only a certain amount of intelligence, a certain personality, and a certain moral character, well, then you'd better prove you have a healthy dose of them. Every situation is evaluated: Will I succeed or fail? Will I look smart or dumb? Will I be accepted or rejected?
 
 The good news is that mindset is not permanent. Through awareness and practice, fixed mindset patterns can be shifted toward growth orientation. Understanding when and where your fixed mindset appears is the first step to changing it.
     `,
@@ -4670,7 +4670,7 @@ Key factors that promote neuroplasticity:
 - Challenging mental activities
 - Stress management
 
-Neuroplasticity is the scientific foundation for the growth mindset concept. It proves that our brains can literally change based on our experiences, learning, and practice. When you believe you can improve and then act on that belief, you're not just thinking positively—you're engaging in a process that physically changes your brain.
+Neuroplasticity is the scientific foundation for the growth mindset concept. It proves that our brains can literally change based on our experiences, learning, and practice. When you believe you can improve and then act on that belief, you're not just thinking positively, you're engaging in a process that physically changes your brain.
     `,
     relatedTerms: ['growth-mindset', 'deliberate-practice'],
   },
@@ -4694,7 +4694,7 @@ Deliberate practice is different from regular practice in several important ways
 - Regular practice maintains current skills; deliberate practice improves them
 - Regular practice can be mindless; deliberate practice requires full engagement
 
-Research shows that deliberate practice is the single most important factor in developing expertise in virtually any field. It's not just about putting in hours—it's about how you spend those hours. This concept directly supports growth mindset by showing that improvement is possible through the right kind of effort.
+Research shows that deliberate practice is the single most important factor in developing expertise in virtually any field. It's not just about putting in hours, it's about how you spend those hours. This concept directly supports growth mindset by showing that improvement is possible through the right kind of effort.
     `,
     relatedTerms: ['growth-mindset', 'neuroplasticity'],
   },
@@ -4713,7 +4713,7 @@ Components of resilience:
 4. **Social connection**: Drawing on relationships for support
 5. **Sense of purpose**: Having meaning that transcends immediate difficulties
 
-Resilience is not a fixed trait—it can be developed over time. Building resilience involves:
+Resilience is not a fixed trait, it can be developed over time. Building resilience involves:
 - Developing strong relationships
 - Accepting change as part of life
 - Taking decisive action in difficult situations
@@ -4742,7 +4742,7 @@ export const faqs: FAQ[] = [
   },
   {
     question: 'How is growth mindset different from positive thinking?',
-    answer: "Growth mindset is not just about being positive. It's about believing in the ability to develop skills through effort and learning. You can have a growth mindset while acknowledging current limitations—the difference is believing those limitations can change. Positive thinking alone doesn't include this belief in development through practice.",
+    answer: "Growth mindset is not just about being positive. It's about believing in the ability to develop skills through effort and learning. You can have a growth mindset while acknowledging current limitations, the difference is believing those limitations can change. Positive thinking alone doesn't include this belief in development through practice.",
     category: 'Basics',
   },
   {
@@ -4777,12 +4777,12 @@ export const faqs: FAQ[] = [
   },
   {
     question: 'What role does failure play in growth mindset?',
-    answer: "In a growth mindset, failure is viewed as an essential part of learning rather than a verdict on ability. Each failure provides valuable feedback about what doesn't work, informing future approaches. People with growth mindsets don't enjoy failure, but they don't fear it either—they understand it's a necessary step on the path to mastery.",
+    answer: "In a growth mindset, failure is viewed as an essential part of learning rather than a verdict on ability. Each failure provides valuable feedback about what doesn't work, informing future approaches. People with growth mindsets don't enjoy failure, but they don't fear it either, they understand it's a necessary step on the path to mastery.",
     category: 'Concepts',
   },
   {
     question: 'How can I overcome setbacks with a growth mindset?',
-    answer: 'To overcome setbacks with a growth mindset: first, acknowledge your emotions without judgment. Then, reframe the setback as data—what can you learn? Ask what you could do differently next time. Seek feedback from others. Remember that setbacks are temporary and don\'t define your ability. Finally, create a specific plan for moving forward and get back to practice.',
+    answer: 'To overcome setbacks with a growth mindset: first, acknowledge your emotions without judgment. Then, reframe the setback as data, what can you learn? Ask what you could do differently next time. Seek feedback from others. Remember that setbacks are temporary and don\'t define your ability. Finally, create a specific plan for moving forward and get back to practice.',
     category: 'Application',
   },
 ]
@@ -4800,7 +4800,7 @@ export interface FeedPost {
 export const feedPosts: FeedPost[] = [
   {
     id: '1',
-    content: "Your brain doesn't have a \"full\" sign. Every single day, you're capable of learning something new—no matter your age. That's what neuroplasticity teaches us.\n\nStop telling yourself you're \"too old\" to learn.\nStop believing you've \"maxed out\" your potential.\n\nThe only limit is the one you accept.",
+    content: "Your brain doesn't have a \"full\" sign. Every single day, you're capable of learning something new, no matter your age. That's what neuroplasticity teaches us.\n\nStop telling yourself you're \"too old\" to learn.\nStop believing you've \"maxed out\" your potential.\n\nThe only limit is the one you accept.",
     likes: 2847,
     comments: 156,
     date: '2024-01-18',
