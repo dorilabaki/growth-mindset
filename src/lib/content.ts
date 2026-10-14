@@ -12,6 +12,101 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: 'ai-coach-vs-human-coach-goal-attainment-trials-2026',
+    title: "An AI Coach Matched Human Coaches in Two 10-Month Trials. Here's What That Does and Doesn't Mean.",
+    description: "Two randomised trials with 478 enrolled participants compared a human coaching programme and a goal-theory chatbot against control groups. Both coached groups improved more than controls, and the two coaching groups never differed significantly. The details, and the limits, matter.",
+    category: 'Science',
+    readTime: '7 min read',
+    date: '2026-10-14',
+    content: `
+## The Question Behind the Headline
+
+Coaching is one of the most common tools in personal development, and one of the hardest to scale. A qualified coach costs real money and real hours. So when a text-based chatbot is reported to perform as well as a human coach, it's worth reading the paper and not just the headline.
+
+The paper is Terblanche, Molyn, de Haan, and Nilsson, "Comparing artificial intelligence and human coaching goal attainment efficacy," published in *PLoS ONE* in 2022. The same research group has since published a follow-up in 2026 (de Haan, Terblanche, and Nowack, on goal attainment, wellbeing, and self-efficacy). We've read the 2022 paper in full and have only the bibliographic details of the 2026 one, so everything below comes from the 2022 trials.
+
+## How the Trials Worked
+
+There were two separate randomised controlled trials, each tracking goal attainment over 10 months.
+
+- **Study 1, human coaching** (October 2017 to July 2018): 105 people in a control group and 105 in the coaching group.
+- **Study 2, AI coaching** (November 2019 to August 2020): 134 in control and 134 in the coaching group.
+
+That's 478 people enrolled. Participants were recruited at a UK business school. The authors describe the sample as undergraduate business students.
+
+**The human condition** was six one-hour sessions, one a month, over Skype with professionally qualified coaches trained in a relational model. The sessions were unscripted.
+
+**The AI condition** was "Coach Vici," a text-based expert-system chatbot on Telegram, built around goal theory. It helped users define and assess goals, build action plans, and check progress. It was available around the clock, and participants were asked to use it at least once a month.
+
+**The measure** was self-reported goal attainment, adapted from earlier coaching research. Each person rated two goals. Success was scored on an 11-point scale (0 to 100% in steps of 10), difficulty on a 7-point scale, and the two were multiplied to give a score per goal. Surveys ran at eight time points: baseline, monthly for six months, and a follow-up three months after the last monthly survey.
+
+## What They Found
+
+Both coached groups improved more than their control groups. The group-by-time interaction was statistically significant (p = .004), with a small effect size (partial eta squared of .023).
+
+Within each group, the change over time looked like this (partial eta squared):
+
+- Control group 1: .16
+- Control group 2: .11
+- Human coaching: .265
+- AI coaching: .269
+
+Notice that the control groups improved too. People who set goals and fill in surveys for 10 months tend to make progress anyway, and both control groups changed significantly between baseline and the fourth survey, then held steady. Coaching's benefit is the extra improvement on top of that.
+
+The coached groups started pulling ahead later. Their gains first became significant at the fourth time point, and kept rising through the final two. By time point 7, the human group was significantly ahead of both controls, and the AI group was significantly ahead of both controls as well (p = .022 against control 1 and p = .048 against control 2).
+
+On the question the headline asks: **there was no significant difference between human and AI coaching at any time point.** The two coaching groups also had nearly identical within-group effect sizes.
+
+## The Usage Detail Worth Noticing
+
+Among AI-coaching participants, those who split above the median of six sessions with the chatbot improved more than those below it. The higher-usage group's mean increase in goal attainment was 37.62 (SD 34.16), against 17.62 (SD 32.50) for the lower-usage group. The difference was statistically significant (p = .028, d = 0.52).
+
+That's an association, not proof that more sessions caused more progress. People who were already motivated may have used the tool more. But it fits a plain reading: a coach you don't talk to can't help much.
+
+## What This Doesn't Show
+
+The authors list several limits, and there are others worth stating.
+
+**It isn't a head-to-head trial.** The human and AI groups were in different studies, run in different years, each with its own control group. The comparison is across two trials, not within one randomised experiment. The 2020 study also ran during the pandemic.
+
+**Goal attainment was self-reported.** People scoring their own success can be generous. The authors flag self-score bias as a limitation.
+
+**Controls knew they weren't being coached.** That means placebo and nocebo effects couldn't be fully separated from the coaching itself.
+
+**The sample was students.** Business school undergraduates may not resemble a mid-career professional or someone dealing with a personal crisis. The authors note generalisability may be limited.
+
+**Attrition was substantial.** Only 327 of 478 had data at all eight time points, so about 31.6% dropped out.
+
+**It tested a structured goal-setting use case.** The chatbot was an expert system built on goal theory, not a general-purpose assistant. These results say nothing about asking a general chatbot for life advice.
+
+## How To Use This
+
+Take the finding for what it supports: structured, goal-focused coaching helped over 10 months, and it didn't matter in these trials whether the structure came from a person or a purpose-built chatbot.
+
+**Make the goal specific and scoreable.** The method behind Coach Vici was to define the goal, assess it, plan actions, and check progress. You can do that with a notebook. If you want a way to turn a goal into actions, our piece on [if-then plans](/resources/if-then-plans-implementation-intentions-30-year-track-record) is a good place to start.
+
+**Check in on a schedule.** Both formats built in regular contact, monthly sessions or a monthly minimum chatbot use. Pick a rhythm and keep it.
+
+**Use the tool, whichever it is.** The usage split suggests engagement mattered. If you're using an AI tool to plan your goals, our sister site [How Do I Use AI](https://howdoiuse.ai) covers how to prompt it well.
+
+**Keep expectations modest.** The effect on goal attainment was small and the controls improved too. Coaching, human or AI, isn't a shortcut.
+
+## The Bottom Line
+
+In two 10-month trials with 478 enrolled participants, goal-focused coaching beat no coaching, and a chatbot built on goal theory performed about as well as human coaches. The trials were separate, self-reported, and student-based, so the finding is encouraging, not final. What it supports most is the structure: a clear goal, a plan, and regular check-ins.
+
+## Sources
+
+- Terblanche, N., Molyn, J., de Haan, E., and Nilsson, V.O., "Comparing artificial intelligence and human coaching goal attainment efficacy," *PLoS ONE* 17(6): e0270255 (2022), doi:10.1371/journal.pone.0270255: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270255
+- de Haan, E., Terblanche, N., and Nowack, K., "A randomised controlled comparison of the effectiveness of human and AI chatbot coaching with goal attainment, wellbeing and self-efficacy" (2026), doi:10.1080/13678868.2026.2633990. Bibliographic details only; full text not reviewed.
+`,
+    faqs: [
+      { question: "Did the AI coach really perform as well as human coaches?", answer: "In the 2022 PLoS ONE trials, there was no significant difference between human and AI coaching at any of the eight time points. But the two were tested in separate studies with separate control groups, so it is not a direct head-to-head comparison." },
+      { question: "How big was the effect of coaching on goals?", answer: "Small. The group-by-time interaction had a partial eta squared of .023. Control groups improved significantly as well, so coaching's benefit is the additional improvement beyond that." },
+      { question: "Does this mean I can use any chatbot as a coach?", answer: "No. The chatbot in the study, Coach Vici, was a purpose-built expert system designed around goal theory. The trials did not test general-purpose AI assistants." },
+    ],
+  },
+  {
     slug: 'mindset-performance-trajectories-hkust-longitudinal-2025',
     title: "Growth Mindset's Edge Faded Over Four Years. A 915-Student Study Shows Where It Lasted.",
     description: "A 2025 npj Science of Learning study followed 915 university students from entry to graduation. Growth mindset students led early, the gap narrowed over time, and the benefit showed up outside their major. Here's what the paper found and what it can't tell you.",
