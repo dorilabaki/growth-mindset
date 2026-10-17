@@ -163,6 +163,22 @@ export default async function ArticlePage({ params }: Props) {
             )}
           </AnimatedSection>
 
+          {/* Free toolkit CTA */}
+          <AnimatedSection className="mt-16 rounded-2xl bg-primary-50 border border-primary-100 p-6 md:p-8">
+            <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-6">
+              <div className="min-w-0">
+                <p className="text-xs font-semibold uppercase tracking-wide text-primary-700 mb-1">Free toolkit</p>
+                <h2 className="font-display text-xl font-bold text-neutral-950 mb-1">Put this into practice</h2>
+                <p className="text-neutral-600 text-sm">
+                  A 30-day set of exercises, journaling prompts and habit trackers based on Carol Dweck&apos;s research.
+                </p>
+              </div>
+              <Button href="/toolkit" className="whitespace-nowrap flex-shrink-0">
+                Get the free toolkit
+              </Button>
+            </div>
+          </AnimatedSection>
+
           {/* Related Articles */}
           {relatedArticles.length > 0 && (
             <AnimatedSection className="mt-16 pt-12 border-t border-neutral-200">
