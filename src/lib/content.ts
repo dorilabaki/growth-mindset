@@ -12,6 +12,90 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: 'light-touch-mindset-belonging-interventions-null-result-nber-2026',
+    title: "Four Experiments, Nearly 12,000 Students: A One-Hour Growth Mindset Module Didn't Move Grades",
+    description: "A 2026 NBER working paper tested growth mindset and social belonging modules on 11,908 students at two Canadian universities. Grades, persistence, and graduation barely moved. What the null result does and doesn't tell you.",
+    category: 'Science',
+    readTime: '7 min read',
+    date: '2026-10-19',
+    content: `
+## A Large Test of a Popular Idea
+
+Short online "mindset" modules have been sold as a cheap way to lift student outcomes. Read a few stories, write a reflection, and the belief that ability can grow is supposed to carry through to better grades. A May 2026 NBER working paper put that claim through a much larger test than most.
+
+The paper is "The (Lack of) Efficacy of Social Belonging and Growth Mindset Interventions Among College Students," by Abid Alam, Philip Oreopoulos, and Uros Petronijevic (NBER Working Paper 35230). It's a working paper, so it hasn't been through peer review. We read the full text, and the numbers below come from its tables.
+
+## What They Ran
+
+Four randomised experiments at the University of Toronto and York University, covering 11,908 students in total (5,616 treated, 6,292 control):
+
+- **Original Belonging (2015):** 2,427 students at Toronto.
+- **Economics Growth Mindset (2017):** 3,994 students in first-year economics courses.
+- **International Belonging (2017):** 1,906 international first-years.
+- **Original Growth Mindset (2019):** 3,581 students at York.
+
+The growth mindset modules used brain-development content, upper-year student scripts, and a written reflection. The belonging modules used stories from older students. Students who were treated wrote about 200 words and spent about 25 minutes on the module, on average, so they did engage. The control group took personality and time-preference questionnaires instead.
+
+The authors then followed students through administrative records for up to four years.
+
+## What They Found
+
+Almost nothing, and the paper says so plainly. Grades are on a 0 to 100 scale. The control group's average first-year final grade was 69.46.
+
+- **Fall-term grade, pooled effect:** 0.144 points (standard error 0.268).
+- **First-year final grade, pooled:** 0.049 points (standard error 0.254).
+- **Fourth-year final grade, pooled:** 0.382 points (standard error 0.283).
+- **Persistence into year 2, 3, and 4, pooled:** 0.002, 0.002, and 0.001 (shares of students), none close to significant.
+- **Graduating within four years, pooled:** 0.007 (standard error 0.011).
+
+A couple of single-arm estimates reached the 10 percent significance level, such as the original growth mindset arm in years 2 and 4. With this many outcomes tested, a few borderline results are what chance alone produces, and the pooled estimates don't move.
+
+The authors also used machine learning to look for subgroups who benefited, such as lower-income or lower-grade students. They report no evidence of meaningful variation across subgroups.
+
+## How Precise Is "No Effect"?
+
+This is what makes the paper useful. A small study that finds nothing can't rule much out. This one can. The authors report that their pooled estimates rule out grade effects larger than about 5 percent of a standard deviation, persistence effects larger than 2.25 percent of the baseline mean, and five-year graduation effects larger than 4.24 percent.
+
+In plain terms, if these modules help, the help is small. It isn't a large jump.
+
+## What This Doesn't Show
+
+**It doesn't say growth mindset is false.** These experiments tested a one-time, light-touch module in large university courses. They didn't test long-term teaching practice, or whether holding the belief matters for the people who already hold it.
+
+**It's two Canadian universities.** Earlier work that found benefits focused on particular groups, including at-risk and lower-income students, in particular school settings. The authors note that further research is needed to identify where the benefits generalise.
+
+**It's a working paper.** Expect it to be read, criticised, and possibly revised.
+
+**Engagement was measured by effort, not by belief change.** The paper tells us the module didn't change grades. It doesn't tell us how deeply any individual student took it on board.
+
+## What To Do With This
+
+Treat a mindset belief as a starting point, not a treatment. If a quick module doesn't change outcomes, then what likely matters is what happens after the belief: the practice, the feedback, and the environment around you.
+
+That lines up with what we've covered elsewhere. A study of 915 students found [the growth mindset edge faded over four years](/resources/mindset-performance-trajectories-hkust-longitudinal-2025). A 73-country analysis put the offset to circumstance at [about 3 percent](/resources/growth-mindset-cannot-outrun-circumstance-73-country-study). And the case for pairing the belief with behaviour is in [the deliberate practice mindset](/resources/deliberate-practice-mindset-beyond-growth) and [why context matters](/resources/growth-mindset-context-matters-2025-research).
+
+Practically, that means:
+
+- Pick one skill and define what a good week of practice looks like.
+- Get feedback from someone who can see your work, and act on it.
+- Judge your mindset by what you do after a setback, not by how you feel about effort.
+
+## Bottom Line
+
+In four experiments with 11,908 students, short growth mindset and belonging modules produced no detectable lift in grades, persistence, or graduation, and the study was large enough to rule out big effects. The belief may still matter. A one-hour module on its own, in these settings, didn't deliver.
+
+## Sources
+
+- Alam, A. N., Oreopoulos, P., and Petronijevic, U., "The (Lack of) Efficacy of Social Belonging and Growth Mindset Interventions Among College Students," NBER Working Paper 35230, May 2026. DOI 10.3386/w35230. https://www.nber.org/papers/w35230
+`,
+    faqs: [
+      { question: "Does this study prove growth mindset doesn't work?", answer: "No. It tested one-time online modules for university students at two Canadian universities and found no effect on grades, persistence, or graduation. It doesn't test sustained teaching practice or the belief outside those modules." },
+      { question: "How many students were in the study?", answer: "11,908 across four randomised experiments: 5,616 treated and 6,292 control, at the University of Toronto and York University." },
+      { question: "Is this peer-reviewed?", answer: "Not yet. It is NBER Working Paper 35230, published in May 2026, and working papers can change after review." },
+      { question: "What should I do instead of relying on a mindset exercise?", answer: "Pair the belief with behaviour: define the skill, practise it on a schedule, and get feedback you act on. The research we've covered suggests the practice and the environment carry more weight than the belief alone." },
+    ],
+  },
+  {
     slug: 'ai-coach-vs-human-coach-goal-attainment-trials-2026',
     title: "An AI Coach Matched Human Coaches in Two 10-Month Trials. Here's What That Does and Doesn't Mean.",
     description: "Two randomised trials with 478 enrolled participants compared a human coaching programme and a goal-theory chatbot against control groups. Both coached groups improved more than controls, and the two coaching groups never differed significantly. The details, and the limits, matter.",
