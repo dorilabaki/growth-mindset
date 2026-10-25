@@ -5,7 +5,7 @@ import { Card, CardTitle, CardDescription, CardTag } from '@/components/Card'
 import { Button } from '@/components/Button'
 
 export const metadata: Metadata = {
-  title: 'Your Toolkit Is On Its Way — Growth Mindset Hub',
+  title: 'Your Toolkit Is On Its Way, Growth Mindset Hub',
   description: 'Thank you for downloading the Growth Mindset Toolkit. Here are your first exercises to get started today.',
   robots: { index: false },
 }
@@ -15,7 +15,7 @@ const exercises = [
     tag: 'Carol Dweck · Stanford',
     title: 'The "Not Yet" Reframe',
     description:
-      'When you catch yourself saying "I can\'t do this," add two words: "…not yet." This small shift activates a growth-oriented frame. In her research, Dweck found that students who received a grade of "Not Yet" instead of "Failing" showed significantly greater persistence and resilience than those who received a failing grade — because "Not Yet" communicates that learning is still in progress.',
+      'When you catch yourself saying "I can\'t do this," add two words: "…not yet." This small shift activates a growth-oriented frame. In her research, Dweck found that students who received a grade of "Not Yet" instead of "Failing" showed significantly greater persistence and resilience than those who received a failing grade, because "Not Yet" communicates that learning is still in progress.',
     step: 'Practice: For one full day, whenever you think or say "I can\'t," pause and add "yet." Notice how it changes your internal experience of the challenge.',
     color: 'primary' as const,
   },
@@ -23,7 +23,7 @@ const exercises = [
     tag: 'Anders Ericsson · Florida State',
     title: 'Deliberate Practice Session Design',
     description:
-      'Ericsson\'s decades of research on expert performers showed that what separates experts from novices isn\'t the number of hours practiced — it\'s the quality of practice. Deliberate practice means targeting a specific weakness, operating at the edge of your current ability, and receiving immediate feedback.',
+      'Ericsson\'s decades of research on expert performers showed that what separates experts from novices isn\'t the number of hours practiced, it\'s the quality of practice. Deliberate practice means targeting a specific weakness, operating at the edge of your current ability, and receiving immediate feedback.',
     step: 'Practice: Choose one skill you want to improve. Block 20 focused minutes. Define a specific sub-skill to target (not "get better at writing" but "write stronger opening sentences"). Work just past your comfort zone, then review what worked.',
     color: 'accent' as const,
   },
@@ -32,7 +32,7 @@ const exercises = [
     title: 'The Grit Journal',
     description:
       'Duckworth\'s research identified two components of grit: passion (sustained interest over time) and perseverance (persistence despite setbacks). Her work with military cadets, spelling bee champions, and teachers showed that grit predicts success over and above talent or IQ in demanding domains.',
-    step: 'Practice: At the end of each day, write three sentences — (1) What long-term goal did I take a step toward today? (2) What obstacle did I push through? (3) What does my effort today say about who I\'m becoming?',
+    step: 'Practice: At the end of each day, write three sentences, (1) What long-term goal did I take a step toward today? (2) What obstacle did I push through? (3) What does my effort today say about who I\'m becoming?',
     color: 'primary' as const,
   },
   {
@@ -66,7 +66,7 @@ export default function ThankYouPage() {
             Your toolkit is on its way!
           </h1>
           <p className="text-lg text-neutral-600 mb-2 max-w-md mx-auto">
-            Check your inbox — the Growth Mindset Toolkit will arrive shortly.
+            Check your inbox, the Growth Mindset Toolkit will arrive shortly.
           </p>
           <p className="text-sm text-neutral-500">
             While you wait, start with these four foundational exercises below.
@@ -82,7 +82,7 @@ export default function ThankYouPage() {
               Start today with these four exercises
             </h2>
             <p className="text-neutral-600 max-w-lg mx-auto">
-              Each is based on peer-reviewed research. You don&apos;t need the full toolkit to begin — pick one and do it now.
+              Each is based on peer-reviewed research. You don&apos;t need the full toolkit to begin, pick one and do it now.
             </p>
           </div>
 

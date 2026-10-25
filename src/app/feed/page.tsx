@@ -6,7 +6,7 @@ import { FeedPosts } from './FeedPosts'
 
 export const metadata: Metadata = {
   title: 'LinkedIn Feed',
-  description: 'Our top LinkedIn posts on growth mindset, resilience, and personal development — curated from our 204,000+ follower community.',
+  description: 'Our top LinkedIn posts on growth mindset, resilience, and personal development, curated from our 204,000+ follower community.',
   openGraph: {
     title: 'Growth Mindset LinkedIn Feed',
     description: 'Daily inspiration and insights from our LinkedIn community of 204,000+ followers.',

@@ -51,7 +51,7 @@ export function LeadMagnetBanner() {
                 Get the Growth Mindset Toolkit
               </h3>
               <p className="text-primary-200 text-sm leading-relaxed max-w-lg">
-                30 science-backed daily exercises, 45 journaling prompts, and habit trackers — based on Carol Dweck&apos;s research. Free for our 204K+ community.
+                30 science-backed daily exercises, 45 journaling prompts, and habit trackers, based on Carol Dweck&apos;s research. Free for our 204K+ community.
               </p>
             </div>
 

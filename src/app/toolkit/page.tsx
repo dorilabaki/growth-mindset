@@ -5,7 +5,7 @@ import { Button } from '@/components/Button'
 import { ToolkitForm } from './ToolkitForm'
 
 export const metadata: Metadata = {
-  title: 'Free Growth Mindset Toolkit — Daily Practices to Rewire Your Thinking',
+  title: 'Free Growth Mindset Toolkit, Daily Practices to Rewire Your Thinking',
   description:
     'Get our free 30-day toolkit with science-backed exercises, journaling prompts, and habit trackers based on Carol Dweck\'s research. Join 204K+ in our community.',
   openGraph: {
@@ -45,7 +45,7 @@ const toolkitSections = [
     tag: 'Weekly',
     title: 'Habit Tracking Sheets',
     description:
-      'Weekly trackers based on BJ Fogg\'s Tiny Habits methodology and James Clear\'s habit loop framework. Track effort, learning, and process — not just outcomes.',
+      'Weekly trackers based on BJ Fogg\'s Tiny Habits methodology and James Clear\'s habit loop framework. Track effort, learning, and process, not just outcomes.',
     icon: (
       <svg className="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
         <path strokeLinecap="round" strokeLinejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
@@ -100,7 +100,7 @@ export default function ToolkitPage() {
             <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
               <path strokeLinecap="round" strokeLinejoin="round" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
             </svg>
-            Free Resource — No credit card required
+            Free Resource, No credit card required
           </div>
 
           <h1 className="font-display text-4xl md:text-5xl lg:text-6xl font-bold text-neutral-950 mb-6 leading-tight">
@@ -113,7 +113,7 @@ export default function ToolkitPage() {
           </p>
 
           <p className="text-lg text-neutral-600 mb-10 max-w-lg mx-auto">
-            30 days of science-backed exercises, journaling prompts, and habit trackers — built on Carol Dweck&apos;s research and positive psychology. Completely free.
+            30 days of science-backed exercises, journaling prompts, and habit trackers, built on Carol Dweck&apos;s research and positive psychology. Completely free.
           </p>
 
           <div className="max-w-md mx-auto mb-6">
@@ -201,7 +201,7 @@ export default function ToolkitPage() {
             </div>
             <div>
               <p className="font-display text-4xl md:text-5xl font-bold text-accent-300 mb-2">100%</p>
-              <p className="text-primary-200">Free — always</p>
+              <p className="text-primary-200">Free, always</p>
             </div>
           </div>
         </div>
@@ -214,7 +214,7 @@ export default function ToolkitPage() {
             Ready to start growing?
           </h2>
           <p className="text-lg text-neutral-600 mb-8 max-w-md mx-auto">
-            Enter your email and get instant access to the full toolkit — no waiting, no purchase required.
+            Enter your email and get instant access to the full toolkit, no waiting, no purchase required.
           </p>
           <div className="max-w-md mx-auto mb-4">
             <ToolkitForm />

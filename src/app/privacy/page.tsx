@@ -3,7 +3,7 @@ import { Breadcrumbs } from '@/components/Breadcrumbs'
 
 export const metadata: Metadata = {
   title: 'Privacy Policy',
-  description: 'Growth Mindset privacy policy — how we collect, use, and protect your information.',
+  description: 'Growth Mindset privacy policy, how we collect, use, and protect your information.',
   robots: { index: true, follow: true },
 }
 
@@ -32,12 +32,12 @@ export default function PrivacyPage() {
             <p>We collect information you provide directly to us, including:</p>
             <ul>
               <li>
-                <strong>Email address</strong> — when you sign up for our free toolkit or
+                <strong>Email address</strong>, when you sign up for our free toolkit or
                 newsletter. We use this to deliver the resource you requested and send
                 occasional growth mindset content.
               </li>
               <li>
-                <strong>Contact form data</strong> — name, email, and message when you contact
+                <strong>Contact form data</strong>, name, email, and message when you contact
                 us. We use this solely to respond to your inquiry.
               </li>
             </ul>

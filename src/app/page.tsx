@@ -141,7 +141,7 @@ export default function HomePage() {
               Your Path to Growth
             </h2>
             <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-              Explore our core pillars designed to help you develop a stronger, more resilient mindset.
+              Explore our core pillars for developing a stronger, more resilient mindset.
             </p>
           </div>
 

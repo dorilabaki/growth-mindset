@@ -3,7 +3,7 @@ import { Breadcrumbs } from '@/components/Breadcrumbs'
 
 export const metadata: Metadata = {
   title: 'Terms of Service',
-  description: 'Growth Mindset terms of service — the rules and guidelines for using our website and resources.',
+  description: 'Growth Mindset terms of service, the rules and guidelines for using our website and resources.',
   robots: { index: true, follow: true },
 }
 
@@ -40,8 +40,8 @@ export default function TermsPage() {
 
             <h2>Intellectual Property</h2>
             <p>
-              All content on this Site — including articles, guides, graphics, logos, and
-              design — is the property of Growth Mindset or its content suppliers and is
+              All content on this Site, including articles, guides, graphics, logos, and
+              design, is the property of Growth Mindset or its content suppliers and is
               protected by applicable intellectual property laws.
             </p>
             <p>
