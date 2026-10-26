@@ -12,6 +12,91 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: 'self-affirmation-meta-analysis-129-tests-what-it-does-2025',
+    title: "Self-Affirmation Works, But Modestly: What 129 Tests and 17,748 People Show",
+    description: "A 2025 meta-analysis in American Psychologist pooled 129 tests of self-affirmation exercises. Effects on self-perception, well-being and behaviour were real but small, and the range across studies was wide. What to expect before you try one.",
+    category: 'Science',
+    readTime: '7 min read',
+    date: '2026-10-26',
+    content: `
+## The Idea, and the Evidence
+
+Self-affirmation exercises are simple. You write for a few minutes about a value that matters to you, such as family, creativity, or honesty, and the idea is that it steadies your sense of self when something threatens it. A 2025 meta-analysis in American Psychologist pooled the research to ask how well that holds up.
+
+The paper is "The Impact of Self-Affirmation Interventions on Well-Being: A Meta-Analysis" by Yunian Zhang, Boyin Chen, Xinyang Hu, and Minhong Wang. It covers 129 independent tests from 67 published articles, with 17,748 participants (8,941 in affirmation groups and 8,807 in control groups). The authors note the review was not preregistered.
+
+## What They Found
+
+The effect sizes are Hedges' g, where 0.2 is conventionally small and 0.5 medium. Every headline result sits in the small range.
+
+- **Self-perception:** g = 0.32 (95% CI 0.22 to 0.43), from 52 tests.
+- **General well-being:** g = 0.29 (0.17 to 0.41), from 56 tests.
+- **Social well-being:** g = 0.26 (0.17 to 0.35), from 25 tests.
+- **Cognitive performance:** g = 0.23 (0.05 to 0.40), from 19 tests.
+- **Behaviour:** g = 0.22 (0.10 to 0.34), from 13 tests.
+- **Psychological barriers** (things like stress and defensiveness): g = -0.22 (-0.30 to -0.13), from 72 tests. A negative number is the helpful direction here, because it means barriers went down.
+
+The authors found no significant sign of publication bias in their funnel plots and Egger's tests. That matters, because small positive studies getting published and small null ones going missing is a common way for a meta-analysis to overstate an effect.
+
+## The Catch: A Wide Range
+
+An average tells you what happens across many studies. It doesn't tell you what happens in yours. The authors also report 95% prediction intervals, which estimate where the effect of a new study might land. For self-perception that range runs from -0.34 to 0.99. For general well-being it runs from -0.49 to 1.07.
+
+Put plainly, the typical result is a small benefit, but a new study could plausibly find a null result or a negative one. The studies differ a lot from each other, and the review can't fully explain why.
+
+## Does It Last?
+
+Follow-up periods ranged from 2 days to 2 years, with an average of about 1.8 weeks. That is short. Within it, the picture was mixed:
+
+- Self-perception held steady, 0.33 right after the exercise and 0.31 at follow-up.
+- General well-being slipped from 0.31 to 0.17, though the difference between the two wasn't statistically significant.
+- Psychological barriers actually fell further at follow-up (-0.36) than immediately (-0.16), and that difference was significant (p = .043).
+
+So the most defensible reading is that the stress-buffering effect may build or persist, while the mood lift is smaller later. With only a few long follow-up studies, that is a cautious conclusion, not a settled one.
+
+## Who Benefited
+
+Self-perception effects varied by group. Undergraduates averaged 0.37 and general adults 0.38 (the adult interval was wide, -0.12 to 0.64), while adolescents averaged 0.13. By region, the self-perception effect was 0.66 in Asian samples, 0.25 in American samples, and 0.17 in European samples, though that comparison was only marginally significant (p = .051).
+
+The authors found no significant moderating effect from the type of affirmation, the number of sessions, whether participants were under threat, or the control condition used. That last point is useful: more sessions did not reliably mean bigger effects.
+
+## What This Doesn't Show
+
+**It excluded clinical samples.** The review left out participants with clinical conditions and racial minorities, so it says little about those groups. The authors note this may make their tests more conservative.
+
+**The outcomes are broad.** "General well-being" lumps together different measures, which can hide differences between them.
+
+**Gender wasn't analysed.** Too many studies didn't report it.
+
+**Some moderators overlap.** Longer follow-ups tended to involve multiple sessions, and undergraduate samples tended to use value affirmation, so the review can't cleanly say which factor drives a given result.
+
+**The studies were mostly short.** Two years is the longest follow-up, and the average was under two weeks.
+
+## How to Use It
+
+The evidence supports treating self-affirmation as a small, low-cost tool, not a fix. If you want to try it, keep the expectations modest and the effort light.
+
+- **Pick a value, not a skill.** The exercises in this research are about what matters to you, such as relationships or curiosity. They are not about listing your strengths or repeating a flattering statement.
+- **Write for a few minutes, once, before a stressful moment.** A tough conversation, a performance review, or a difficult exam is where the stress-buffering logic applies.
+- **Don't stack sessions expecting a bigger payoff.** In this review, dosage didn't reliably change the result.
+- **Pair it with action.** A small shift in how threatened you feel is most useful when it makes it easier to do the hard thing. That fits the pattern in our coverage of [self-compassion as motivation](/resources/self-compassion-fuels-motivation-not-self-indulgence-2026), [stress reappraisal](/resources/synergistic-mindsets-stress-reappraisal-2026), and [emotional fitness](/resources/emotional-fitness-growth-mindset-2026).
+
+## Bottom Line
+
+Across 129 tests and 17,748 people, self-affirmation produced small, fairly consistent benefits for self-perception, well-being, and stress-related barriers, with no clear sign of publication bias. The range across studies is wide and the follow-ups are short, so it's worth a few minutes before a hard moment, and not worth building a routine around.
+
+## Sources
+
+- Zhang, Y., Chen, B., Hu, X., and Wang, M., "The Impact of Self-Affirmation Interventions on Well-Being: A Meta-Analysis," American Psychologist, 2025 (accepted July 14, 2025). https://www.apa.org/pubs/journals/releases/amp-amp0001591.pdf
+`,
+    faqs: [
+      { question: "What is a self-affirmation exercise?", answer: "Usually a short writing task where you reflect on a personal value, such as family or creativity, and why it matters to you. The goal is to steady your sense of self before a stressful event." },
+      { question: "How big are the effects?", answer: "Small. The 2025 meta-analysis found pooled effects between g = 0.22 and 0.32 for self-perception, well-being, cognitive performance, and behaviour, and g = -0.22 for psychological barriers like stress." },
+      { question: "Do more sessions work better?", answer: "Not reliably. The authors found no significant moderating effect of dosage, affirmation type, or threat condition." },
+      { question: "Does the benefit last?", answer: "Partly. Self-perception effects held at follow-up, and the reduction in psychological barriers grew. Well-being effects shrank, though not significantly. Follow-ups averaged about 1.8 weeks, so long-term effects are untested." },
+    ],
+  },
+  {
     slug: 'light-touch-mindset-belonging-interventions-null-result-nber-2026',
     title: "Four Experiments, Nearly 12,000 Students: A One-Hour Growth Mindset Module Didn't Move Grades",
     description: "A 2026 NBER working paper tested growth mindset and social belonging modules on 11,908 students at two Canadian universities. Grades, persistence, and graduation barely moved. What the null result does and doesn't tell you.",
