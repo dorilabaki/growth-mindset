@@ -12,6 +12,89 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: 'mental-contrasting-implementation-intentions-meta-analysis-2021',
+    title: "Imagine the Goal, Then the Obstacle: What 24 Studies Say About Mental Contrasting With If-Then Plans",
+    description: "A meta-analysis of 24 studies and 15,907 people found mental contrasting with implementation intentions (MCII) gives a small-to-medium boost to goal attainment. Evidence of publication bias suggests the true effect may be smaller.",
+    category: 'Science',
+    readTime: '7 min read',
+    date: '2026-10-28',
+    content: `
+## The Method in One Paragraph
+
+Most goal advice says to picture success and stay positive. Mental contrasting with implementation intentions, or MCII, adds a step that feels less comfortable. You name a wish, picture the best outcome, then deliberately identify the obstacle inside you that's most likely to stop you. Finally you write an if-then plan for that obstacle: "If [obstacle] happens, then I will [specific action]." Psychologist Gabriele Oettingen's team popularised the four-step version under the name WOOP (wish, outcome, obstacle, plan).
+
+The question is whether it works better than just trying. A 2021 meta-analysis in Frontiers in Psychology pooled the field studies to find out.
+
+## What the Meta-Analysis Covered
+
+The paper is "A Meta-Analysis of the Effects of Mental Contrasting With Implementation Intentions on Goal Attainment" by Guoxia Wang, Y. Wang, and X. Gai, published May 12, 2021. It includes 21 articles reporting 24 independent studies, with 15,907 participants in total. The samples were college students, children, general adults, and adults with physical or psychological illness. The goals were in health, academic, relationship, and personal areas.
+
+Only real-world field interventions with a control group were included. Laboratory-only experiments were left out. The authors searched English and Chinese databases and included unpublished theses and dissertations, which made up about 21% of the studies.
+
+## What They Found
+
+The overall effect was Hedges' g = 0.336, with a 95% confidence interval of 0.229 to 0.443. By the usual rule of thumb (0.2 small, 0.5 medium), that's a small-to-medium effect. In plain terms: people who used MCII did measurably better on their goals than people who didn't, but it's not a transformation.
+
+Results varied a fair amount between studies. The heterogeneity statistic was I-squared = 59.3%, which the authors call medium. That means the true effect likely differs depending on who is using it and how.
+
+One moderator mattered. Delivery format changed the result:
+
+| Delivery format | Effect (Hedges' g) | Studies |
+|---|---|---|
+| Experimenter-led (face to face or small group) | 0.465 | 16 |
+| Document-based (a package completed online, at home, or in class) | 0.277 | 6 |
+
+The difference was statistically significant (p = 0.029). Several other moderators did not show a significant difference: goal domain, age group, published versus unpublished studies, objective versus self-reported outcomes, and expectation of success. With so few studies, the authors note, those comparisons had limited power, so "not significant" doesn't mean "no difference."
+
+## The Part Worth Reading Closely: Publication Bias
+
+The funnel plot was visibly asymmetric, and Egger's test was significant (t = 5.46, p < 0.01). Both are signs that smaller, less flattering studies may be missing from the literature. Rosenthal's fail-safe N was 482, which the authors read as reassuring.
+
+When the authors ran a trim-and-fill correction, which imputes eight likely missing studies, the effect dropped to g = 0.242 (95% CI 0.143 to 0.342). That's still positive and still statistically distinguishable from zero, but it sits in the small range. The authors conclude the main finding is reasonably robust while saying the true effect may be smaller than 0.336.
+
+A fair summary: MCII probably helps, probably by a small amount, and the headline number is likely a bit generous.
+
+## Limits of the Evidence
+
+- Few studies. Some moderator categories rested on a handful of studies, and the relationship-goal category had just one.
+- The large Kizilcec and Cohen (2017) studies accounted for 87.44% of participants and were excluded from the moderator analysis, so the subgroup results describe a much smaller sample.
+- The paper doesn't report a formal risk-of-bias assessment or preregistration.
+- Expectation of success was reported in only nine studies, and most scored above the scale midpoint, so little is known about people with low confidence.
+- The authors did not analyse how long the intervention ran or how often people used it.
+- Few studies came from Eastern or collectivist cultures.
+
+## How to Use It Without Overselling It
+
+The evidence supports a low-cost experiment, not a guarantee. If you want to try it on a goal you keep stalling on:
+
+**Pick one wish you can finish.** "Send three applications by Friday" tests better than "be more successful."
+
+**Name the obstacle that is actually yours.** Not a generic one. "I'll feel tired after work and open my phone instead" is more useful than "lack of time."
+
+**Write one if-then line.** "If I sit down at 7 p.m. and feel the urge to scroll, then I'll open the application draft and write the first paragraph." This is the same mechanism we covered in [if-then plans and their 30-year track record](/resources/if-then-plans-implementation-intentions-30-year-track-record).
+
+**Do it with another person if you can.** The experimenter-led studies showed a larger effect than self-guided packages. That's a correlation across studies, not proof that a coach causes the difference, but a friend asking "what's your obstacle?" costs nothing.
+
+**Review after a week.** Keep the plan if you acted on it. If you didn't, the obstacle was probably misnamed.
+
+This also sits well with what we've found on [procrastination as an emotion problem](/resources/procrastination-emotion-regulation-not-time-management-2026): naming the feeling that triggers avoidance is half of the plan. If your goal is a job search, our sister site How To Find A Job has a practical guide to [reaching hiring managers before a role is posted](https://howtofindajob.org/resources/hidden-job-market-networking-2026), which makes a good first wish to test.
+
+## The Bottom Line
+
+Across 24 studies and 15,907 people, MCII gave a small-to-medium boost to goal attainment (g = 0.336), shrinking to about 0.24 after a correction for likely publication bias. The honest read is that it's a modest, cheap tool. It works through a specific obstacle and a specific action, not through positive thinking.
+
+## Sources
+
+- Wang, G., Wang, Y., and Gai, X., "A Meta-Analysis of the Effects of Mental Contrasting With Implementation Intentions on Goal Attainment," Frontiers in Psychology, 12, 565202, published May 12, 2021. https://www.frontiersin.org/articles/10.3389/fpsyg.2021.565202/full
+`,
+    faqs: [
+      { question: "What does MCII stand for?", answer: "Mental contrasting with implementation intentions. You picture a desired outcome, identify the obstacle that could stop you, then write an if-then plan for that obstacle." },
+      { question: "How big is the effect?", answer: "The meta-analysis reported Hedges' g = 0.336 across 24 studies and 15,907 participants. After a trim-and-fill correction for possible publication bias, it fell to 0.242." },
+      { question: "Is it the same as positive thinking?", answer: "No. The method pairs a positive picture of the outcome with a deliberate look at the obstacle, then a concrete plan. It's not just visualising success." },
+      { question: "Does it work better with a coach?", answer: "Experimenter-led studies had a larger effect (g = 0.465) than document-based ones (g = 0.277). That's a comparison across studies, so it can't prove a coach causes the gap." },
+    ],
+  },
+  {
     slug: 'self-affirmation-meta-analysis-129-tests-what-it-does-2025',
     title: "Self-Affirmation Works, But Modestly: What 129 Tests and 17,748 People Show",
     description: "A 2025 meta-analysis in American Psychologist pooled 129 tests of self-affirmation exercises. Effects on self-perception, well-being and behaviour were real but small, and the range across studies was wide. What to expect before you try one.",
