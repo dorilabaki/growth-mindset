@@ -12,6 +12,89 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: 'gratitude-interventions-meta-analysis-wellbeing-evidence-2023',
+    title: "Does a Gratitude Practice Help? What a Pooled Analysis of 33 Studies Shows, and How Weak the Evidence Is",
+    description: "A 2023 systematic review in Einstein found gratitude interventions improved gratitude, life satisfaction, and mental health scores and lowered anxiety and depression symptoms. Certainty was low to very low, and the authors say the effect is small compared with medication.",
+    category: 'Science',
+    readTime: '7 min read',
+    date: '2026-11-02',
+    content: `
+## The Short Version
+
+Gratitude journaling is one of the most recommended habits in self-improvement. The question is how much of that advice rests on good evidence. A 2023 systematic review and meta-analysis in the journal Einstein (Sao Paulo) pooled the available trials. The results lean positive, but the authors rate the certainty of nearly every finding as low or very low. Both halves of that sentence matter.
+
+## What the Review Covered
+
+The paper is "The effects of gratitude interventions: a systematic review and meta-analysis" by Geyze Diniz, Ligia Korkes, Luca Schiliro Tristao, Rosangela Pelegrini, Patricia Lacerda Bellodi, and Wanderley Marques Bernardo, published July 31, 2023. It was registered in advance on PROSPERO (CRD42021250799).
+
+The team searched MEDLINE, Embase, and the Cochrane Central register, plus Google Scholar and manual searches, between January and July 2022. They included 64 studies in the systematic review and 33 in the meta-analysis. Sample sizes in individual studies ranged from 23 to 1,337 people. The authors note that gratitude interventions and outcome scales vary widely across studies, and they list that as a limitation.
+
+## What They Found
+
+The review reports mean differences, meaning raw score changes on each questionnaire, not standardized effect sizes. That makes the numbers easier to read but harder to compare across outcomes. Each pooled result below compares people who did a gratitude intervention with people who didn't.
+
+| Outcome (scale) | Studies pooled | Difference (95% CI) | Certainty (GRADE) |
+|---|---|---|---|
+| Gratitude (GQ-6 total) | 13 (1,486 people) | +1.54 (0.74 to 2.35) | Very low |
+| Gratitude (1 to 7 numerical scale) | 9 (1,802 people) | +0.40 (0.17 to 0.64) | Very low |
+| Life satisfaction (SWLS) | 2 (283 people) | +0.48 (0.21 to 0.75) | Low |
+| Mental health (MHC-SF) | 3 (483 people) | +0.29 (0.17 to 0.41) | Low |
+| Anxiety (GAD-7) | 3 (579 people) | -1.63 (-2.37 to -0.89) | Low |
+| Depression (PHQ-9) | 3 (525 people) | -1.86 (-2.89 to -0.83) | Low |
+
+In plain terms, people who practiced gratitude scored a little higher on gratitude, life satisfaction, and general mental health, and a little lower on anxiety and depression symptoms. Every confidence interval stays on the positive side of zero.
+
+Some findings were not pooled. Individual studies reported greater optimism, greater appreciation, and lower worry. On sleep, only one measure (the Insomnia Severity Index) showed a difference. The Pittsburgh Sleep Quality Index showed none.
+
+## Why the Certainty Is So Low
+
+The authors assessed bias with the Cochrane RoB 2 tool and report that most studies had a high risk of bias. Their GRADE ratings for every outcome were low or very low.
+
+Several things drive that:
+
+- **Heterogeneity.** The inconsistency statistic (I-squared) ranged from 0% to 81%. The highest, 81%, was for the 1 to 7 gratitude scale. The authors say the differences in methods between studies "may have affected the results and the certainty of the evidence."
+- **No blinding.** People know when they are doing a gratitude exercise, and self-reported mood can shift because they expect it to.
+- **Dropout.** Some studies lost many participants before follow-up, and some analysed only those who completed the program.
+- **Tiny pools.** The anxiety, depression, and mental health results each rest on three studies. Life satisfaction rests on two.
+
+A fair reading: the direction of the evidence is consistent, but the size of the effect is uncertain, and a larger, better-designed trial could change it.
+
+## How Big Is the Effect, Really?
+
+The depression and anxiety numbers are changes of roughly 1.6 to 1.9 points on scales that run from 0 to 21 (GAD-7) and 0 to 27 (PHQ-9). The authors conclude that gratitude interventions can serve as a "therapeutic complement" for anxiety and depression, and they also note the effect is small compared with medication. This review does not show that gratitude practice treats a clinical condition. If you're struggling with persistent low mood or anxiety, a clinician is the right first stop, and a gratitude exercise is an add-on at most.
+
+## What This Means for a Daily Practice
+
+The evidence supports a low-cost experiment, not a promise.
+
+**Keep it short and specific.** The review doesn't test duration or format, so there's no proven "right" dose. Any format you pick is your own experiment, so keep it light enough that you'll actually do it.
+
+**Track one measure.** Pick a simple weekly rating of your mood or stress and look at it after a month. If it hasn't moved, change the practice or drop it.
+
+**Pair it with action.** Appreciation on its own won't carry a goal. Our piece on [if-then plans and their 30-year track record](/resources/if-then-plans-implementation-intentions-30-year-track-record) shows how to turn an intention into a behavior.
+
+**Don't turn it into self-criticism.** If a gratitude list makes you feel guilty for being unhappy, that's a signal to stop, not to try harder. That connects to what we found on [self-compassion as a source of motivation](/resources/self-compassion-fuels-motivation-not-self-indulgence-2026).
+
+**Keep expectations modest.** This sits alongside our coverage of [self-affirmation and what it does modestly](/resources/self-affirmation-meta-analysis-129-tests-what-it-does-2025) and [emotional fitness](/resources/emotional-fitness-growth-mindset-2026): small, cheap psychological tools that help some people a little.
+
+If you lead a team and wonder whether recognition programs follow the same logic, our sister site The Leader's Table looks at the evidence on [recognition and retention](https://theleaderstable.xyz/resources/recognition-retention-lever-2026-gallup-workhuman).
+
+## The Bottom Line
+
+A pooled analysis of 33 studies found that gratitude interventions are associated with higher gratitude, life satisfaction, and mental health scores and with lower anxiety and depression symptoms. But most studies were at high risk of bias, certainty was low or very low, several results rest on two or three studies, and the authors say the effect is small compared with medication. Try it if you like it. Don't expect it to do the work of therapy or medication.
+
+## Sources
+
+- Diniz, G., Korkes, L., Tristao, L. S., Pelegrini, R., Bellodi, P. L., and Bernardo, W. M., "The effects of gratitude interventions: a systematic review and meta-analysis," Einstein (Sao Paulo), 21, eRW0371, July 31, 2023. https://pmc.ncbi.nlm.nih.gov/articles/PMC10393216
+`,
+    faqs: [
+      { question: "Do gratitude interventions improve mental health?", answer: "A 2023 meta-analysis found small improvements in mental health scores and in anxiety and depression symptoms. The authors rate the certainty of the evidence as low or very low, so the true effect is uncertain." },
+      { question: "Can gratitude journaling replace therapy or medication?", answer: "No. The review's authors suggest it can be a complement for anxiety and depression and note the effect is small compared with medication." },
+      { question: "How many studies were in the analysis?", answer: "The systematic review included 64 studies. 33 of them were pooled in the meta-analysis, and each outcome used a smaller subset, as few as two studies." },
+      { question: "Does gratitude practice help sleep?", answer: "Evidence was mixed. Only the Insomnia Severity Index showed a difference in the review. The Pittsburgh Sleep Quality Index showed none." },
+    ],
+  },
+  {
     slug: 'mental-contrasting-implementation-intentions-meta-analysis-2021',
     title: "Imagine the Goal, Then the Obstacle: What 24 Studies Say About Mental Contrasting With If-Then Plans",
     description: "A meta-analysis of 24 studies and 15,907 people found mental contrasting with implementation intentions (MCII) gives a small-to-medium boost to goal attainment. Evidence of publication bias suggests the true effect may be smaller.",
