@@ -12,6 +12,77 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: 'growth-mindset-interventions-achievement-meta-analysis-macnamara-burgoyne-2023',
+    title: "63 Studies, 97,672 Students: What the Most Skeptical Growth Mindset Meta-Analysis Found",
+    description: "A 2023 Psychological Bulletin meta-analysis pooled 63 growth mindset intervention studies and found a tiny average effect on grades that was not significant after correcting for publication bias. Here's what it did and didn't show, and what to do with a belief that may still matter.",
+    category: 'Science',
+    readTime: '7 min read',
+    date: '2026-11-04',
+    content: `
+## The Short Version
+
+Growth mindset interventions are short exercises that teach students that ability can grow with effort and good strategies. They've been sold as a cheap way to lift grades. A 2023 systematic review and meta-analysis in Psychological Bulletin, by Brooke Macnamara and Alexander Burgoyne, pooled the evidence and reached a blunt conclusion: the apparent effects on academic achievement are likely attributable to inadequate study design, reporting flaws, and bias.
+
+That is the most skeptical of the large reviews, and it deserves a careful read, because it's easy to overstate in either direction.
+
+## What the Review Covered
+
+The paper is titled "Do growth mindset interventions impact students' academic achievement? A systematic review and meta-analysis with recommendations for best practices," published in Psychological Bulletin, volume 149, issues 3 and 4, pages 133 to 173 (DOI 10.1037/bul0000352).
+
+According to the abstract, the review included 63 studies with 97,672 participants in total. It then looked at two stricter subsets. The first was studies where the intervention actually changed students' mindsets as intended: 13 studies with 18,355 participants. The second was the highest-quality studies: 6 studies with 13,571 participants.
+
+That structure is the useful part. If an intervention works because it changes beliefs, the studies where beliefs changed should show the strongest results. And if the effect is real, the best-designed studies should show it clearly.
+
+## What They Found
+
+The abstract reports average standardized effect sizes (Cohen's d, where 0.2 is conventionally "small") for each group of studies.
+
+| Group of studies | Studies | Participants | Average effect (d) | 95% confidence interval |
+|---|---|---|---|---|
+| All studies | 63 | 97,672 | 0.05 | 0.02 to 0.09 |
+| Mindset changed as intended | 13 | 18,355 | 0.04 | -0.01 to 0.10 |
+| Highest-quality studies | 6 | 13,571 | 0.02 | -0.06 to 0.10 |
+
+Three things stand out. First, even the all-studies average is tiny. A d of 0.05 is a fraction of what's usually considered a small effect. Second, the abstract says that figure was nonsignificant after correcting for potential publication bias, meaning that once the analysis accounts for the tendency of positive results to get published more often, the effect can't be distinguished from zero. Third, in the two stricter subsets, the confidence intervals include zero.
+
+The authors also report that no theoretically meaningful moderators were significant, so they didn't find a clean subgroup where the effect reliably appears. And they report that researchers with a financial incentive to report positive findings published significantly larger effects than researchers without one.
+
+## How to Read This Without Overreaching
+
+**It's about academic achievement.** The review asks whether short interventions change grades and similar measures. It isn't a verdict on whether believing you can improve matters in your own life, and it doesn't test long-term coaching or practice-based programs.
+
+**"Not significant" isn't "proven zero."** The confidence interval for the highest-quality studies runs from -0.06 to 0.10. That rules out large effects, but it leaves room for a very small positive one. The honest summary is that any effect is small enough that the available studies can't reliably detect it.
+
+**Other reviews read the same field more favorably.** This site has covered a larger meta-analysis by Burnette and colleagues that found small positive effects in some groups, and the debate between the two is real. We don't restate those numbers here because this article rests only on the Macnamara and Burgoyne abstract. Our piece on [a four-experiment test of mindset and belonging modules with nearly 12,000 students](/resources/light-touch-mindset-belonging-interventions-null-result-nber-2026) is a more recent large test, and it also found no detectable lift in grades.
+
+## What To Do With This
+
+**Be skeptical of one-hour fixes.** If a program promises that a short module will raise performance, ask for independent, preregistered evidence. The review's own finding about financial incentives is a reason to check who ran the study.
+
+**Keep the belief, change the method.** Nothing here says effort and strategy don't matter. It says a short message about them doesn't reliably move grades. Pair the idea with a specific skill, a practice schedule, and feedback. Our write-up of [if-then plans and their 30-year track record](/resources/if-then-plans-implementation-intentions-30-year-track-record) shows a behavior-first approach with much stronger evidence behind it.
+
+**Keep expectations modest everywhere.** The same pattern shows up across self-improvement research: small, cheap tools help some people a little. We saw it in [self-affirmation](/resources/self-affirmation-meta-analysis-129-tests-what-it-does-2025) and in [gratitude practices](/resources/gratitude-interventions-meta-analysis-wellbeing-evidence-2023).
+
+## What This Doesn't Show
+
+The abstract doesn't report results for specific populations such as lower-income or lower-achieving students, so this article makes no claim about them. It also says nothing about outcomes beyond academic achievement, and we haven't read the full paper's methods in detail, only the abstract and bibliographic record. A meta-analysis is only as good as the studies in it, and the authors' own complaint is that many of those studies had major shortcomings in design, analysis, and reporting.
+
+## Bottom Line
+
+Across 63 studies and 97,672 students, growth mindset interventions showed an average effect on achievement of d = 0.05, which the authors found nonsignificant after correcting for publication bias, and the best-designed studies showed d = 0.02. The belief that ability grows can still be a useful frame for you. Just don't expect a short exercise to do the work that practice and feedback do.
+
+## Sources
+
+- Macnamara, B. N., and Burgoyne, A. P., "Do growth mindset interventions impact students' academic achievement? A systematic review and meta-analysis with recommendations for best practices," Psychological Bulletin, 149(3-4), 133-173 (2023). DOI 10.1037/bul0000352. PubMed record: https://pubmed.ncbi.nlm.nih.gov/36326645/
+`,
+    faqs: [
+      { question: "Does this meta-analysis prove growth mindset is a myth?", answer: "No. It found that short interventions had a very small average effect on academic achievement, not significant after correcting for publication bias. It doesn't test whether believing ability can grow is useful in other ways, and other reviews read the field somewhat more favorably." },
+      { question: "How many studies and students were included?", answer: "63 studies with 97,672 participants overall. A subset of 13 studies (18,355 participants) confirmed that mindsets actually changed, and 6 studies (13,571 participants) were rated highest quality." },
+      { question: "What was the average effect?", answer: "d = 0.05 across all studies, 0.04 in the studies where mindset changed as intended, and 0.02 in the highest-quality studies. The last two had confidence intervals that included zero." },
+      { question: "What should I do instead of relying on a mindset exercise?", answer: "Pair the belief with behavior: define the skill, practice it on a schedule, and get feedback you act on." },
+    ],
+  },
+  {
     slug: 'gratitude-interventions-meta-analysis-wellbeing-evidence-2023',
     title: "Does a Gratitude Practice Help? What a Pooled Analysis of 33 Studies Shows, and How Weak the Evidence Is",
     description: "A 2023 systematic review in Einstein found gratitude interventions improved gratitude, life satisfaction, and mental health scores and lowered anxiety and depression symptoms. Certainty was low to very low, and the authors say the effect is small compared with medication.",
